@@ -13,8 +13,7 @@ import {
   RelatedProducts,
 } from "@/components/site/product-detail-client";
 import { routing, type Locale } from "@/i18n/routing";
-
-const SITE_URL = "https://heco.app";
+import { SITE_URL } from "@/lib/site-config";
 
 type Params = { params: Promise<{ locale: string; slug: string }> };
 

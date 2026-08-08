@@ -132,9 +132,9 @@ export function Footer() {
 
           {/* Products column - uses Products.items.<slug>.name */}
           <nav aria-label={t("columns.products")} className="flex flex-col">
-            <h4 className="font-display text-sm font-bold text-foreground">
+            <h3 className="font-display text-sm font-bold text-foreground">
               {t("columns.products")}
-            </h4>
+            </h3>
             <ul className="mt-4 space-y-2.5">
               {FOOTER_LINKS.products.map((link) => {
                 const slug = link.label;
@@ -222,7 +222,7 @@ function FooterLinkColumn({
 }) {
   return (
     <nav aria-label={title} className="flex flex-col">
-      <h4 className="font-display text-sm font-bold text-foreground">{title}</h4>
+      <h3 className="font-display text-sm font-bold text-foreground">{title}</h3>
       <ul className="mt-4 space-y-2.5">
         {links.map((link) => (
           <li key={link.label}>

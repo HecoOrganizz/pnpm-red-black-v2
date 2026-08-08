@@ -1,8 +1,8 @@
 import type { MetadataRoute } from "next";
 import { PRODUCTS } from "@/data/products";
 import { routing } from "@/i18n/routing";
+import { SITE_URL } from "@/lib/site-config";
 
-const SITE_URL = "https://heco.app";
 const LAST_MEANINGFUL_UPDATE = new Date("2026-08-08T00:00:00+07:00");
 
 function localizedAlternates(path = ""): Record<string, string> {

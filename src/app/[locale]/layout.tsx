@@ -4,6 +4,7 @@ import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing, type Locale } from "@/i18n/routing";
+import { SITE_URL } from "@/lib/site-config";
 import "../globals.css";
 
 const inter = Inter({
@@ -21,7 +22,6 @@ const plusJakarta = Plus_Jakarta_Sans({
   preload: true,
 });
 
-const SITE_URL = "https://heco.app";
 
 const OG_LOCALES: Record<Locale, string> = {
   en: "en_US",
