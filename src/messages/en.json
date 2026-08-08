@@ -1,0 +1,653 @@
+{
+  "Header": {
+    "nav": {
+      "products": "Products",
+      "features": "Features",
+      "reviews": "Reviews",
+      "pricing": "Pricing",
+      "faq": "FAQ"
+    },
+    "cta": {
+      "explore": "Explore",
+      "download": "Download free"
+    },
+    "mobileNav": "Mobile navigation",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu"
+  },
+  "Hero": {
+    "badge": "Version 2026 just released",
+    "title": "Optimize your PC,",
+    "titleHighlight": "protect your data,",
+    "titleEnd": "accelerate your work.",
+    "subtitle": "Heco is an all-in-one personal utility suite: junk cleanup, driver updates, privacy protection, password management, and data backup.",
+    "subtitleHighlight": "Faster, safer, free to download.",
+    "trust": {
+      "free": "Free forever",
+      "noAds": "No ads, no spyware",
+      "users": "25M+ users"
+    },
+    "cta": {
+      "download": "Download free",
+      "viewProducts": "View all products"
+    },
+    "compat": "Compatible with Windows 11/10/8/7 · 32-bit & 64-bit · Only 18 MB",
+    "stats": {
+      "downloads": "Downloads",
+      "rating": "Avg rating",
+      "countries": "Countries",
+      "uptime": "Uptime"
+    },
+    "dashboard": {
+      "title": "Heco Cleaner — Scanning system",
+      "score": "Good",
+      "healthTitle": "System health: Good",
+      "healthDesc": "Found 1.2 GB of junk files that can be cleaned.",
+      "healthIssues": "12 minor issues to optimize.",
+      "categories": {
+        "systemJunk": "System junk files",
+        "browserCache": "Browser cache",
+        "registryErrors": "Registry errors",
+        "outdatedApps": "Outdated software"
+      },
+      "boost": "Can boost performance by 34% after cleanup.",
+      "floatingTitle": "Privacy protected",
+      "floatingDesc": "5 threats blocked"
+    }
+  },
+  "TrustStrip": {
+    "label": "Heco featured on"
+  },
+  "Products": {
+    "badge": "Heco Product Suite",
+    "title": "One brand.",
+    "titleHighlight": "Six top-tier tools.",
+    "subtitle": "Each Heco product is designed to solve a specific computer optimization problem. Install individually as needed or download the full suite for a complete experience — all free.",
+    "cta": "Want the full bundle? Get Heco All-in-One Suite.",
+    "ctaButton": "Download suite — only 64 MB",
+    "card": {
+      "downloadFree": "Download free",
+      "free": "Free",
+      "viewDetail": "View details"
+    },
+    "items": {
+      "cleaner": {
+        "name": "Heco Cleaner",
+        "tagline": "Cleanup & system optimization",
+        "description": "Scan and remove junk files, registry errors, and browser cache in one click. Free up gigabytes of space and speed up your computer instantly.",
+        "features": ["1-click deep scan", "Safe registry cleanup", "Startup booster"],
+        "badge": "Most popular"
+      },
+      "driver": {
+        "name": "Heco Driver",
+        "tagline": "Automatic driver updates",
+        "description": "Automatically detect outdated drivers and update from a database of over 5 million official drivers. Fix device issues, boost game and graphics performance.",
+        "features": ["5M+ official drivers", "Pre-update backup", "Scheduled automation"]
+      },
+      "privacy": {
+        "name": "Heco Privacy",
+        "tagline": "Privacy protection",
+        "description": "Erase browsing history, block trackers, encrypt personal files, and prevent spyware. Your data, your control.",
+        "features": ["Block trackers & cookies", "AES-256 file encryption", "Secure permanent erasure"],
+        "badge": "New"
+      },
+      "password": {
+        "name": "Heco Password",
+        "tagline": "Secure password manager",
+        "description": "Store passwords in a zero-knowledge encrypted vault. Auto-fill logins, generate strong passwords, and sync safely across devices.",
+        "features": ["Zero-knowledge encryption", "Smart auto-fill", "Cross-device sync"]
+      },
+      "backup": {
+        "name": "Heco Backup",
+        "tagline": "Backup & restore data",
+        "description": "Automatically back up files, folders, and entire systems to the cloud or external drives. Restore quickly in minutes when disaster strikes.",
+        "features": ["Scheduled backups", "Cloud sync", "1-click restore"]
+      },
+      "uninstaller": {
+        "name": "Heco Uninstaller",
+        "tagline": "Complete uninstaller",
+        "description": "Remove stubborn software along with all leftover files, registry entries, and shortcuts. Batch uninstall and force uninstall supported.",
+        "features": ["100% thorough removal", "Batch uninstall", "Force uninstall"]
+      }
+    }
+  },
+  "Features": {
+    "badge": "Why choose Heco",
+    "title": "Comprehensive optimization,",
+    "titleHighlight": "absolute safety",
+    "titleEnd": ".",
+    "subtitle": "Heco isn't just software — we build a trusted utility ecosystem. Every feature is optimized for performance, security, and user experience.",
+    "items": {
+      "speed": {
+        "title": "PC speed optimization",
+        "description": "Boost startup, free up RAM and CPU. Heco optimizes 50+ system parameters so your computer runs smooth as the day you bought it."
+      },
+      "privacy": {
+        "title": "Privacy protection",
+        "description": "Block trackers, erase browsing history, encrypt sensitive files. Heco complies with GDPR and never sells user data to third parties."
+      },
+      "security": {
+        "title": "Bank-grade security",
+        "description": "AES-256 encryption for all data, two-factor authentication for Heco accounts. We passed the Ernst & Young security audit in 2025."
+      },
+      "lightweight": {
+        "title": "Ultra-fast, ultra-light",
+        "description": "Installs in under 30 seconds, scans in as little as 8 seconds. Heco uses less than 1% CPU when running in the background."
+      },
+      "autoupdate": {
+        "title": "Automatic updates",
+        "description": "Automatically check and update drivers and software silently in the background. You always have the latest version without manual intervention."
+      },
+      "cloud": {
+        "title": "Cloud sync",
+        "description": "Sync settings, history, and backups across Windows devices. Sign in to Heco Account and everything is ready in seconds."
+      },
+      "i18n": {
+        "title": "Multi-language support",
+        "description": "Heco interface available in 24 languages, including English, Vietnamese, Chinese, Japanese, French, German. Auto-detects system language."
+      },
+      "support": {
+        "title": "24/7 support",
+        "description": "Our customer care team is available 24/7 via live chat, email, and phone. Average response time under 2 hours."
+      }
+    }
+  },
+  "Reviews": {
+    "badge": "Community reviews",
+    "title": "25 million users",
+    "titleHighlight": "trust Heco.",
+    "subtitle": "We're proud to be loved by users in Vietnam and around the world. Here are some real reviews from Heco customers.",
+    "items": {
+      "r1": {
+        "name": "Minh Tran",
+        "role": "Freelance Designer · Hanoi",
+        "text": "After using Heco Cleaner, my computer boots much faster, from 45 seconds down to 18 seconds. Clear Vietnamese interface, easy to use, no annoying ads. Recommended!"
+      },
+      "r2": {
+        "name": "Lan Pham",
+        "role": "Chief Accountant · Ho Chi Minh City",
+        "text": "Heco Password has saved me many times. I used to keep passwords in a notebook, now everything is AES-256 encrypted and auto-fills when needed. Feel much safer working with client data."
+      },
+      "r3": {
+        "name": "Hoang Nguyen",
+        "role": "IT Student · Da Nang",
+        "text": "I downloaded Heco Driver to fix graphics card issues while gaming. Auto-updated drivers in just 2 minutes, games run smooth without lag. Free but better quality than many paid software."
+      },
+      "r4": {
+        "name": "Mai Le",
+        "role": "Marketing Lead · Binh Duong",
+        "text": "Heco Privacy blocks trackers very effectively. I browse daily and noticed a clear reduction in targeted ads. The permanent file deletion feature is also very useful for work."
+      },
+      "r5": {
+        "name": "Duc Anh Vu",
+        "role": "IT Manager · Hai Phong",
+        "text": "Deployed Heco across 50 company computers. Centralized dashboard management, automatic updates, no manual intervention needed. Saves our IT team huge time vs using separate tools."
+      },
+      "r6": {
+        "name": "Huong Nguyen",
+        "role": "Teacher · Can Tho",
+        "text": "I'm not tech-savvy but Heco is very easy to use. Just one click and cleanup is done. Automatic cloud backup means I no longer fear losing lecture materials. Thanks Heco team!"
+      }
+    },
+    "awards": {
+      "softpedia": "100% Clean",
+      "cnet": "Editor's Choice",
+      "chipvn": "Top 10 Utility",
+      "tinhte": "Best Software 2025",
+      "msstore": "Verified Publisher"
+    }
+  },
+  "Pricing": {
+    "badge": "Heco pricing",
+    "title": "Start free.",
+    "titleHighlight": "Upgrade when needed.",
+    "subtitle": "No hidden costs, no auto-renewal. Use Heco Free forever or upgrade to Pro/Business to unlock full power.",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Full basic features for personal home use.",
+        "features": ["All 6 Heco products", "Manual scan & cleanup", "5 driver updates/month", "1 GB cloud backup", "Community support"],
+        "cta": "Download free"
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "For users who want deep optimization and full protection.",
+        "features": ["Everything in Free, plus:", "Scheduled auto-scan", "Unlimited driver updates", "100 GB cloud backup", "AES-256 file encryption", "Priority 24/7 support"],
+        "cta": "Upgrade to Pro"
+      },
+      "business": {
+        "name": "Business",
+        "description": "Deployment management for teams and enterprises.",
+        "features": ["Everything in Pro, plus:", "Centralized dashboard", "Batch deployment (MSI)", "ITSM API integration", "1 TB cloud backup/team", "Dedicated account manager", "99.9% uptime SLA"],
+        "cta": "Contact sales"
+      }
+    },
+    "popular": "Most popular",
+    "footnote": "Prices include VAT · One-time payment · 30-day unconditional money-back guarantee",
+    "prices": {
+      "free": "$0",
+      "pro": "$8.99",
+      "business": "Contact us"
+    },
+    "periods": {
+      "free": "/forever",
+      "pro": "/year",
+      "business": ""
+    }
+  },
+  "FAQ": {
+    "badge": "Frequently asked questions",
+    "title": "Need",
+    "titleHighlight": "more support",
+    "titleEnd": "?",
+    "subtitle": "These are the most common questions from Heco users. If you can't find the answer you need, our support team is always ready to help.",
+    "items": {
+      "q1": {
+        "q": "Is Heco free?",
+        "a": "Yes. All 6 Heco products (Cleaner, Driver, Privacy, Password, Backup, Uninstaller) have a free version with full basic features, usable forever. The Pro version extends advanced features like scheduled auto-scan, unlimited driver updates, and large cloud backup capacity at a reasonable price of $8.99/year."
+      },
+      "q2": {
+        "q": "Is Heco software safe? Does it contain viruses or spyware?",
+        "a": "Absolutely safe. All Heco products are digitally signed with Microsoft Authenticode certificates, scanned for malware by VirusTotal before each release, and comply with GDPR security standards. We also passed the Ernst & Young security audit in 2025. Heco never collects personal data without your explicit consent."
+      },
+      "q3": {
+        "q": "Which operating systems does Heco support? What are the requirements?",
+        "a": "Heco supports Windows 11, Windows 10, Windows 8.1, Windows 8, and Windows 7 (both 32-bit and 64-bit). Requires minimum 1GB RAM, 200MB free disk space, and Internet connection for driver updates. We're also developing a macOS version, expected to launch in Q2 2027."
+      },
+      "q4": {
+        "q": "How do I uninstall Heco software if I no longer want it?",
+        "a": "Simply go to Control Panel → Programs and Features (or Settings → Apps on Windows 10/11), select the Heco product you want to remove, and click Uninstall. The uninstall process takes less than 30 seconds, leaving no junk files, registry entries, or hidden services. You can also use Heco Uninstaller to thoroughly remove other Heco products."
+      },
+      "q5": {
+        "q": "Can I use Heco on multiple computers?",
+        "a": "The Free version has no computer limit. The Pro version allows activation on up to 3 devices simultaneously with one license key. The Business version can be deployed unlimited within an organization. You can manage and deactivate devices anytime in your Heco Account."
+      },
+      "q6": {
+        "q": "Does Heco support my language? Who do I contact for issues?",
+        "a": "Yes, Heco supports full interface in 24 languages including English, Vietnamese, Chinese, Japanese, French, German. If you encounter any issues, our global support team is available 24/7 via in-app live chat, email support@heco.app, or hotline. Average response time under 2 hours during business hours."
+      },
+      "q7": {
+        "q": "Does the Pro version auto-renew? Can I cancel anytime?",
+        "a": "No, Heco never auto-renews and doesn't store your credit card. When the Pro license expires, your account automatically switches to Free and you can continue using basic features. You're completely in control of whether to renew. We offer a 30-day unconditional money-back guarantee if you're not satisfied."
+      },
+      "q8": {
+        "q": "Where is the safest place to download Heco?",
+        "a": "Only download Heco from the official website heco.app, Microsoft Store, or official distribution partners listed on the download page. Avoid downloading from unfamiliar websites as they may bundle malware. Each official installer has a Microsoft Authenticode digital signature, which you can verify by right-clicking the file → Properties → Digital Signatures."
+      }
+    },
+    "contactTitle": "Still haven't found the answer?",
+    "contactDesc": "Heco's global support team is available 24/7 to help you.",
+    "contactButton": "Contact support"
+  },
+  "DownloadCTA": {
+    "badge": "Free download · No credit card required",
+    "title": "Start optimizing your computer today.",
+    "subtitle": "Download the full Heco Suite at just 64 MB. Install in 30 seconds, use immediately, no registration required. Experience the difference.",
+    "cta": {
+      "windows": "Download for Windows",
+      "viewProducts": "View individual products"
+    },
+    "trust": {
+      "free": "100% free",
+      "noSpyware": "No spyware",
+      "fast": "30-second install",
+      "compat": "Windows 11/10/8/7"
+    },
+    "meta": "Version 2026.8.1 · Released 07/08/2026 · Size 64 MB · 32-bit & 64-bit supported"
+  },
+  "Footer": {
+    "brandDesc": "Heco develops Vietnam's leading personal utility software suite, helping millions of users optimize and protect their computers every day.",
+    "company": "Heco Vietnam Co., Ltd.",
+    "address": "Floor 12, Sun Square Building, Hanoi",
+    "phone": "1900-xxxx",
+    "columns": {
+      "products": "Products",
+      "company": "Company",
+      "resources": "Resources",
+      "legal": "Legal"
+    },
+    "links": {
+      "about": "About us",
+      "careers": "Careers",
+      "press": "Press",
+      "partners": "Partners",
+      "contact": "Contact",
+      "support": "Support center",
+      "guides": "User guides",
+      "blog": "Tips blog",
+      "driverCheck": "Driver check",
+      "forum": "Community forum",
+      "terms": "Terms of service",
+      "privacy": "Privacy policy",
+      "cookie": "Cookie policy",
+      "license": "Software license",
+      "security": "Security report"
+    },
+    "trustBadges": {
+      "authenticode": "Microsoft Authenticode signed",
+      "gdpr": "GDPR compliant",
+      "audit": "Ernst & Young audit 2025",
+      "iso": "ISO 27001:2022"
+    },
+    "copyright": "© 2021–2026 Heco. All rights reserved by Heco Vietnam Co., Ltd. Registered business in Vietnam.",
+    "madeWith": "Made with"
+  },
+  "ProductDetail": {
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products"
+    },
+    "overview": "Overview",
+    "stats": {
+      "rating": "Rating",
+      "downloads": "Downloads",
+      "size": "Size",
+      "license": "License",
+      "version": "Version",
+      "updated": "Updated"
+    },
+    "intro": "Introduction",
+    "whyTitle": "Why choose {name}?",
+    "howBadge": "How it works",
+    "howTitle": "3 simple steps",
+    "howSubtitle": "{name} is designed so anyone can use it — no technical knowledge required.",
+    "featuresBadge": "Key features",
+    "featuresTitle": "Everything you need, packed in 1 app",
+    "featuresSubtitle": "Discover 6 core features that make {name} the top choice for millions of users.",
+    "reqBadge": "System requirements",
+    "reqTitle": "Wide compatibility",
+    "reqSubtitle": "{name} runs smoothly on every Windows version from 7 to 11, with very light minimum requirements — suitable for computers 5+ years old.",
+    "req": {
+      "os": "Operating system",
+      "cpu": "CPU",
+      "ram": "RAM",
+      "disk": "Disk space",
+      "internet": "Internet"
+    },
+    "faqBadge": "FAQ",
+    "faqTitle": "Questions about {name}",
+    "faqSubtitle": "Most common questions about using {name}. If you need more info, our support team is always ready.",
+    "downloadBadge": "Free download · No credit card required",
+    "downloadTitle": "Get {name} today",
+    "downloadSubtitle": "Free forever, no registration, no ads. Install in 30 seconds and experience the difference.",
+    "downloadWindows": "Download for Windows",
+    "viewOther": "View other products",
+    "backToList": "Back to product list",
+    "relatedBadge": "Explore more",
+    "relatedTitle": "Other Heco products",
+    "relatedSubtitle": "Combine Heco products for a comprehensive optimization experience for your computer.",
+    "free": "Free",
+    "quickFeatures": "Key highlights",
+    "licenseFree": "Free",
+    "viewDetail": "View details",
+    "notFound": "Product not found",
+    "back": "Back to home",
+    "longDesc": {
+      "cleaner": "Heco Cleaner is an all-in-one PC cleanup tool trusted by 12 million users. With a deep scan algorithm developed specifically for Windows, Heco Cleaner can detect over 50 different types of junk files — from browser cache and temporary system files to registry errors accumulated over years of use. Beyond cleaning, the software also optimizes startup, manages background services, and schedules automatic maintenance to keep your computer in peak condition.",
+      "driver": "Heco Driver is a comprehensive driver management solution for Windows. With a database of over 5 million official drivers from manufacturers like NVIDIA, AMD, Intel, Realtek, and Broadcom, Heco Driver ensures you always have the latest and most compatible driver version. The software not only updates drivers but also creates restore points before each update, backs up current drivers for rollback when needed, and automatically checks for updates weekly. Especially useful for gamers who need graphics driver updates to boost FPS and fix stuttering.",
+      "privacy": "Heco Privacy is a comprehensive privacy protection toolkit for Windows. In an era where personal data has become a commodity, Heco Privacy lets you control exactly what information is shared and what stays private. The software blocks over 10,000 trackers and fingerprinting scripts from popular websites, encrypts sensitive files with AES-256 (the same standard used by banks and military), permanently deletes sensitive files so they cannot be recovered by any recovery software, and monitors application access permissions. Especially useful for users concerned about data safety.",
+      "password": "Heco Password is a next-generation password manager with zero-knowledge architecture. Unlike traditional password managers, Heco Password never stores your passwords on servers — all data is encrypted on your device before syncing to the cloud. Even Heco cannot see your passwords. The software supports smart auto-fill logins across all browsers, generates strong random passwords following NIST standards, syncs safely between Windows, macOS, iOS, and Android, and integrates built-in two-factor authentication (2FA) for additional protection of important accounts.",
+      "backup": "Heco Backup is a comprehensive backup solution that ensures you never have to worry about losing important data. Whether it's work documents, family photos, or the entire operating system, Heco Backup can safely back up to encrypted cloud, external drives, NAS, or network drives. The software supports scheduled backups (daily, weekly, monthly), incremental backups to save space and time, and stores multiple historical versions so you can restore to any point in the past. When disaster strikes, the 1-click restore feature helps you recover data in minutes rather than hours.",
+      "uninstaller": "Heco Uninstaller is the most thorough software uninstaller for Windows. When you uninstall apps through the default Control Panel, a lot of junk files are often left behind in AppData, ProgramData, registry, temporary files, and shortcuts. Heco Uninstaller deep scans the entire system to find and completely remove every trace of an application. Especially useful for stubborn apps that can't be removed through Control Panel (force uninstall), software bundled with adware/bloatware, and when you want to clean your PC before reinstalling Windows. Supports batch uninstall of multiple apps at once to save time."
+    },
+    "detailedFeatures": {
+      "cleaner": {
+        "df1": { "title": "Ultra-fast scan", "description": "Multi-threaded parallel algorithm scans the entire system in under 10 seconds, 3x faster than similar software." },
+        "df2": { "title": "Absolute safety", "description": "Whitelist of 10,000+ critical system files, ensuring we never delete files essential for Windows operation." },
+        "df3": { "title": "Auto scheduling", "description": "Automatic cleanup on daily, weekly, or monthly schedules. Runs silently in background without disrupting work." },
+        "df4": { "title": "Deep registry scan", "description": "Detects and fixes 50+ common registry errors that slow down PCs, crash apps, cause BSODs and Windows Update failures." },
+        "df5": { "title": "Preview before delete", "description": "View detailed list of files and items to be deleted before confirming. Full control to keep what matters." },
+        "df6": { "title": "30-day undo", "description": "All cleanup actions are saved in History. Restore deleted files anytime within 30 days." }
+      },
+      "driver": {
+        "df1": { "title": "5M+ official drivers", "description": "Massive driver database from NVIDIA, AMD, Intel, Realtek, Broadcom and 500+ other OEMs, updated daily." },
+        "df2": { "title": "Auto update", "description": "Automatically checks for new drivers weekly. Enable Auto-Update for silent background installation." },
+        "df3": { "title": "Pre-update backup", "description": "Automatically creates restore point and backs up current drivers. Rollback to previous version in one click." },
+        "df4": { "title": "Smart scheduling", "description": "Schedule driver checks weekly/monthly. Run outside business hours to avoid disrupting work." },
+        "df5": { "title": "Performance boost", "description": "Graphics driver updates boost game FPS by 15-30%, fix stuttering and optimize for professional graphics software." },
+        "df6": { "title": "Fix device errors", "description": "Resolve device not recognized, USB connection issues, audio crackling, printer errors, Bluetooth disconnections." }
+      },
+      "privacy": {
+        "df1": { "title": "Block trackers", "description": "Block 10,000+ trackers and fingerprinting scripts from Facebook, Google, Amazon and other major ad networks." },
+        "df2": { "title": "AES-256 encryption", "description": "Encrypt sensitive files and folders with AES-256 — the same standard used by banks and military." },
+        "df3": { "title": "Permanent deletion", "description": "Irrecoverable file deletion per DoD 5220.22-M standard, overwriting random data multiple times." },
+        "df4": { "title": "Anonymous browsing", "description": "Hide IP, erase online traces, anti-browser fingerprinting. Browse without leaving a trail." },
+        "df5": { "title": "Breach alerts", "description": "Integrated with Have I Been Pwned database — alerts if your email or password appears in data breaches." },
+        "df6": { "title": "Cookie control", "description": "Control cookies per website. Whitelist sites needing login, auto-delete third-party tracking cookies." }
+      },
+      "password": {
+        "df1": { "title": "Zero-knowledge", "description": "Heco never knows your passwords. Data encrypted on device before syncing — server stores only ciphertext." },
+        "df2": { "title": "Strong password generator", "description": "NIST-compliant Password Generator, supports random passwords and passphrases. Customize length, characters, exclude ambiguous chars." },
+        "df3": { "title": "Auto-fill", "description": "Browser extension auto-fills logins in one click. Smart form detection, supports multi-step login." },
+        "df4": { "title": "Cross-device sync", "description": "Secure sync between Windows, macOS, iOS, Android via end-to-end encrypted cloud. Offline-first, syncs when online." },
+        "df5": { "title": "Built-in 2FA", "description": "Integrated TOTP two-factor authentication like Google Authenticator. Generates 6-digit codes for 2FA accounts in-app." },
+        "df6": { "title": "Leak alerts", "description": "Auto-checks passwords against Have I Been Pwned database. Notifies if any password is leaked in data breaches." }
+      },
+      "backup": {
+        "df1": { "title": "Automatic backup", "description": "Schedule daily, weekly, monthly backups. Runs silently in background without disrupting work." },
+        "df2": { "title": "Secure cloud", "description": "Backup to Heco cloud with AES-256 end-to-end encryption. Servers in Vietnam, compliant with Decree 13/2023/NĐ-CP." },
+        "df3": { "title": "Version history", "description": "Store multiple file versions — restore to any point within 30 days (Free) or 1 year (Pro)." },
+        "df4": { "title": "1-click restore", "description": "Select version to restore, click Restore. Files return to original location in minutes, no complex operations." },
+        "df5": { "title": "System backup", "description": "Create system image including entire OS, apps, settings, drivers. Restore Windows to exact state when needed." },
+        "df6": { "title": "End-to-end encryption", "description": "Data encrypted on device before uploading to cloud. Even Heco cannot view your files." }
+      },
+      "uninstaller": {
+        "df1": { "title": "Thorough removal", "description": "Deep scan of AppData, ProgramData, registry, temp files to remove every trace of applications." },
+        "df2": { "title": "Batch uninstall", "description": "Select multiple apps and uninstall together. Especially useful for cleaning new PCs with OEM bloatware." },
+        "df3": { "title": "Force uninstall", "description": "Force remove stubborn apps that Control Panel can't — broken uninstallers, apps without uninstallers." },
+        "df4": { "title": "Install monitor", "description": "Track system changes when installing new apps. Ensures 100% trace removal when uninstalling later." },
+        "df5": { "title": "Remove Windows updates", "description": "Remove problematic Windows updates, rollback to stable version. Supports both Windows Update and Driver Update." },
+        "df6": { "title": "Pre-uninstall backup", "description": "Auto-creates restore point and registry backup before each uninstall. Easy rollback if issues occur." }
+      }
+    },
+    "faqs": {
+      "cleaner": {
+        "q1": "Is Heco Cleaner safe for personal data?",
+        "a1": "Yes. Heco Cleaner only deletes system junk files and cache identified as safe. All personal files (documents, photos, videos) in Documents, Pictures, Downloads folders are protected. Plus, the Preview feature lets you see exactly which files will be deleted before confirming.",
+        "q2": "How long does a full system scan take?",
+        "a2": "Scan time depends on disk size and CPU speed. On average, a computer with 256GB SSD takes about 8-15 seconds for a full scan. With 1TB HDD it may take 30-60 seconds. You can continue using the computer during scanning.",
+        "q3": "Can I undo after cleaning?",
+        "a3": "Yes. Heco Cleaner automatically creates a restore point before each cleanup. You can undo all actions within 30 days via the History feature. Deleted files are compressed and stored in Heco's Recycle Bin, separate from Windows Recycle Bin.",
+        "q4": "How often should I clean?",
+        "a4": "We recommend weekly Quick Scan and monthly Deep Scan. Heco Cleaner Pro can auto-schedule — e.g., Quick Scan every Friday, Deep Scan on the 1st of each month — so you don't need to remember manually."
+      },
+      "driver": {
+        "q1": "Are Heco drivers official?",
+        "a1": "Yes. All drivers in Heco's database are downloaded directly from manufacturer official servers (NVIDIA, AMD, Intel, Realtek, etc.) and are Microsoft WHQL digitally signed. We never distribute modified or beta drivers.",
+        "q2": "Is updating drivers dangerous?",
+        "a2": "Heco Driver always creates a system restore point and backs up old drivers before each update. If a new driver causes issues, you can rollback to the previous version in one click. Update success rate is 99.7%.",
+        "q3": "Does Heco Driver support laptops?",
+        "a3": "Yes, especially good for laptops. Many laptops (Dell, HP, Lenovo, Asus, Acer) have customized OEM drivers different from public drivers. Heco identifies your laptop and downloads the correct OEM driver, ensuring function keys (Fn), webcam, fingerprint, audio card all work.",
+        "q4": "How often are new drivers updated?",
+        "a4": "Heco's driver database is updated daily with newly released drivers from OEMs. The software will automatically check and notify you when new drivers are available for your devices. You can enable Auto-Update for silent background installation."
+      },
+      "privacy": {
+        "q1": "Can Heco Privacy replace a VPN?",
+        "a1": "Not entirely. Heco Privacy focuses on protecting local traces on your computer, while VPN encrypts network connections. We recommend using both: Heco Privacy for cleaning traces and encrypting files, VPN for hiding IP when browsing. Heco Privacy has a light IP hiding feature but doesn't replace a dedicated VPN.",
+        "q2": "Can encrypted files be cracked?",
+        "a2": "Not with current technology. Heco uses AES-256 — the encryption standard approved by NSA for top secret documents. Brute-forcing one AES-256 file takes about 10^50 years with the fastest supercomputer today. Most important is your password: a 12+ character random password is virtually uncrackable.",
+        "q3": "How is permanent deletion different from Shift+Delete?",
+        "a3": "Shift+Delete only removes file references; actual data remains on disk and can be recovered by recovery software. Heco Privacy permanently deletes by overwriting random data on the storage area multiple times (US DoD 5220.22-M standard), ensuring no recovery is possible by any method.",
+        "q4": "Which browsers are supported?",
+        "a4": "Heco Privacy fully supports Chrome, Edge, Firefox, Brave, Opera, and Vivaldi. Auto-detects installed browsers and cleans history, cookies, cache, download history, form data, saved passwords (optional). Can set up whitelist for sites needing to stay logged in."
+      },
+      "password": {
+        "q1": "What does zero-knowledge mean?",
+        "a1": "Zero-knowledge is an architecture where Heco never knows your master password. The password is used to encrypt data on your device before syncing to the cloud as encrypted. Even if Heco's servers were hacked, attackers would only see encrypted data that cannot be decrypted.",
+        "q2": "If I forget my master password, can it be recovered?",
+        "a2": "No. Due to zero-knowledge architecture, Heco has no way to recover your master password. This is a necessary security trade-off. Recommendation: write your master password on paper and keep in a safe, or use an easy-to-remember passphrase of 4-5 random words like 'cat-yellow-tree-book-red'.",
+        "q3": "How does sync between Windows and phone work?",
+        "a3": "Download Heco Password app on iOS/Android, sign in with the same Heco Account. Data will automatically sync via end-to-end encrypted cloud. All changes on Windows appear on phone within seconds. Can use offline and auto-sync when online.",
+        "q4": "Is there a browser extension?",
+        "a4": "Yes. Heco Password has official extensions for Chrome, Edge, Firefox, Brave, Opera. The extension auto-fills logins when you visit login pages, generates strong passwords when registering new accounts, and saves automatically. Extension communicates with desktop app via local encryption, no internet data sent."
+      },
+      "backup": {
+        "q1": "How much cloud storage does Heco Backup have?",
+        "a1": "Free version has 1 GB free cloud forever — enough for important text documents. Pro version expands to 100 GB, Business to 1 TB/team. You can also combine cloud backup + external drive to leverage both.",
+        "q2": "Full or incremental backup?",
+        "a2": "Heco Backup supports all three modes: Full (complete backup), Incremental (only files changed since last backup), and Differential (files changed since last full backup). Default uses Incremental to save space and time. We recommend monthly Full backup + daily Incremental.",
+        "q3": "Restore when Windows won't boot?",
+        "a3": "Heco Backup includes Bootable Rescue Media — you can create a Windows PE bootable USB, boot from USB when Windows is broken, and restore system from backup. Very useful for ransomware, BSOD, or disk errors. This feature is included in Free version.",
+        "q4": "Does it support Office 365 / Google Drive backup?",
+        "a4": "Yes. Heco Backup Pro can backup email, files and calendar from Office 365, Google Workspace, OneDrive, Google Drive, and Dropbox. Ensures your cloud data is also backed up elsewhere, in case your account is hacked or locked."
+      },
+      "uninstaller": {
+        "q1": "How is it different from Control Panel > Programs and Features?",
+        "a1": "Default Control Panel only runs the app's uninstaller, often leaving many junk files in AppData, ProgramData, registry, temp files, shortcuts. Heco Uninstaller deep scans the entire system after uninstalling, finds and removes all traces. Average frees 50-200 MB extra junk per app compared to Control Panel uninstall.",
+        "q2": "How does force uninstall work?",
+        "a2": "When an app's uninstaller is broken or the app has no uninstaller, Heco analyzes the installation file, finds all installed file locations, created registry keys, registered services, then manually removes everything. Effective for 95% of stubborn apps. Before force uninstall, Heco always creates a restore point for rollback.",
+        "q3": "Can it remove OEM bloatware?",
+        "a3": "Yes. Heco Uninstaller has bloatware detection — pre-installed OEM apps (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery, etc.). Auto-lists and allows batch removal in one click. Average new PC has 10-30 bloatware; removing all significantly speeds up the computer.",
+        "q4": "Can it uninstall Windows Store (UWP) apps?",
+        "a4": "Yes. Heco Uninstaller supports uninstalling both traditional Win32 desktop apps and Windows Store (UWP) apps. Especially useful for removing built-in Windows apps that Control Panel doesn't allow uninstalling (Cortana, Xbox, Mail, Calendar, etc.)."
+      }
+    },
+    "howItWorks": {
+      "cleaner": {
+        "h1t": "Scan system",
+        "h1d": "Heco analyzes entire disk, registry, browser cache and services to find safely removable junk files.",
+        "h2t": "View results",
+        "h2d": "Display detailed list of junk files by category, with reclaimable space. You can uncheck any item.",
+        "h3t": "1-click cleanup",
+        "h3d": "Click 'Clean Now' to remove everything. Heco auto-creates restore point so you can undo anytime."
+      },
+      "driver": {
+        "h1t": "Scan drivers",
+        "h1d": "Scan all hardware devices, compare current driver versions with Heco's latest driver database.",
+        "h2t": "Choose updates",
+        "h2d": "Display list of outdated drivers with new version info, manufacturer and download size.",
+        "h3t": "Auto install",
+        "h3d": "Heco auto-downloads, backs up old drivers, installs new ones, creates restore point for rollback."
+      },
+      "privacy": {
+        "h1t": "Analyze traces",
+        "h1d": "Scan all browsing history, temp files, recent documents, clipboard and app access permissions.",
+        "h2t": "Choose protection level",
+        "h2d": "Quick Clean for fast cleanup, Deep Clean for comprehensive removal, or Custom for specific categories.",
+        "h3t": "Continuous protection",
+        "h3d": "Enable Real-time Protection to auto-block trackers, encrypt new files, erase traces when closing browser."
+      },
+      "password": {
+        "h1t": "Create vault",
+        "h1d": "Create a strong master password — the only key to unlock your password vault. Heco never stores this.",
+        "h2t": "Import & generate",
+        "h2d": "Import existing passwords from browser, or use Password Generator for strong random passwords per account.",
+        "h3t": "Auto-fill",
+        "h3d": "When visiting login pages, Heco auto-fills credentials. Syncs safely between Windows, macOS, iOS, Android."
+      },
+      "backup": {
+        "h1t": "Select data",
+        "h1d": "Choose files, folders or entire system (system image) to backup. Templates available for Documents, Photos, etc.",
+        "h2t": "Choose destination",
+        "h2d": "Backup to Heco cloud, external drive, NAS, or combine multiple. Each destination can have its own schedule.",
+        "h3t": "Restore when needed",
+        "h3d": "When disaster strikes, select version to restore and click Restore. Files return to original location in minutes."
+      },
+      "uninstaller": {
+        "h1t": "Scan installed apps",
+        "h1d": "Heco scans all Win32, UWP, Windows Store apps. Shows with size, install date, usage frequency.",
+        "h2t": "Uninstall",
+        "h2d": "Select one or more apps to remove. Heco runs official uninstaller first, then deep scans for leftovers.",
+        "h3t": "Clean up",
+        "h3d": "Remove all leftover junk files, registry, shortcuts. Creates restore point for rollback if needed."
+      }
+    },
+    "reqs": {
+      "cleaner": {
+        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
+        "cpu": "Intel Pentium 1 GHz or equivalent",
+        "ram": "Minimum 1 GB (2 GB recommended)",
+        "disk": "100 MB free space",
+        "internet": "Required for updates"
+      },
+      "driver": {
+        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
+        "cpu": "Intel Pentium 1 GHz or equivalent",
+        "ram": "Minimum 1 GB",
+        "disk": "150 MB free space",
+        "internet": "Required to download drivers"
+      },
+      "privacy": {
+        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
+        "cpu": "Intel Pentium 1 GHz or equivalent",
+        "ram": "Minimum 1 GB",
+        "disk": "80 MB free space",
+        "internet": "Required to update filter list"
+      },
+      "password": {
+        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
+        "cpu": "Intel Pentium 1 GHz or equivalent",
+        "ram": "Minimum 512 MB",
+        "disk": "60 MB free space",
+        "internet": "Required for cloud sync"
+      },
+      "backup": {
+        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
+        "cpu": "Intel Core i3 or equivalent",
+        "ram": "Minimum 2 GB",
+        "disk": "200 MB free space",
+        "internet": "Required for cloud sync"
+      },
+      "uninstaller": {
+        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
+        "cpu": "Intel Pentium 1 GHz or equivalent",
+        "ram": "Minimum 1 GB",
+        "disk": "50 MB free space",
+        "internet": "Not required"
+      }
+    }
+  },
+  "Metadata": {
+    "defaultTitle": "Heco — Personal Utility Software for PC Optimization",
+    "defaultDescription": "Heco is a leading personal utility software suite: PC cleanup, driver updates, privacy protection, password management, and data backup. Fast, safe, free download.",
+    "defaultKeywords": ["Heco", "utility software", "PC optimization", "PC cleanup", "driver updater", "privacy protection", "password manager", "data backup", "uninstaller", "free software"],
+    "home": {
+      "title": "Heco — Personal Utility Software for PC Optimization",
+      "description": "Heco is a leading personal utility software suite: PC cleanup, driver updates, privacy protection, password management, and data backup. Fast, safe, free download."
+    },
+    "products": {
+      "cleaner": {
+        "title": "Heco Cleaner — Cleanup & System Optimization",
+        "description": "Scan and remove junk files, registry errors, and browser cache in one click. Free up gigabytes of space and speed up your computer instantly."
+      },
+      "driver": {
+        "title": "Heco Driver — Automatic Driver Updates",
+        "description": "Automatically detect outdated drivers and update from a database of over 5 million official drivers. Fix device issues, boost game and graphics performance."
+      },
+      "privacy": {
+        "title": "Heco Privacy — Privacy Protection",
+        "description": "Erase browsing history, block trackers, encrypt personal files, and prevent spyware. Your data, your control."
+      },
+      "password": {
+        "title": "Heco Password — Secure Password Manager",
+        "description": "Store passwords in a zero-knowledge encrypted vault. Auto-fill logins, generate strong passwords, and sync safely across devices."
+      },
+      "backup": {
+        "title": "Heco Backup — Backup & Restore Data",
+        "description": "Automatically back up files, folders, and entire systems to the cloud or external drives. Restore quickly in minutes when disaster strikes."
+      },
+      "uninstaller": {
+        "title": "Heco Uninstaller — Complete Uninstaller",
+        "description": "Remove stubborn software along with all leftover files, registry entries, and shortcuts. Batch uninstall and force uninstall supported."
+      }
+    },
+    "notFound": "Product not found"
+  },
+  "NotFound": {
+    "title": "Product not found",
+    "back": "Back to home"
+  },
+  "Lang": {
+    "switch": "Switch language",
+    "en": "English",
+    "vi": "Tiếng Việt",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "ru": "Русский",
+    "zh": "中文",
+    "lo": "ລາວ",
+    "ja": "日本語",
+    "ko": "한국어"
+  }
+}

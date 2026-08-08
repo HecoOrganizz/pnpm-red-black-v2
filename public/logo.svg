@@ -1,0 +1,15 @@
+<svg width="200" height="40" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Heco">
+  <defs>
+    <linearGradient id="heco-logo-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EA0232"/>
+      <stop offset="1" stop-color="#803C38"/>
+    </linearGradient>
+  </defs>
+  <!-- Logo mark -->
+  <rect width="40" height="40" rx="10" fill="url(#heco-logo-grad)"/>
+  <path d="M14 12 L14 28 M14 20 L26 20 M26 12 L26 28" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="14" cy="12" r="2.2" fill="white"/>
+  <circle cx="26" cy="28" r="2.2" fill="white"/>
+  <!-- Wordmark -->
+  <text x="52" y="27" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-size="22" font-weight="800" fill="#121012" letter-spacing="-0.5">Heco</text>
+</svg>
