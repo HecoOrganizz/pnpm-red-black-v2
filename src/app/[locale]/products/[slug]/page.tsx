@@ -14,7 +14,7 @@ import {
 } from "@/components/site/product-detail-client";
 import { routing, type Locale } from "@/i18n/routing";
 
-const SITE_URL = "https://heco.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://hecoorganizz.github.io";
 
 type Params = { params: Promise<{ locale: string; slug: string }> };
 
@@ -84,7 +84,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       description,
       images: [
         {
-          url: "/og-image.png",
+          url: `${SITE_URL}/og-image.png`,
           width: 1200,
           height: 630,
           alt: title,
@@ -95,7 +95,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       card: "summary_large_image",
       title,
       description,
-      images: ["/og-image.png"],
+      images: [`${SITE_URL}/og-image.png`],
     },
     robots: {
       index: true,

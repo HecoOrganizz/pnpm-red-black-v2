@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { PRODUCTS } from "@/data/products";
 import { routing } from "@/i18n/routing";
 
-const SITE_URL = "https://heco.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://hecoorganizz.github.io";
 const LAST_MEANINGFUL_UPDATE = new Date("2026-08-08T00:00:00+07:00");
 
 function localizedAlternates(path = ""): Record<string, string> {

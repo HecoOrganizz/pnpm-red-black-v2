@@ -21,7 +21,7 @@ const plusJakarta = Plus_Jakarta_Sans({
   preload: true,
 });
 
-const SITE_URL = "https://heco.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://hecoorganizz.github.io";
 
 const OG_LOCALES: Record<Locale, string> = {
   en: "en_US",
@@ -101,7 +101,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       description,
       images: [
         {
-          url: "/og-image.png",
+          url: `${SITE_URL}/og-image.png`,
           width: 1200,
           height: 630,
           alt: "Heco software utilities",
@@ -113,7 +113,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       card: "summary_large_image",
       title,
       description,
-      images: ["/og-image.png"],
+      images: [`${SITE_URL}/og-image.png`],
     },
     robots: {
       index: true,
@@ -126,15 +126,15 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
         "max-video-preview": -1,
       },
     },
-    manifest: "/manifest.webmanifest",
+    manifest: `${SITE_URL}/manifest.webmanifest`,
     icons: {
       icon: [
-        { url: "/favicon.ico", sizes: "any" },
-        { url: "/icon.svg", type: "image/svg+xml" },
-        { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
-        { url: "/icon-512.png", type: "image/png", sizes: "512x512" },
+        { url: `${SITE_URL}/favicon.ico`, sizes: "any" },
+        { url: `${SITE_URL}/icon.svg`, type: "image/svg+xml" },
+        { url: `${SITE_URL}/icon-192.png`, type: "image/png", sizes: "192x192" },
+        { url: `${SITE_URL}/icon-512.png`, type: "image/png", sizes: "512x512" },
       ],
-      apple: [{ url: "/apple-icon.png", sizes: "180x180" }],
+      apple: [{ url: `${SITE_URL}/apple-icon.png`, sizes: "180x180" }],
     },
     appleWebApp: {
       capable: true,
