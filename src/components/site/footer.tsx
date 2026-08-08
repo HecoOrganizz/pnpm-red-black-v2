@@ -55,7 +55,8 @@ export function Footer() {
       <div className="container mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         <div className="grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-6">
           <div className="col-span-2 lg:col-span-2">
-            <Link
+
+            {/* <Link
               href="/"
               aria-label="Heco"
               className="inline-flex items-center gap-2"
@@ -95,7 +96,10 @@ export function Footer() {
               <span className="font-display text-xl font-extrabold text-foreground">
                 Heco
               </span>
-            </Link>
+            </Link> */}
+
+            <img src="/heco-logo.png" alt="Heco" />
+
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted-foreground">
               {t("brandDesc")}
             </p>
