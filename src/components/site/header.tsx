@@ -53,10 +53,11 @@ export function Header() {
             aria-label="Heco home"
             className="flex items-center gap-2 transition-opacity hover:opacity-90"
           >
-            <LogoMark className="h-9 w-9 md:h-10 md:w-10" />
+            {/* <LogoMark className="h-9 w-9 md:h-10 md:w-10" />
             <span className="font-display text-xl font-extrabold tracking-tight text-foreground md:text-2xl">
               Heco
-            </span>
+            </span> */}
+            <img src="/heco-logo.png" alt="Heco" className="h-9 w-9 md:h-10 md:w-10" />
           </Link>
 
           <nav
