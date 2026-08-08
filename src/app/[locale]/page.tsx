@@ -17,7 +17,7 @@ export default async function Home({ params }: Params) {
   setRequestLocale(locale);
 
   return (
-    <div className="flex min-h-screen flex-col bg-background">
+    <div className="flex min-h-screen flex-col bg-background overflow-hidden">
       <Header />
       <main id="main" className="flex-grow">
         <Hero />
