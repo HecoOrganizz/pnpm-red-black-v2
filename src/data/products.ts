@@ -122,7 +122,7 @@ export const PRODUCTS: Product[] = [
       { icon: Lock, key: "browser.df3" },
       { icon: Eye, key: "browser.df4" },
       { icon: Globe, key: "browser.df5" },
-      { icon: Cloud, key: "browser.df6" },
+      // { icon: Cloud, key: "browser.df6" },
     ],
     faqs: [
       { qKey: "browser.q1", aKey: "browser.a1" },
