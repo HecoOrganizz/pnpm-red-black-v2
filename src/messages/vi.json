@@ -20,7 +20,7 @@
     "title": "Tối ưu hóa máy tính,",
     "titleHighlight": "bảo vệ dữ liệu,",
     "titleEnd": "tăng tốc công việc.",
-    "subtitle": "Zidimi là bộ phần mềm tiện ích cá nhân all-in-one: dọn dẹp rác, cập nhật driver, bảo vệ quyền riêng tư, quản lý mật khẩu và sao lưu dữ liệu.",
+    "subtitle": "Zidimi là bộ phần mềm tiện ích cá nhân all-in-one: dọn dẹp rác, trình duyệt web, bảo vệ quyền riêng tư, quản lý mật khẩu và sao lưu dữ liệu.",
     "subtitleHighlight": "Nhanh hơn, an toàn hơn, miễn phí tải về.",
     "trust": {
       "free": "Miễn phí vĩnh viễn",
@@ -75,39 +75,64 @@
         "name": "Zidimi Cleaner",
         "tagline": "Dọn dẹp & tối ưu hệ thống",
         "description": "Quét và loại bỏ file rác, registry lỗi, cache trình duyệt chỉ trong một cú nhấp. Giải phóng hàng GB dung lượng và tăng tốc máy tính tức thì.",
-        "features": ["Quét sâu 1-click", "Dọn registry an toàn", "Tăng tốc khởi động"],
+        "features": [
+          "Quét sâu 1-click",
+          "Dọn registry an toàn",
+          "Tăng tốc khởi động"
+        ],
         "badge": "Phổ biến nhất"
-      },
-      "driver": {
-        "name": "Zidimi Driver",
-        "tagline": "Cập nhật driver tự động",
-        "description": "Tự động phát hiện driver cũ và cập nhật từ kho hơn 5 triệu driver chính hãng. Khắc phục lỗi thiết bị, tăng hiệu suất game và phần mềm đồ họa.",
-        "features": ["5M+ driver chính hãng", "Sao lưu trước cập nhật", "Lập lịch tự động"]
       },
       "privacy": {
         "name": "Zidimi Privacy",
         "tagline": "Bảo vệ quyền riêng tư",
         "description": "Xóa lịch sử duyệt web, chặn theo dõi, mã hóa file cá nhân và ngăn chặn phần mềm gián điệp. Dữ liệu của bạn, bạn kiểm soát.",
-        "features": ["Chặn tracker & cookie", "Mã hóa file AES-256", "Xóa vĩnh viễn an toàn"],
+        "features": [
+          "Chặn tracker & cookie",
+          "Mã hóa file AES-256",
+          "Xóa vĩnh viễn an toàn"
+        ],
         "badge": "Mới"
       },
       "password": {
         "name": "Zidimi Password",
         "tagline": "Quản lý mật khẩu an toàn",
         "description": "Lưu trữ mật khẩu trong kho mã hóa zero-knowledge. Tự động điền đăng nhập, sinh mật khẩu mạnh và đồng bộ an toàn giữa các thiết bị.",
-        "features": ["Mã hóa zero-knowledge", "Tự động điền thông minh", "Đồng bộ đa thiết bị"]
+        "features": [
+          "Mã hóa zero-knowledge",
+          "Tự động điền thông minh",
+          "Đồng bộ đa thiết bị"
+        ]
       },
       "backup": {
         "name": "Zidimi Backup",
         "tagline": "Sao lưu & khôi phục dữ liệu",
         "description": "Sao lưu tự động file, thư mục và toàn bộ hệ thống lên đám mây hoặc ổ cứng ngoài. Khôi phục nhanh trong vòng vài phút khi có sự cố.",
-        "features": ["Sao lưu theo lịch", "Đồng bộ đám mây", "Khôi phục 1-click"]
+        "features": [
+          "Sao lưu theo lịch",
+          "Đồng bộ đám mây",
+          "Khôi phục 1-click"
+        ]
       },
       "uninstaller": {
         "name": "Zidimi Uninstaller",
         "tagline": "Gỡ cài đặt triệt để",
         "description": "Gỡ bỏ phần mềm cứng đầu cùng toàn bộ file rác, registry và shortcut còn sót lại. Hỗ trợ gỡ hàng loạt và buộc gỡ cài đặt (force uninstall).",
-        "features": ["Gỡ triệt để 100%", "Gỡ hàng loạt", "Buộc gỡ cài đặt"]
+        "features": [
+          "Gỡ triệt để 100%",
+          "Gỡ hàng loạt",
+          "Buộc gỡ cài đặt"
+        ]
+      },
+      "browser": {
+        "name": "Zidimi Browser",
+        "tagline": "Trình duyệt web Nhanh & Bảo mật",
+        "description": "Trải nghiệm web không quảng cáo, không theo dõi. Tối ưu tốc độ và siêu nhẹ cho máy tính.",
+        "features": [
+          "Chặn quảng cáo tích hợp",
+          "Chống theo dõi (Anti-Tracking)",
+          "Siêu nhẹ, ngốn ít RAM",
+          "VPN miễn phí (Sắp ra mắt)"
+        ]
       }
     }
   },
@@ -156,36 +181,36 @@
     "badge": "Đánh giá từ cộng đồng",
     "title": "25 triệu người dùng",
     "titleHighlight": "tin tưởng Zidimi.",
-    "subtitle": "Chúng tôi tự hào được người dùng Việt Nam và cộng đồng quốc tế yêu mến. Dưới đây là một vài đánh giá thật từ khách hàng đã sử dụng Zidimi.",
+    "subtitle": "Khám phá những chia sẻ từ người dùng về trải nghiệm với Zidimi.",
     "items": {
       "r1": {
-        "name": "Minh Trần",
-        "role": "Freelance Designer · Hà Nội",
+        "name": "Alex Johnson",
+        "role": "Freelance Designer · New York",
         "text": "Sau khi dùng Zidimi Cleaner, máy tính của mình khởi động nhanh hơn hẳn, từ 45 giây xuống còn 18 giây. Giao diện tiếng Việt rõ ràng, dễ sử dụng, không có quảng cáo khó chịu. Recommended!"
       },
       "r2": {
-        "name": "Lan Phạm",
-        "role": "Kế toán trưởng · TP.HCM",
+        "name": "Sarah Williams",
+        "role": "Kế toán trưởng · London",
         "text": "Zidimi Password đã cứu mình nhiều lần. Trước đây mình dùng sổ tay ghi mật khẩu, giờ mã hóa AES-256 và tự động điền khi cần. Cảm thấy an tâm hơn hẳn khi làm việc với dữ liệu khách hàng."
       },
       "r3": {
-        "name": "Hoàng Nguyễn",
-        "role": "Sinh viên CNTT · Đà Nẵng",
-        "text": "Mình tải Zidimi Driver để fix lỗi card màn hình khi chơi game. Tự động cập nhật driver chỉ trong 2 phút, game chạy mượt không giật lag. Miễn phí mà chất lượng hơn nhiều phần mềm trả phí khác."
+        "name": "Michael Davis",
+        "role": "Sinh viên CNTT · Berlin",
+        "text": "Mình chuyển sang dùng Zidimi Browser để lướt web nhanh hơn. Chặn quảng cáo rất tốt và ăn cực kỳ ít RAM so với Chrome. Cài extension bình thường, rất đáng dùng!"
       },
       "r4": {
-        "name": "Mai Lê",
-        "role": "Marketing Lead · Bình Dương",
+        "name": "Emily Chen",
+        "role": "Marketing Lead · Toronto",
         "text": "Zidimi Privacy chặn tracker rất hiệu quả. Mình duyệt web hàng ngày và nhận thấy quảng cáo bám theo giảm đi rõ rệt. Tính năng xóa vĩnh viễn file nhạy cảm cũng rất hữu ích cho công việc."
       },
       "r5": {
-        "name": "Đức Anh Vũ",
-        "role": "IT Manager · Hải Phòng",
+        "name": "David Smith",
+        "role": "IT Manager · Sydney",
         "text": "Triển khai Zidimi cho 50 máy tính trong công ty. Quản lý tập trung qua dashboard, cập nhật tự động, không phải can thiệp thủ công. Tiết kiệm cho team IT rất nhiều thời gian so với dùng phần mềm rời."
       },
       "r6": {
-        "name": "Hương Nguyễn",
-        "role": "Teacher · Cần Thơ",
+        "name": "Jessica Taylor",
+        "role": "Teacher · Chicago",
         "text": "Mình không rành máy tính nhưng Zidimi rất dễ dùng. Chỉ cần 1 cú nhấp là dọn dẹp xong. Sao lưu tự động lên đám mây giúp mình không còn sợ mất tài liệu giảng bài nữa. Cảm ơn đội ngũ Zidimi!"
       }
     },
@@ -206,19 +231,40 @@
       "free": {
         "name": "Free",
         "description": "Đầy đủ tính năng cơ bản cho cá nhân sử dụng tại nhà.",
-        "features": ["Tất cả 6 sản phẩm Zidimi", "Quét & dọn dẹp thủ công", "Cập nhật driver 5 lần/tháng", "Sao lưu 1 GB đám mây", "Hỗ trợ cộng đồng"],
+        "features": [
+          "Tất cả 6 sản phẩm Zidimi",
+          "Quét & dọn dẹp thủ công",
+          "Cập nhật driver 5 lần/tháng",
+          "Sao lưu 1 GB đám mây",
+          "Hỗ trợ cộng đồng"
+        ],
         "cta": "Tải miễn phí"
       },
       "pro": {
         "name": "Pro",
         "description": "Cho người dùng muốn tối ưu sâu và bảo vệ toàn diện.",
-        "features": ["Mọi tính năng Free, cộng thêm:", "Quét & dọn dẹp tự động theo lịch", "Cập nhật driver không giới hạn", "Sao lưu 100 GB đám mây", "Mã hóa file AES-256", "Hỗ trợ ưu tiên 24/7"],
+        "features": [
+          "Mọi tính năng Free, cộng thêm:",
+          "Quét & dọn dẹp tự động theo lịch",
+          "Cập nhật driver không giới hạn",
+          "Sao lưu 100 GB đám mây",
+          "Mã hóa file AES-256",
+          "Hỗ trợ ưu tiên 24/7"
+        ],
         "cta": "Nâng cấp Pro"
       },
       "business": {
         "name": "Business",
         "description": "Quản lý triển khai cho team và doanh nghiệp.",
-        "features": ["Mọi tính năng Pro, cộng thêm:", "Quản lý tập trung dashboard", "Triển khai hàng loạt (MSI)", "API tích hợp ITSM", "Sao lưu 1 TB đám mây/team", "Account manager riêng", "SLA 99.9% uptime"],
+        "features": [
+          "Mọi tính năng Pro, cộng thêm:",
+          "Quản lý tập trung dashboard",
+          "Triển khai hàng loạt (MSI)",
+          "API tích hợp ITSM",
+          "Sao lưu 1 TB đám mây/team",
+          "Account manager riêng",
+          "SLA 99.9% uptime"
+        ],
         "cta": "Liên hệ doanh nghiệp"
       }
     },
@@ -315,13 +361,13 @@
       "support": "Trung tâm hỗ trợ",
       "guides": "Hướng dẫn sử dụng",
       "blog": "Blog mẹo vặt",
-      "driverCheck": "Kiểm tra driver",
       "forum": "Diễn đàn cộng đồng",
       "terms": "Điều khoản sử dụng",
       "privacy": "Chính sách bảo mật",
       "cookie": "Chính sách cookie",
       "license": "Giấy phép phần mềm",
-      "security": "Báo cáo lỗ hổng bảo mật"
+      "security": "Báo cáo lỗ hổng bảo mật",
+      "browserCheck": "Kiểm tra Trình duyệt"
     },
     "trustBadges": {
       "authenticode": "Ký số Microsoft Authenticode",
@@ -384,60 +430,168 @@
     "back": "Quay lại trang chủ",
     "longDesc": {
       "cleaner": "Zidimi Cleaner là công cụ dọn dẹp PC all-in-one được 12 triệu người dùng tin dùng. Với thuật toán quét sâu được phát triển riêng cho hệ điều hành Windows, Zidimi Cleaner có thể phát hiện hơn 50 loại file rác khác nhau — từ cache trình duyệt, file tạm của hệ thống, cho đến registry lỗi tích tụ qua nhiều năm sử dụng. Không chỉ dọn dẹp, phần mềm còn tối ưu hóa quá trình khởi động, quản lý service chạy ngầm và lập lịch tự động bảo trì để máy tính của bạn luôn ở trạng thái tốt nhất.",
-      "driver": "Zidimi Driver là giải pháp quản lý driver toàn diện cho Windows. Với kho dữ liệu hơn 5 triệu driver chính hãng từ các nhà sản xuất như NVIDIA, AMD, Intel, Realtek, Broadcom, Zidimi Driver đảm bảo bạn luôn có phiên bản driver mới nhất và tương thích nhất. Phần mềm không chỉ cập nhật driver mà còn tạo điểm khôi phục trước mỗi lần cập nhật, sao lưu driver hiện tại để có thể rollback khi cần, và tự động kiểm tra cập nhật hàng tuần. Đặc biệt hữu ích cho game thủ cần cập nhật driver đồ họa để tăng FPS và fix lỗi stutter.",
       "privacy": "Zidimi Privacy là bộ ích bảo vệ quyền riêng tư toàn diện cho Windows. Trong thời đại mà dữ liệu cá nhân trở thành hàng hóa, Zidimi Privacy cho phép bạn kiểm soát hoàn toàn thông tin nào được chia sẻ và thông tin nào được giữ kín. Phần mềm chặn hơn 10,000 tracker và fingerprinting script từ các trang web phổ biến, mã hóa file nhạy cảm với chuẩn AES-256 (cùng chuẩn được ngân hàng và quân đội sử dụng), xóa vĩnh viễn file nhạy cảm sao cho không thể khôi phục bằng bất kỳ phần mềm recovery nào, và giám sát quyền truy cập của các ứng dụng. Đặc biệt hữu ích cho người dùng quan tâm đến an toàn dữ liệu.",
       "password": "Zidimi Password là trình quản lý mật khẩu thế hệ mới với kiến trúc zero-knowledge. Khác với các trình quản lý mật khẩu truyền thống, Zidimi Password không bao giờ lưu mật khẩu của bạn trên server — toàn bộ dữ liệu được mã hóa trên thiết bị của bạn trước khi đồng bộ lên đám mây. Ngay cả Zidimi cũng không thể xem được mật khẩu của bạn. Phần mềm hỗ trợ tự động điền đăng nhập thông minh trên mọi trình duyệt, sinh mật khẩu mạnh ngẫu nhiên theo chuẩn NIST, đồng bộ an toàn giữa Windows, macOS, iOS và Android, đồng thời tích hợp xác thực hai lớp (2FA) built-in để bảo vệ thêm cho các tài khoản quan trọng.",
       "backup": "Zidimi Backup là giải pháp sao lưu toàn diện giúp bạn không bao giờ phải lo mất dữ liệu quan trọng. Cho dù là tài liệu công việc, ảnh gia đình, hay toàn bộ hệ điều hành, Zidimi Backup đều có thể sao lưu an toàn lên đám mây mã hóa, ổ cứng ngoài, NAS hoặc ổ mạng. Phần mềm hỗ trợ sao lưu theo lịch định sẵn (hàng ngày, hàng tuần, hàng tháng), sao lưu gia tăng (incremental) để tiết kiệm dung lượng và thời gian, lưu trữ nhiều phiên bản lịch sử để có thể khôi phục về bất kỳ thời điểm nào trong quá khứ. Khi có sự cố, tính năng khôi phục 1-click giúp bạn lấy lại dữ liệu chỉ trong vài phút thay vì vài giờ.",
-      "uninstaller": "Zidimi Uninstaller là công cụ gỡ cài đặt phần mềm triệt để nhất cho Windows. Khi bạn gỡ app qua Control Panel mặc định, thường vẫn còn sót lại rất nhiều file rác trong AppData, ProgramData, registry, file tạm và shortcut. Zidimi Uninstaller quét sâu toàn bộ hệ thống để tìm và xóa sạch mọi dấu vết của ứng dụng. Đặc biệt hữu ích cho các app cứng đầu không gỡ được qua Control Panel (force uninstall), các phần mềm đi kèm adware/bloatware, và khi muốn dọn sạch PC trước khi cài lại Windows. Hỗ trợ gỡ hàng loạt nhiều app cùng lúc để tiết kiệm thời gian."
+      "uninstaller": "Zidimi Uninstaller là công cụ gỡ cài đặt phần mềm triệt để nhất cho Windows. Khi bạn gỡ app qua Control Panel mặc định, thường vẫn còn sót lại rất nhiều file rác trong AppData, ProgramData, registry, file tạm và shortcut. Zidimi Uninstaller quét sâu toàn bộ hệ thống để tìm và xóa sạch mọi dấu vết của ứng dụng. Đặc biệt hữu ích cho các app cứng đầu không gỡ được qua Control Panel (force uninstall), các phần mềm đi kèm adware/bloatware, và khi muốn dọn sạch PC trước khi cài lại Windows. Hỗ trợ gỡ hàng loạt nhiều app cùng lúc để tiết kiệm thời gian.",
+      "browser": "Zidimi Browser là trình duyệt web thế hệ mới, được xây dựng trên lõi Chromium nhưng tinh chỉnh tối đa về tốc độ, bảo mật và siêu nhẹ. Với trình chặn quảng cáo tích hợp sâu, cơ chế chống theo dõi và giao diện tối giản, Zidimi Browser tải trang nhanh gấp 3 lần đồng thời tiết kiệm 50% RAM so với các trình duyệt thông thường."
     },
     "detailedFeatures": {
       "cleaner": {
-        "df1": { "title": "Quét siêu tốc", "description": "Thuật toán song song đa luồng quét toàn bộ hệ thống trong chưa đến 10 giây, nhanh gấp 3 lần các phần mềm cùng loại." },
-        "df2": { "title": "An toàn tuyệt đối", "description": "Whitelist hơn 10.000 file hệ thống quan trọng, đảm bảo không bao giờ xóa nhầm file cần thiết cho hoạt động của Windows." },
-        "df3": { "title": "Lập lịch tự động", "description": "Tự động dọn dẹp theo lịch trình hàng ngày, hàng tuần hoặc hàng tháng. Im lặng chạy nền, không làm gián đoạn công việc." },
-        "df4": { "title": "Quét sâu registry", "description": "Phát hiện và sửa hơn 50 loại lỗi registry phổ biến gây chậm máy, crash app, BSOD và lỗi Windows Update." },
-        "df5": { "title": "Preview trước khi xóa", "description": "Xem chi tiết từng file và mục sẽ bị xóa trước khi xác nhận. Toàn quyền quyết định giữ lại những gì quan trọng." },
-        "df6": { "title": "Hoàn tác 30 ngày", "description": "Mọi thao tác dọn dẹp được lưu trong History. Có thể khôi phục lại file đã xóa bất cứ lúc nào trong vòng 30 ngày." }
-      },
-      "driver": {
-        "df1": { "title": "5M+ driver chính hãng", "description": "Kho driver khổng lồ từ NVIDIA, AMD, Intel, Realtek, Broadcom và hơn 500 OEM khác, cập nhật hàng ngày." },
-        "df2": { "title": "Auto cập nhật", "description": "Tự động kiểm tra driver mới mỗi tuần. Có thể bật Auto-Update để cài đặt im lặng trong nền." },
-        "df3": { "title": "Sao lưu trước cập nhật", "description": "Tự động tạo restore point và sao lưu driver hiện tại. Rollback về phiên bản cũ chỉ với 1 cú nhấp." },
-        "df4": { "title": "Lập lịch thông minh", "description": "Lên lịch kiểm tra driver theo tuần/tháng. Chạy ngoài giờ làm việc để không ảnh hưởng công việc." },
-        "df5": { "title": "Tối ưu hiệu suất", "description": "Cập nhật driver đồ họa giúp tăng FPS 15-30% trong game, fix stutter và tối ưu cho các phần mềm đồ họa chuyên nghiệp." },
-        "df6": { "title": "Fix lỗi thiết bị", "description": "Khắc phục lỗi thiết bị không nhận diện, USB không kết nối, âm thanh rè, máy in lỗi, Bluetooth mất kết nối." }
+        "df1": {
+          "title": "Quét siêu tốc",
+          "description": "Thuật toán song song đa luồng quét toàn bộ hệ thống trong chưa đến 10 giây, nhanh gấp 3 lần các phần mềm cùng loại."
+        },
+        "df2": {
+          "title": "An toàn tuyệt đối",
+          "description": "Whitelist hơn 10.000 file hệ thống quan trọng, đảm bảo không bao giờ xóa nhầm file cần thiết cho hoạt động của Windows."
+        },
+        "df3": {
+          "title": "Lập lịch tự động",
+          "description": "Tự động dọn dẹp theo lịch trình hàng ngày, hàng tuần hoặc hàng tháng. Im lặng chạy nền, không làm gián đoạn công việc."
+        },
+        "df4": {
+          "title": "Quét sâu registry",
+          "description": "Phát hiện và sửa hơn 50 loại lỗi registry phổ biến gây chậm máy, crash app, BSOD và lỗi Windows Update."
+        },
+        "df5": {
+          "title": "Preview trước khi xóa",
+          "description": "Xem chi tiết từng file và mục sẽ bị xóa trước khi xác nhận. Toàn quyền quyết định giữ lại những gì quan trọng."
+        },
+        "df6": {
+          "title": "Hoàn tác 30 ngày",
+          "description": "Mọi thao tác dọn dẹp được lưu trong History. Có thể khôi phục lại file đã xóa bất cứ lúc nào trong vòng 30 ngày."
+        }
       },
       "privacy": {
-        "df1": { "title": "Chặn tracker", "description": "Chặn hơn 10,000 tracker và fingerprinting script từ Facebook, Google, Amazon và các mạng quảng cáo lớn khác." },
-        "df2": { "title": "Mã hóa AES-256", "description": "Mã hóa file và thư mục nhạy cảm với chuẩn AES-256 — cùng chuẩn được ngân hàng và quân đội sử dụng." },
-        "df3": { "title": "Xóa vĩnh viễn", "description": "Xóa file không thể khôi phục theo chuẩn DoD 5220.22-M, ghi đè dữ liệu ngẫu nhiên nhiều lần lên vùng nhớ." },
-        "df4": { "title": "Ẩn danh duyệt web", "description": "Che giấu IP, xóa dấu vết trực tuyến, chống fingerprinting trình duyệt. Duyệt web không để lại dấu vết." },
-        "df5": { "title": "Cảnh báo vi phạm", "description": "Tích hợp cơ sở dữ liệu Have I Been Pwned, thông báo ngay nếu email hoặc mật khẩu của bạn bị lộ trong data breach." },
-        "df6": { "title": "Quản lý cookie", "description": "Kiểm soát cookie từng trang web. Whitelist các trang cần đăng nhập, tự động xóa cookie tracking của bên thứ 3." }
+        "df1": {
+          "title": "Chặn tracker",
+          "description": "Chặn hơn 10,000 tracker và fingerprinting script từ Facebook, Google, Amazon và các mạng quảng cáo lớn khác."
+        },
+        "df2": {
+          "title": "Mã hóa AES-256",
+          "description": "Mã hóa file và thư mục nhạy cảm với chuẩn AES-256 — cùng chuẩn được ngân hàng và quân đội sử dụng."
+        },
+        "df3": {
+          "title": "Xóa vĩnh viễn",
+          "description": "Xóa file không thể khôi phục theo chuẩn DoD 5220.22-M, ghi đè dữ liệu ngẫu nhiên nhiều lần lên vùng nhớ."
+        },
+        "df4": {
+          "title": "Ẩn danh duyệt web",
+          "description": "Che giấu IP, xóa dấu vết trực tuyến, chống fingerprinting trình duyệt. Duyệt web không để lại dấu vết."
+        },
+        "df5": {
+          "title": "Cảnh báo vi phạm",
+          "description": "Tích hợp cơ sở dữ liệu Have I Been Pwned, thông báo ngay nếu email hoặc mật khẩu của bạn bị lộ trong data breach."
+        },
+        "df6": {
+          "title": "Quản lý cookie",
+          "description": "Kiểm soát cookie từng trang web. Whitelist các trang cần đăng nhập, tự động xóa cookie tracking của bên thứ 3."
+        }
       },
       "password": {
-        "df1": { "title": "Zero-knowledge", "description": "Zidimi không bao giờ biết mật khẩu của bạn. Dữ liệu mã hóa trên thiết bị trước khi đồng bộ — server chỉ lưu ciphertext." },
-        "df2": { "title": "Sinh mật khẩu mạnh", "description": "Password Generator theo chuẩn NIST, hỗ trợ mật khẩu ngẫu nhiên và passphrase. Tùy chỉnh độ dài, ký tự, loại trừ ký tự dễ nhầm." },
-        "df3": { "title": "Tự động điền", "description": "Extension trình duyệt tự động điền đăng nhập 1 cú nhấp. Nhận diện form đăng nhập thông minh, hỗ trợ cả multi-step login." },
-        "df4": { "title": "Đồng bộ đa thiết bị", "description": "Đồng bộ an toàn giữa Windows, macOS, iOS, Android qua đám mây mã hóa end-to-end. Offline-first, sync khi có mạng." },
-        "df5": { "title": "2FA built-in", "description": "Tích hợp xác thực hai lớp (TOTP) như Google Authenticator. Sinh mã 6 số cho các tài khoản hỗ trợ 2FA ngay trong app." },
-        "df6": { "title": "Cảnh báo rò rỉ", "description": "Tự động kiểm tra mật khẩu trong kho với database Have I Been Pwned. Thông báo nếu mật khẩu nào bị lộ trong data breach." }
+        "df1": {
+          "title": "Zero-knowledge",
+          "description": "Zidimi không bao giờ biết mật khẩu của bạn. Dữ liệu mã hóa trên thiết bị trước khi đồng bộ — server chỉ lưu ciphertext."
+        },
+        "df2": {
+          "title": "Sinh mật khẩu mạnh",
+          "description": "Password Generator theo chuẩn NIST, hỗ trợ mật khẩu ngẫu nhiên và passphrase. Tùy chỉnh độ dài, ký tự, loại trừ ký tự dễ nhầm."
+        },
+        "df3": {
+          "title": "Tự động điền",
+          "description": "Extension trình duyệt tự động điền đăng nhập 1 cú nhấp. Nhận diện form đăng nhập thông minh, hỗ trợ cả multi-step login."
+        },
+        "df4": {
+          "title": "Đồng bộ đa thiết bị",
+          "description": "Đồng bộ an toàn giữa Windows, macOS, iOS, Android qua đám mây mã hóa end-to-end. Offline-first, sync khi có mạng."
+        },
+        "df5": {
+          "title": "2FA built-in",
+          "description": "Tích hợp xác thực hai lớp (TOTP) như Google Authenticator. Sinh mã 6 số cho các tài khoản hỗ trợ 2FA ngay trong app."
+        },
+        "df6": {
+          "title": "Cảnh báo rò rỉ",
+          "description": "Tự động kiểm tra mật khẩu trong kho với database Have I Been Pwned. Thông báo nếu mật khẩu nào bị lộ trong data breach."
+        }
       },
       "backup": {
-        "df1": { "title": "Sao lưu tự động", "description": "Lên lịch sao lưu hàng ngày, hàng tuần, hàng tháng. Im lặng chạy nền, không làm gián đoạn công việc." },
-        "df2": { "title": "Đám mây an toàn", "description": "Sao lưu lên đám mây Zidimi được mã hóa AES-256 end-to-end. Server ở Việt Nam, tuân thủ Nghị định 13/2023/NĐ-CP." },
-        "df3": { "title": "Phiên bản lịch sử", "description": "Lưu trữ nhiều phiên bản file — có thể khôi phục về bất kỳ thời điểm nào trong 30 ngày (Free) hoặc 1 năm (Pro)." },
-        "df4": { "title": "Khôi phục 1-click", "description": "Chọn phiên bản cần khôi phục, nhấn Restore. File quay lại vị trí cũ trong vài phút, không cần thao tác phức tạp." },
-        "df5": { "title": "Sao lưu hệ thống", "description": "Tạo system image bao gồm toàn bộ OS, app, settings, driver. Khi Windows hỏng, khôi phục lại nguyên trạng thái cũ." },
-        "df6": { "title": "Mã hóa end-to-end", "description": "Dữ liệu mã hóa trên thiết bị trước khi gửi lên đám mây. Ngay cả Zidimi cũng không thể xem file của bạn." }
+        "df1": {
+          "title": "Sao lưu tự động",
+          "description": "Lên lịch sao lưu hàng ngày, hàng tuần, hàng tháng. Im lặng chạy nền, không làm gián đoạn công việc."
+        },
+        "df2": {
+          "title": "Đám mây an toàn",
+          "description": "Sao lưu lên đám mây Zidimi được mã hóa AES-256 end-to-end. Server ở Việt Nam, tuân thủ Nghị định 13/2023/NĐ-CP."
+        },
+        "df3": {
+          "title": "Phiên bản lịch sử",
+          "description": "Lưu trữ nhiều phiên bản file — có thể khôi phục về bất kỳ thời điểm nào trong 30 ngày (Free) hoặc 1 năm (Pro)."
+        },
+        "df4": {
+          "title": "Khôi phục 1-click",
+          "description": "Chọn phiên bản cần khôi phục, nhấn Restore. File quay lại vị trí cũ trong vài phút, không cần thao tác phức tạp."
+        },
+        "df5": {
+          "title": "Sao lưu hệ thống",
+          "description": "Tạo system image bao gồm toàn bộ OS, app, settings, driver. Khi Windows hỏng, khôi phục lại nguyên trạng thái cũ."
+        },
+        "df6": {
+          "title": "Mã hóa end-to-end",
+          "description": "Dữ liệu mã hóa trên thiết bị trước khi gửi lên đám mây. Ngay cả Zidimi cũng không thể xem file của bạn."
+        }
       },
       "uninstaller": {
-        "df1": { "title": "Gỡ triệt để", "description": "Quét sâu toàn bộ AppData, ProgramData, registry, file tạm để xóa sạch mọi dấu vết của ứng dụng." },
-        "df2": { "title": "Gỡ hàng loạt", "description": "Chọn nhiều app và gỡ cùng lúc. Đặc biệt hữu ích khi dọn PC mới mua với nhiều bloatware OEM." },
-        "df3": { "title": "Force uninstall", "description": "Buộc gỡ các app cứng đầu mà Control Panel không gỡ được — app bị hỏng uninstaller, app không có uninstaller." },
-        "df4": { "title": "Monitor cài đặt", "description": "Theo dõi thay đổi hệ thống khi cài app mới. Khi gỡ sau này, đảm bảo 100% dấu vết bị xóa sạch." },
-        "df5": { "title": "Gỡ cập nhật Windows", "description": "Loại bỏ các cập nhật Windows gây lỗi, rollback về phiên bản ổn định. Hỗ trợ cả Windows Update và Driver Update." },
-        "df6": { "title": "Sao lưu trước gỡ", "description": "Tự động tạo restore point và sao lưu registry trước mỗi lần gỡ. Hoàn tác dễ dàng nếu có vấn đề xảy ra." }
+        "df1": {
+          "title": "Gỡ triệt để",
+          "description": "Quét sâu toàn bộ AppData, ProgramData, registry, file tạm để xóa sạch mọi dấu vết của ứng dụng."
+        },
+        "df2": {
+          "title": "Gỡ hàng loạt",
+          "description": "Chọn nhiều app và gỡ cùng lúc. Đặc biệt hữu ích khi dọn PC mới mua với nhiều bloatware OEM."
+        },
+        "df3": {
+          "title": "Force uninstall",
+          "description": "Buộc gỡ các app cứng đầu mà Control Panel không gỡ được — app bị hỏng uninstaller, app không có uninstaller."
+        },
+        "df4": {
+          "title": "Monitor cài đặt",
+          "description": "Theo dõi thay đổi hệ thống khi cài app mới. Khi gỡ sau này, đảm bảo 100% dấu vết bị xóa sạch."
+        },
+        "df5": {
+          "title": "Gỡ cập nhật Windows",
+          "description": "Loại bỏ các cập nhật Windows gây lỗi, rollback về phiên bản ổn định. Hỗ trợ cả Windows Update và Driver Update."
+        },
+        "df6": {
+          "title": "Sao lưu trước gỡ",
+          "description": "Tự động tạo restore point và sao lưu registry trước mỗi lần gỡ. Hoàn tác dễ dàng nếu có vấn đề xảy ra."
+        }
+      },
+      "browser": {
+        "df1": {
+          "title": "Tải trang siêu tốc",
+          "description": "Lõi Chromium tối ưu giúp tải trang web nhanh gấp 3 lần."
+        },
+        "df2": {
+          "title": "Chặn quảng cáo",
+          "description": "Loại bỏ hoàn toàn các quảng cáo và popup phiền phức."
+        },
+        "df3": {
+          "title": "Bảo mật tuyệt đối",
+          "description": "Chặn các mã độc theo dõi và thu thập dữ liệu người dùng."
+        },
+        "df4": {
+          "title": "Tiết kiệm RAM",
+          "description": "Sử dụng ít RAM hơn đến 50% nhờ cơ chế đóng băng tab thông minh."
+        },
+        "df5": {
+          "title": "Tương thích Chrome",
+          "description": "Hỗ trợ cài đặt mọi tiện ích (extension) từ cửa hàng Chrome."
+        },
+        "df6": {
+          "title": "Đồng bộ đám mây",
+          "description": "Đồng bộ hóa dấu trang và mật khẩu an toàn giữa các thiết bị."
+        }
       }
     },
     "faqs": {
@@ -450,16 +604,6 @@
         "a3": "Có. Zidimi Cleaner tự động tạo điểm khôi phục trước mỗi lần dọn dẹp. Bạn có thể hoàn tác toàn bộ thao tác trong vòng 30 ngày thông qua tính năng History. Các file đã xóa được nén và lưu trong Recycle Bin của Zidimi, không ảnh hưởng đến Recycle Bin của Windows.",
         "q4": "Nên dọn dẹp định kỳ bao lâu một lần?",
         "a4": "Khuyến nghị dọn dẹp hàng tuần với chế độ Quick Scan và hàng tháng với chế độ Deep Scan. Zidimi Cleaner Pro có thể tự động lập lịch — ví dụ: Quick Scan mỗi thứ 6, Deep Scan ngày đầu tháng — để bạn không cần nhớ thủ công."
-      },
-      "driver": {
-        "q1": "Driver từ Zidimi có phải chính hãng không?",
-        "a1": "Có. Tất cả driver trong kho của Zidimi đều được tải trực tiếp từ server chính thức của nhà sản xuất (NVIDIA, AMD, Intel, Realtek, v.v.) và ký số WHQL của Microsoft. Chúng tôi không bao giờ phân phối driver đã được chỉnh sửa hoặc driver beta.",
-        "q2": "Cập nhật driver có nguy hiểm không?",
-        "a2": "Zidimi Driver luôn tạo điểm khôi phục hệ thống (restore point) và sao lưu driver cũ trước mỗi lần cập nhật. Nếu driver mới gây sự cố, bạn có thể rollback về phiên bản trước chỉ với 1 cú nhấp. Tỷ lệ thành công cập nhật là 99.7%.",
-        "q3": "Zidimi Driver có hỗ trợ laptop không?",
-        "a3": "Có, đặc biệt tốt cho laptop. Nhiều laptop (Dell, HP, Lenovo, Asus, Acer) có driver tùy chỉnh từ OEM, khác với driver công khai. Zidimi nhận diện laptop của bạn và tải đúng driver OEM tương ứng, đảm bảo các phím chức năng (Fn), webcam, fingerprint, card âm thanh đều hoạt động.",
-        "q4": "Tần suất cập nhật driver mới thế nào?",
-        "a4": "Kho driver của Zidimi được cập nhật hàng ngày với các driver mới phát hành từ OEM. Phần mềm sẽ tự động kiểm tra và thông báo cho bạn khi có driver mới cho thiết bị của mình. Bạn có thể bật Auto-Update để cập nhật im lặng trong nền."
       },
       "privacy": {
         "q1": "Zidimi Privacy có thay thế được VPN không?",
@@ -500,6 +644,16 @@
         "a3": "Có. Zidimi Uninstaller có tính năng phát hiện bloatware — các app OEM cài sẵn (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery, v.v.). Tự động liệt kê và cho phép gỡ hàng loạt chỉ với 1 cú nhấp. Trung bình PC mới mua có 10-30 bloatware, gỡ hết giúp tăng tốc máy đáng kể.",
         "q4": "Gỡ app Windows Store (UWP) được không?",
         "a4": "Có. Zidimi Uninstaller hỗ trợ gỡ cả app desktop truyền thống (Win32) và app Windows Store (UWP). Đặc biệt hữu ích khi muốn gỡ các app Windows tích hợp sẵn mà Control Panel không cho phép gỡ (Cortana, Xbox, Mail, Calendar, v.v.)."
+      },
+      "browser": {
+        "q1": "Zidimi Browser có giống Google Chrome không?",
+        "a1": "Zidimi Browser sử dụng chung lõi mã nguồn mở Chromium. Tuy nhiên, chúng tôi đã loại bỏ các tính năng theo dõi ngầm và thêm trình chặn quảng cáo, giúp trình duyệt nhẹ và bảo mật hơn.",
+        "q2": "Tôi có thể cài tiện ích (extension) không?",
+        "a2": "Hoàn toàn có thể! Zidimi Browser tương thích 100% với Cửa hàng Chrome trực tuyến. Bạn có thể cài đặt bất kỳ extension nào chỉ với 1 click.",
+        "q3": "Tại sao trình duyệt này lại ít ngốn RAM?",
+        "a3": "Zidimi Browser tự động đóng băng các tab không sử dụng (Tab Sleeping) và tối ưu hóa tiến trình nền, giúp tiết kiệm đến 50% bộ nhớ.",
+        "q4": "Tính năng chặn quảng cáo có miễn phí không?",
+        "a4": "Có, trình chặn quảng cáo được tích hợp sâu vào nhân trình duyệt và hoàn toàn miễn phí vĩnh viễn."
       }
     },
     "howItWorks": {
@@ -510,14 +664,6 @@
         "h2d": "Hiển thị danh sách chi tiết các file rác theo danh mục, kèm dung lượng có thể giải phóng. Bạn có thể bỏ chọn bất kỳ mục nào.",
         "h3t": "Dọn dẹp 1-click",
         "h3d": "Nhấn 'Clean Now' để xóa toàn bộ. Zidimi tự động tạo restore point để bạn có thể hoàn tác bất cứ lúc nào."
-      },
-      "driver": {
-        "h1t": "Scan driver",
-        "h1d": "Quét toàn bộ thiết bị phần cứng, so sánh phiên bản driver hiện tại với kho driver mới nhất của Zidimi.",
-        "h2t": "Chọn cập nhật",
-        "h2d": "Hiển thị danh sách driver cũ kèm thông tin phiên bản mới, nhà sản xuất và kích thước tải về.",
-        "h3t": "Tự động cài đặt",
-        "h3d": "Zidimi tự động tải, sao lưu driver cũ, cài đặt driver mới và tạo restore point để rollback khi cần."
       },
       "privacy": {
         "h1t": "Phân tích dấu vết",
@@ -550,6 +696,14 @@
         "h2d": "Chọn 1 hoặc nhiều app để gỡ. Zidimi chạy uninstaller chính thức của app trước, sau đó quét sâu tìm file rác.",
         "h3t": "Dọn sạch",
         "h3d": "Xóa toàn bộ file rác, registry, shortcut còn sót. Tạo restore point để rollback nếu có vấn đề."
+      },
+      "browser": {
+        "h1t": "Tải & Cài đặt",
+        "h1d": "Tải bộ cài siêu nhẹ 85MB và cài đặt Zidimi Browser chỉ trong vòng 30 giây.",
+        "h2t": "Nhập dữ liệu cũ",
+        "h2d": "Dễ dàng chuyển dấu trang, mật khẩu và lịch sử từ trình duyệt cũ sang.",
+        "h3t": "Lướt web an toàn",
+        "h3d": "Tận hưởng trải nghiệm lướt web nhanh hơn, không quảng cáo và hoàn toàn riêng tư."
       }
     },
     "reqs": {
@@ -559,13 +713,6 @@
         "ram": "Tối thiểu 1 GB (khuyến nghị 2 GB)",
         "disk": "100 MB dung lượng trống",
         "internet": "Cần kết nối để cập nhật"
-      },
-      "driver": {
-        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
-        "cpu": "Intel Pentium 1 GHz hoặc tương đương",
-        "ram": "Tối thiểu 1 GB",
-        "disk": "150 MB dung lượng trống",
-        "internet": "Bắt buộc để tải driver"
       },
       "privacy": {
         "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
@@ -594,25 +741,39 @@
         "ram": "Tối thiểu 1 GB",
         "disk": "50 MB dung lượng trống",
         "internet": "Không bắt buộc"
+      },
+      "browser": {
+        "os": "Windows 11, 10, 8.1, 7",
+        "cpu": "Từ 1 GHz trở lên",
+        "ram": "Tối thiểu 512 MB",
+        "disk": "100 MB dung lượng trống",
+        "internet": "Yêu cầu kết nối mạng"
       }
     }
   },
   "Metadata": {
     "defaultTitle": "Zidimi — Phần Mềm Tiện Ích Cá Nhân Tối Ưu Hóa Máy Tính",
-    "defaultDescription": "Zidimi là bộ sưu tập phần mềm tiện ích cá nhân hàng đầu Việt Nam: dọn dẹp PC, cập nhật driver, bảo vệ quyền riêng tư, quản lý mật khẩu và sao lưu dữ liệu. Nhanh, an toàn, miễn phí tải về.",
-    "defaultKeywords": ["Zidimi", "phần mềm tiện ích", "tối ưu hóa máy tính", "dọn dẹp PC", "cập nhật driver", "bảo vệ quyền riêng tư", "quản lý mật khẩu", "sao lưu dữ liệu", "gỡ cài đặt ứng dụng", "phần mềm miễn phí"],
+    "defaultDescription": "Zidimi là bộ sưu tập phần mềm tiện ích cá nhân hàng đầu Việt Nam: dọn dẹp PC, lướt web nhanh, bảo vệ quyền riêng tư, quản lý mật khẩu và sao lưu dữ liệu. Nhanh, an toàn, miễn phí tải về.",
+    "defaultKeywords": [
+      "Zidimi",
+      "phần mềm tiện ích",
+      "tối ưu hóa máy tính",
+      "dọn dẹp PC",
+      "web browser",
+      "bảo vệ quyền riêng tư",
+      "quản lý mật khẩu",
+      "sao lưu dữ liệu",
+      "gỡ cài đặt ứng dụng",
+      "phần mềm miễn phí"
+    ],
     "home": {
       "title": "Zidimi — Phần Mềm Tiện Ích Cá Nhân Tối Ưu Hóa Máy Tính",
-      "description": "Zidimi là bộ sưu tập phần mềm tiện ích cá nhân hàng đầu Việt Nam: dọn dẹp PC, cập nhật driver, bảo vệ quyền riêng tư, quản lý mật khẩu và sao lưu dữ liệu. Nhanh, an toàn, miễn phí tải về."
+      "description": "Zidimi là bộ sưu tập phần mềm tiện ích cá nhân hàng đầu Việt Nam: dọn dẹp PC, lướt web nhanh, bảo vệ quyền riêng tư, quản lý mật khẩu và sao lưu dữ liệu. Nhanh, an toàn, miễn phí tải về."
     },
     "products": {
       "cleaner": {
         "title": "Zidimi Cleaner — Dọn dẹp & Tối ưu hệ thống",
         "description": "Quét và loại bỏ file rác, registry lỗi, cache trình duyệt chỉ trong một cú nhấp. Giải phóng hàng GB dung lượng và tăng tốc máy tính tức thì."
-      },
-      "driver": {
-        "title": "Zidimi Driver — Cập nhật driver tự động",
-        "description": "Tự động phát hiện driver cũ và cập nhật từ kho hơn 5 triệu driver chính hãng. Khắc phục lỗi thiết bị, tăng hiệu suất game và phần mềm đồ họa."
       },
       "privacy": {
         "title": "Zidimi Privacy — Bảo vệ quyền riêng tư",
@@ -629,6 +790,10 @@
       "uninstaller": {
         "title": "Zidimi Uninstaller — Gỡ cài đặt triệt để",
         "description": "Gỡ bỏ phần mềm cứng đầu cùng toàn bộ file rác, registry và shortcut còn sót lại. Hỗ trợ gỡ hàng loạt và buộc gỡ cài đặt (force uninstall)."
+      },
+      "browser": {
+        "title": "Zidimi Browser — Trình duyệt web siêu nhẹ, không quảng cáo",
+        "description": "Lướt web an toàn với Zidimi Browser. Tích hợp chặn quảng cáo, bảo vệ quyền riêng tư và tối ưu RAM. Tải miễn phí ngay hôm nay."
       }
     },
     "notFound": "Không tìm thấy sản phẩm"

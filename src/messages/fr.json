@@ -75,39 +75,64 @@
         "name": "Zidimi Cleaner",
         "tagline": "Nettoyage et optimisation du système",
         "description": "Analysez et supprimez les fichiers indésirables, les erreurs de registre et le cache du navigateur en un clic. Libérez des gigaoctets d'espace et accélérez votre ordinateur instantanément.",
-        "features": ["Analyse approfondie en 1 clic", "Nettoyage sûr du registre", "Accélérateur de démarrage"],
+        "features": [
+          "Analyse approfondie en 1 clic",
+          "Nettoyage sûr du registre",
+          "Accélérateur de démarrage"
+        ],
         "badge": "Le plus populaire"
-      },
-      "driver": {
-        "name": "Zidimi Driver",
-        "tagline": "Mises à jour automatiques des pilotes",
-        "description": "Détectez automatiquement les pilotes obsolètes et mettez-les à jour à partir d'une base de plus de 5 millions de pilotes officiels. Réglez les problèmes de périphériques, améliorez les performances des jeux et des graphismes.",
-        "features": ["5M+ pilotes officiels", "Sauvegarde pré-mise à jour", "Automatisation planifiée"]
       },
       "privacy": {
         "name": "Zidimi Privacy",
         "tagline": "Protection de la vie privée",
         "description": "Effacez l'historique de navigation, bloquez les traqueurs, chiffrez vos fichiers personnels et prévenez les logiciels espions. Vos données, votre contrôle.",
-        "features": ["Blocage des traqueurs et cookies", "Chiffrement de fichiers AES-256", "Suppression permanente sécurisée"],
+        "features": [
+          "Blocage des traqueurs et cookies",
+          "Chiffrement de fichiers AES-256",
+          "Suppression permanente sécurisée"
+        ],
         "badge": "Nouveau"
       },
       "password": {
         "name": "Zidimi Password",
         "tagline": "Gestionnaire de mots de passe sécurisé",
         "description": "Stockez vos mots de passe dans un coffre chiffré à connaissance nulle. Remplissage automatique des connexions, génération de mots de passe forts et synchronisation sécurisée entre appareils.",
-        "features": ["Chiffrement à connaissance nulle", "Remplissage automatique intelligent", "Synchro multi-appareils"]
+        "features": [
+          "Chiffrement à connaissance nulle",
+          "Remplissage automatique intelligent",
+          "Synchro multi-appareils"
+        ]
       },
       "backup": {
         "name": "Zidimi Backup",
         "tagline": "Sauvegarde et restauration de données",
         "description": "Sauvegardez automatiquement fichiers, dossiers et systèmes entiers vers le cloud ou des disques externes. Restaurez rapidement en quelques minutes en cas de sinistre.",
-        "features": ["Sauvegardes planifiées", "Synchro cloud", "Restauration en 1 clic"]
+        "features": [
+          "Sauvegardes planifiées",
+          "Synchro cloud",
+          "Restauration en 1 clic"
+        ]
       },
       "uninstaller": {
         "name": "Zidimi Uninstaller",
         "tagline": "Désinstalleur complet",
         "description": "Supprimez les logiciels récalcitrants ainsi que tous les fichiers résiduels, entrées de registre et raccourcis. Désinstallation par lot et désinstallation forcée prises en charge.",
-        "features": ["Suppression 100 % complète", "Désinstallation par lot", "Désinstallation forcée"]
+        "features": [
+          "Suppression 100 % complète",
+          "Désinstallation par lot",
+          "Désinstallation forcée"
+        ]
+      },
+      "browser": {
+        "name": "Zidimi Browser",
+        "tagline": "Fast & Private Web Browser",
+        "description": "Experience the web without ads, trackers, or interruptions. Built for speed and maximum privacy.",
+        "features": [
+          "Built-in Ad Blocker",
+          "Anti-Tracking Engine",
+          "Low RAM & CPU Usage",
+          "Free VPN (Coming soon)"
+        ]
       }
     }
   },
@@ -156,36 +181,36 @@
     "badge": "Avis de la communauté",
     "title": "25 millions d'utilisateurs",
     "titleHighlight": "font confiance à Zidimi.",
-    "subtitle": "Nous sommes fiers d'être aimés par les utilisateurs au Vietnam et dans le monde entier. Voici quelques avis réels de clients Zidimi.",
+    "subtitle": "Découvrez ce que les utilisateurs disent de leur expérience avec Zidimi.",
     "items": {
       "r1": {
-        "name": "Minh Tran",
-        "role": "Designer freelance · Hanoi",
+        "name": "Alex Johnson",
+        "role": "Designer freelance · New York",
         "text": "Après avoir utilisé Zidimi Cleaner, mon ordinateur démarre beaucoup plus vite, de 45 secondes à 18 secondes. Interface vietnamienne claire, facile à utiliser, pas de pubs gênantes. Recommandé !"
       },
       "r2": {
-        "name": "Lan Pham",
-        "role": "Comptable en chef · Ho Chi Minh City",
+        "name": "Sarah Williams",
+        "role": "Comptable en chef · London",
         "text": "Zidimi Password m'a sauvée plusieurs fois. J'avais l'habitude de noter mes mots de passe dans un carnet, maintenant tout est chiffré en AES-256 et se remplit automatiquement quand nécessaire. Je me sens beaucoup plus en sécurité en travaillant avec les données clients."
       },
       "r3": {
-        "name": "Hoang Nguyen",
-        "role": "Étudiant en informatique · Da Nang",
-        "text": "J'ai téléchargé Zidimi Driver pour résoudre des problèmes de carte graphique en jouant. Pilotes mis à jour automatiquement en seulement 2 minutes, les jeux tournent fluidement sans latence. Gratuit mais de meilleure qualité que de nombreux logiciels payants."
+        "name": "Michael Davis",
+        "role": "Étudiant en informatique · Berlin",
+        "text": "I downloaded Zidimi Browser for faster surfing. It blocks ads perfectly and uses way less RAM than Chrome. The UI is clean and extensions work great. Highly recommended!"
       },
       "r4": {
-        "name": "Mai Le",
-        "role": "Responsable marketing · Binh Duong",
+        "name": "Emily Chen",
+        "role": "Responsable marketing · Toronto",
         "text": "Zidimi Privacy bloque très efficacement les traqueurs. Je navigue quotidiennement et j'ai remarqué une nette diminution des pubs ciblées. La fonction de suppression permanente des fichiers est aussi très utile pour le travail."
       },
       "r5": {
-        "name": "Duc Anh Vu",
-        "role": "Responsable informatique · Hai Phong",
+        "name": "David Smith",
+        "role": "Responsable informatique · Sydney",
         "text": "J'ai déployé Zidimi sur 50 ordinateurs d'entreprise. Gestion centralisée via tableau de bord, mises à jour automatiques, aucune intervention manuelle requise. Fait gagner un temps précieux à notre équipe informatique par rapport à l'utilisation d'outils séparés."
       },
       "r6": {
-        "name": "Huong Nguyen",
-        "role": "Enseignante · Can Tho",
+        "name": "Jessica Taylor",
+        "role": "Enseignante · Chicago",
         "text": "Je ne suis pas très à l'aise avec la technologie mais Zidimi est très facile à utiliser. Un seul clic et le nettoyage est fait. La sauvegarde automatique dans le cloud me fait ne plus craindre de perdre mes supports de cours. Merci à l'équipe Zidimi !"
       }
     },
@@ -206,19 +231,40 @@
       "free": {
         "name": "Gratuit",
         "description": "Toutes les fonctionnalités de base pour un usage personnel à domicile.",
-        "features": ["Les 6 produits Zidimi", "Analyse et nettoyage manuels", "5 mises à jour de pilotes/mois", "1 GB de sauvegarde cloud", "Support communautaire"],
+        "features": [
+          "Les 6 produits Zidimi",
+          "Analyse et nettoyage manuels",
+          "5 mises à jour de pilotes/mois",
+          "1 GB de sauvegarde cloud",
+          "Support communautaire"
+        ],
         "cta": "Télécharger gratuitement"
       },
       "pro": {
         "name": "Pro",
         "description": "Pour les utilisateurs qui veulent une optimisation approfondie et une protection complète.",
-        "features": ["Tout ce qui est dans Gratuit, plus :", "Analyse automatique planifiée", "Mises à jour de pilotes illimitées", "100 GB de sauvegarde cloud", "Chiffrement de fichiers AES-256", "Support prioritaire 24/7"],
+        "features": [
+          "Tout ce qui est dans Gratuit, plus :",
+          "Analyse automatique planifiée",
+          "Mises à jour de pilotes illimitées",
+          "100 GB de sauvegarde cloud",
+          "Chiffrement de fichiers AES-256",
+          "Support prioritaire 24/7"
+        ],
         "cta": "Passer à Pro"
       },
       "business": {
         "name": "Business",
         "description": "Gestion de déploiement pour équipes et entreprises.",
-        "features": ["Tout ce qui est dans Pro, plus :", "Tableau de bord centralisé", "Déploiement par lot (MSI)", "Intégration API ITSM", "1 TB de sauvegarde cloud/équipe", "Gestionnaire de compte dédié", "SLA de disponibilité 99,9 %"],
+        "features": [
+          "Tout ce qui est dans Pro, plus :",
+          "Tableau de bord centralisé",
+          "Déploiement par lot (MSI)",
+          "Intégration API ITSM",
+          "1 TB de sauvegarde cloud/équipe",
+          "Gestionnaire de compte dédié",
+          "SLA de disponibilité 99,9 %"
+        ],
         "cta": "Contacter les ventes"
       }
     },
@@ -315,13 +361,13 @@
       "support": "Centre d'assistance",
       "guides": "Guides utilisateur",
       "blog": "Blog d'astuces",
-      "driverCheck": "Vérification des pilotes",
       "forum": "Forum communautaire",
       "terms": "Conditions d'utilisation",
       "privacy": "Politique de confidentialité",
       "cookie": "Politique de cookies",
       "license": "Licence du logiciel",
-      "security": "Rapport de sécurité"
+      "security": "Rapport de sécurité",
+      "browserCheck": "Browser Check"
     },
     "trustBadges": {
       "authenticode": "Signé Microsoft Authenticode",
@@ -384,60 +430,168 @@
     "back": "Retour à l'accueil",
     "longDesc": {
       "cleaner": "Zidimi Cleaner est un outil de nettoyage PC tout-en-un approuvé par 12 millions d'utilisateurs. Grâce à un algorithme d'analyse approfondie développé spécifiquement pour Windows, Zidimi Cleaner peut détecter plus de 50 types différents de fichiers indésirables — du cache du navigateur et des fichiers système temporaires aux erreurs de registre accumulées au fil des années d'utilisation. Au-delà du nettoyage, le logiciel optimise également le démarrage, gère les services en arrière-plan et planifie une maintenance automatique pour maintenir votre ordinateur en parfait état.",
-      "driver": "Zidimi Driver est une solution complète de gestion de pilotes pour Windows. Avec une base de plus de 5 millions de pilotes officiels de fabricants comme NVIDIA, AMD, Intel, Realtek et Broadcom, Zidimi Driver vous garantit d'avoir toujours la version de pilote la plus récente et la plus compatible. Le logiciel ne se contente pas de mettre à jour les pilotes : il crée des points de restauration avant chaque mise à jour, sauvegarde les pilotes actuels pour un retour en arrière si besoin, et vérifie automatiquement les mises à jour chaque semaine. Particulièrement utile pour les joueurs qui ont besoin de mises à jour de pilotes graphiques pour augmenter les FPS et corriger les saccades.",
       "privacy": "Zidimi Privacy est une boîte à outils complète de protection de la vie privée pour Windows. À une époque où les données personnelles sont devenues une marchandise, Zidimi Privacy vous permet de contrôler exactement quelles informations sont partagées et ce qui reste privé. Le logiciel bloque plus de 10 000 traqueurs et scripts d'empreinte digitale des sites web populaires, chiffre les fichiers sensibles avec AES-256 (le même standard utilisé par les banques et l'armée), supprime définitivement les fichiers sensibles afin qu'ils ne puissent être récupérés par aucun logiciel de récupération, et surveille les autorisations d'accès des applications. Particulièrement utile pour les utilisateurs soucieux de la sécurité de leurs données.",
       "password": "Zidimi Password est un gestionnaire de mots de passe de nouvelle génération à architecture à connaissance nulle. Contrairement aux gestionnaires de mots de passe traditionnels, Zidimi Password ne stocke jamais vos mots de passe sur des serveurs — toutes les données sont chiffrées sur votre appareil avant d'être synchronisées vers le cloud. Même Zidimi ne peut pas voir vos mots de passe. Le logiciel prend en charge le remplissage automatique intelligent des connexions dans tous les navigateurs, génère des mots de passe aléatoires forts conformes aux normes NIST, se synchronise en toute sécurité entre Windows, macOS, iOS et Android, et intègre une authentification à deux facteurs (2FA) pour une protection supplémentaire des comptes importants.",
       "backup": "Zidimi Backup est une solution de sauvegarde complète qui vous assure de ne jamais avoir à vous soucier de perdre des données importantes. Qu'il s'agisse de documents de travail, de photos de famille ou du système d'exploitation entier, Zidimi Backup peut sauvegarder en toute sécurité vers le cloud chiffré, des disques externes, NAS ou lecteurs réseau. Le logiciel prend en charge les sauvegardes planifiées (quotidienne, hebdomadaire, mensuelle), les sauvegardes incrémentielles pour économiser de l'espace et du temps, et stocke plusieurs versions historiques afin que vous puissiez restaurer à n'importe quel point dans le passé. En cas de sinistre, la fonction de restauration en 1 clic vous aide à récupérer vos données en minutes plutôt qu'en heures.",
-      "uninstaller": "Zidimi Uninstaller est le désinstalleur de logiciels le plus approfondi pour Windows. Lorsque vous désinstallez des applications via le Panneau de configuration par défaut, de nombreux fichiers indésirables sont souvent laissés dans AppData, ProgramData, le registre, les fichiers temporaires et les raccourcis. Zidimi Uninstaller analyse profondément tout le système pour trouver et supprimer complètement chaque trace d'une application. Particulièrement utile pour les applications récalcitrantes qui ne peuvent pas être supprimées via le Panneau de configuration (désinstallation forcée), les logiciels fournis avec des adwares/bloatware, et lorsque vous souhaitez nettoyer votre PC avant de réinstaller Windows. Prend en charge la désinstallation par lot de plusieurs applications à la fois pour gagner du temps."
+      "uninstaller": "Zidimi Uninstaller est le désinstalleur de logiciels le plus approfondi pour Windows. Lorsque vous désinstallez des applications via le Panneau de configuration par défaut, de nombreux fichiers indésirables sont souvent laissés dans AppData, ProgramData, le registre, les fichiers temporaires et les raccourcis. Zidimi Uninstaller analyse profondément tout le système pour trouver et supprimer complètement chaque trace d'une application. Particulièrement utile pour les applications récalcitrantes qui ne peuvent pas être supprimées via le Panneau de configuration (désinstallation forcée), les logiciels fournis avec des adwares/bloatware, et lorsque vous souhaitez nettoyer votre PC avant de réinstaller Windows. Prend en charge la désinstallation par lot de plusieurs applications à la fois pour gagner du temps.",
+      "browser": "Zidimi Browser is a next-generation web browser built on the Chromium engine but heavily optimized for speed, privacy, and low resource usage. With built-in AdBlock, strict anti-tracking, and a minimalist interface, it loads pages up to 3x faster than standard browsers while using 50% less RAM."
     },
     "detailedFeatures": {
       "cleaner": {
-        "df1": { "title": "Analyse ultra rapide", "description": "Algorithme parallèle multi-threadé analyse tout le système en moins de 10 secondes, 3x plus rapide que les logiciels similaires." },
-        "df2": { "title": "Sécurité absolue", "description": "Liste blanche de plus de 10 000 fichiers système critiques, garantissant que nous ne supprimons jamais les fichiers essentiels au fonctionnement de Windows." },
-        "df3": { "title": "Planification automatique", "description": "Nettoyage automatique selon des planifications quotidiennes, hebdomadaires ou mensuelles. S'exécute silencieusement en arrière-plan sans perturber le travail." },
-        "df4": { "title": "Analyse approfondie du registre", "description": "Détecte et corrige plus de 50 erreurs de registre courantes qui ralentissent les PC, font planter les applications, causent des BSOD et des échecs de Windows Update." },
-        "df5": { "title": "Aperçu avant suppression", "description": "Consultez la liste détaillée des fichiers et éléments à supprimer avant de confirmer. Contrôle total pour garder ce qui compte." },
-        "df6": { "title": "Annulation de 30 jours", "description": "Toutes les actions de nettoyage sont enregistrées dans l'Historique. Restaurez les fichiers supprimés à tout moment dans les 30 jours." }
-      },
-      "driver": {
-        "df1": { "title": "5M+ pilotes officiels", "description": "Base de pilotes massive de NVIDIA, AMD, Intel, Realtek, Broadcom et plus de 500 autres OEM, mise à jour quotidiennement." },
-        "df2": { "title": "Mise à jour automatique", "description": "Vérifie automatiquement les nouveaux pilotes chaque semaine. Activez la mise à jour automatique pour une installation silencieuse en arrière-plan." },
-        "df3": { "title": "Sauvegarde pré-mise à jour", "description": "Crée automatiquement un point de restauration et sauvegarde les pilotes actuels. Retour à la version précédente en un clic." },
-        "df4": { "title": "Planification intelligente", "description": "Planifiez les vérifications de pilotes hebdomadaires/mensuelles. Exécutez en dehors des heures ouvrées pour éviter de perturber le travail." },
-        "df5": { "title": "Gain de performances", "description": "Les mises à jour de pilotes graphiques augmentent les FPS de 15 à 30 %, corrigent les saccades et optimisent les logiciels graphiques professionnels." },
-        "df6": { "title": "Correction d'erreurs de périphériques", "description": "Résout les périphériques non reconnus, les problèmes de connexion USB, le crépitement audio, les erreurs d'imprimante, les déconnexions Bluetooth." }
+        "df1": {
+          "title": "Analyse ultra rapide",
+          "description": "Algorithme parallèle multi-threadé analyse tout le système en moins de 10 secondes, 3x plus rapide que les logiciels similaires."
+        },
+        "df2": {
+          "title": "Sécurité absolue",
+          "description": "Liste blanche de plus de 10 000 fichiers système critiques, garantissant que nous ne supprimons jamais les fichiers essentiels au fonctionnement de Windows."
+        },
+        "df3": {
+          "title": "Planification automatique",
+          "description": "Nettoyage automatique selon des planifications quotidiennes, hebdomadaires ou mensuelles. S'exécute silencieusement en arrière-plan sans perturber le travail."
+        },
+        "df4": {
+          "title": "Analyse approfondie du registre",
+          "description": "Détecte et corrige plus de 50 erreurs de registre courantes qui ralentissent les PC, font planter les applications, causent des BSOD et des échecs de Windows Update."
+        },
+        "df5": {
+          "title": "Aperçu avant suppression",
+          "description": "Consultez la liste détaillée des fichiers et éléments à supprimer avant de confirmer. Contrôle total pour garder ce qui compte."
+        },
+        "df6": {
+          "title": "Annulation de 30 jours",
+          "description": "Toutes les actions de nettoyage sont enregistrées dans l'Historique. Restaurez les fichiers supprimés à tout moment dans les 30 jours."
+        }
       },
       "privacy": {
-        "df1": { "title": "Blocage des traqueurs", "description": "Bloque plus de 10 000 traqueurs et scripts d'empreinte digitale de Facebook, Google, Amazon et autres grands réseaux publicitaires." },
-        "df2": { "title": "Chiffrement AES-256", "description": "Chiffrez les fichiers et dossiers sensibles avec AES-256 — le même standard utilisé par les banques et l'armée." },
-        "df3": { "title": "Suppression permanente", "description": "Suppression irrécupérable des fichiers selon la norme DoD 5220.22-M, en écrasant les données aléatoirement plusieurs fois." },
-        "df4": { "title": "Navigation anonyme", "description": "Masquez l'IP, effacez les traces en ligne, anti-empreinte numérique du navigateur. Naviguez sans laisser de traces." },
-        "df5": { "title": "Alertes de fuite", "description": "Intégré à la base Have I Been Pwned — vous alerte si votre e-mail ou mot de passe apparaît dans des fuites de données." },
-        "df6": { "title": "Contrôle des cookies", "description": "Contrôlez les cookies par site. Listez en blanc les sites nécessitant une connexion, supprimez automatiquement les cookies de traçage tiers." }
+        "df1": {
+          "title": "Blocage des traqueurs",
+          "description": "Bloque plus de 10 000 traqueurs et scripts d'empreinte digitale de Facebook, Google, Amazon et autres grands réseaux publicitaires."
+        },
+        "df2": {
+          "title": "Chiffrement AES-256",
+          "description": "Chiffrez les fichiers et dossiers sensibles avec AES-256 — le même standard utilisé par les banques et l'armée."
+        },
+        "df3": {
+          "title": "Suppression permanente",
+          "description": "Suppression irrécupérable des fichiers selon la norme DoD 5220.22-M, en écrasant les données aléatoirement plusieurs fois."
+        },
+        "df4": {
+          "title": "Navigation anonyme",
+          "description": "Masquez l'IP, effacez les traces en ligne, anti-empreinte numérique du navigateur. Naviguez sans laisser de traces."
+        },
+        "df5": {
+          "title": "Alertes de fuite",
+          "description": "Intégré à la base Have I Been Pwned — vous alerte si votre e-mail ou mot de passe apparaît dans des fuites de données."
+        },
+        "df6": {
+          "title": "Contrôle des cookies",
+          "description": "Contrôlez les cookies par site. Listez en blanc les sites nécessitant une connexion, supprimez automatiquement les cookies de traçage tiers."
+        }
       },
       "password": {
-        "df1": { "title": "Connaissance nulle", "description": "Zidimi ne connaît jamais vos mots de passe. Données chiffrées sur l'appareil avant la synchronisation — le serveur ne stocke que du texte chiffré." },
-        "df2": { "title": "Générateur de mots de passe forts", "description": "Générateur de mots de passe conforme NIST, prend en charge les mots de passe aléatoires et les passphrases. Personnalisez longueur, caractères, excluez les caractères ambigus." },
-        "df3": { "title": "Remplissage automatique", "description": "L'extension de navigateur remplit les connexions en un clic. Détection intelligente des formulaires, prend en charge les connexions multi-étapes." },
-        "df4": { "title": "Synchro multi-appareils", "description": "Synchronisation sécurisée entre Windows, macOS, iOS, Android via un cloud chiffré de bout en bout. Fonctionnement hors ligne d'abord, synchro en ligne." },
-        "df5": { "title": "2FA intégré", "description": "Authentification à deux facteurs TOTP intégrée comme Google Authenticator. Génère des codes à 6 chiffres pour les comptes 2FA dans l'application." },
-        "df6": { "title": "Alertes de fuite", "description": "Vérifie automatiquement les mots de passe par rapport à la base Have I Been Pwned. Vous notifie si un mot de passe fuite dans des fuites de données." }
+        "df1": {
+          "title": "Connaissance nulle",
+          "description": "Zidimi ne connaît jamais vos mots de passe. Données chiffrées sur l'appareil avant la synchronisation — le serveur ne stocke que du texte chiffré."
+        },
+        "df2": {
+          "title": "Générateur de mots de passe forts",
+          "description": "Générateur de mots de passe conforme NIST, prend en charge les mots de passe aléatoires et les passphrases. Personnalisez longueur, caractères, excluez les caractères ambigus."
+        },
+        "df3": {
+          "title": "Remplissage automatique",
+          "description": "L'extension de navigateur remplit les connexions en un clic. Détection intelligente des formulaires, prend en charge les connexions multi-étapes."
+        },
+        "df4": {
+          "title": "Synchro multi-appareils",
+          "description": "Synchronisation sécurisée entre Windows, macOS, iOS, Android via un cloud chiffré de bout en bout. Fonctionnement hors ligne d'abord, synchro en ligne."
+        },
+        "df5": {
+          "title": "2FA intégré",
+          "description": "Authentification à deux facteurs TOTP intégrée comme Google Authenticator. Génère des codes à 6 chiffres pour les comptes 2FA dans l'application."
+        },
+        "df6": {
+          "title": "Alertes de fuite",
+          "description": "Vérifie automatiquement les mots de passe par rapport à la base Have I Been Pwned. Vous notifie si un mot de passe fuite dans des fuites de données."
+        }
       },
       "backup": {
-        "df1": { "title": "Sauvegarde automatique", "description": "Planifiez des sauvegardes quotidiennes, hebdomadaires, mensuelles. S'exécute silencieusement en arrière-plan sans perturber le travail." },
-        "df2": { "title": "Cloud sécurisé", "description": "Sauvegarde vers le cloud Zidimi avec chiffrement de bout en bout AES-256. Serveurs au Vietnam, conforme au Décret 13/2023/NĐ-CP." },
-        "df3": { "title": "Historique des versions", "description": "Stockez plusieurs versions de fichiers — restaurez à n'importe quel point dans les 30 jours (Gratuit) ou 1 an (Pro)." },
-        "df4": { "title": "Restauration en 1 clic", "description": "Sélectionnez la version à restaurer, cliquez sur Restaurer. Les fichiers reviennent à leur emplacement d'origine en minutes, sans opérations complexes." },
-        "df5": { "title": "Sauvegarde système", "description": "Créez une image système incluant tout l'OS, les applications, les paramètres, les pilotes. Restaurez Windows à l'état exact si besoin." },
-        "df6": { "title": "Chiffrement de bout en bout", "description": "Données chiffrées sur l'appareil avant l'envoi vers le cloud. Même Zidimi ne peut pas voir vos fichiers." }
+        "df1": {
+          "title": "Sauvegarde automatique",
+          "description": "Planifiez des sauvegardes quotidiennes, hebdomadaires, mensuelles. S'exécute silencieusement en arrière-plan sans perturber le travail."
+        },
+        "df2": {
+          "title": "Cloud sécurisé",
+          "description": "Sauvegarde vers le cloud Zidimi avec chiffrement de bout en bout AES-256. Serveurs au Vietnam, conforme au Décret 13/2023/NĐ-CP."
+        },
+        "df3": {
+          "title": "Historique des versions",
+          "description": "Stockez plusieurs versions de fichiers — restaurez à n'importe quel point dans les 30 jours (Gratuit) ou 1 an (Pro)."
+        },
+        "df4": {
+          "title": "Restauration en 1 clic",
+          "description": "Sélectionnez la version à restaurer, cliquez sur Restaurer. Les fichiers reviennent à leur emplacement d'origine en minutes, sans opérations complexes."
+        },
+        "df5": {
+          "title": "Sauvegarde système",
+          "description": "Créez une image système incluant tout l'OS, les applications, les paramètres, les pilotes. Restaurez Windows à l'état exact si besoin."
+        },
+        "df6": {
+          "title": "Chiffrement de bout en bout",
+          "description": "Données chiffrées sur l'appareil avant l'envoi vers le cloud. Même Zidimi ne peut pas voir vos fichiers."
+        }
       },
       "uninstaller": {
-        "df1": { "title": "Suppression approfondie", "description": "Analyse approfondie de AppData, ProgramData, registre, fichiers temporaires pour supprimer chaque trace des applications." },
-        "df2": { "title": "Désinstallation par lot", "description": "Sélectionnez plusieurs applications et désinstallez-les ensemble. Particulièrement utile pour nettoyer les nouveaux PC avec bloatware OEM." },
-        "df3": { "title": "Désinstallation forcée", "description": "Supprimez forcément les applications récalcitrantes que le Panneau de configuration ne peut pas — désinstalleurs cassés, applications sans désinstalleur." },
-        "df4": { "title": "Surveillance d'installation", "description": "Suivez les modifications système lors de l'installation de nouvelles applications. Garantit une suppression 100 % des traces lors de la désinstallation ultérieure." },
-        "df5": { "title": "Suppression des mises à jour Windows", "description": "Supprimez les mises à jour Windows problématiques, revenez à la version stable. Prend en charge à la fois Windows Update et Driver Update." },
-        "df6": { "title": "Sauvegarde pré-désinstallation", "description": "Crée automatiquement un point de restauration et une sauvegarde du registre avant chaque désinstallation. Retour en arrière facile en cas de problème." }
+        "df1": {
+          "title": "Suppression approfondie",
+          "description": "Analyse approfondie de AppData, ProgramData, registre, fichiers temporaires pour supprimer chaque trace des applications."
+        },
+        "df2": {
+          "title": "Désinstallation par lot",
+          "description": "Sélectionnez plusieurs applications et désinstallez-les ensemble. Particulièrement utile pour nettoyer les nouveaux PC avec bloatware OEM."
+        },
+        "df3": {
+          "title": "Désinstallation forcée",
+          "description": "Supprimez forcément les applications récalcitrantes que le Panneau de configuration ne peut pas — désinstalleurs cassés, applications sans désinstalleur."
+        },
+        "df4": {
+          "title": "Surveillance d'installation",
+          "description": "Suivez les modifications système lors de l'installation de nouvelles applications. Garantit une suppression 100 % des traces lors de la désinstallation ultérieure."
+        },
+        "df5": {
+          "title": "Suppression des mises à jour Windows",
+          "description": "Supprimez les mises à jour Windows problématiques, revenez à la version stable. Prend en charge à la fois Windows Update et Driver Update."
+        },
+        "df6": {
+          "title": "Sauvegarde pré-désinstallation",
+          "description": "Crée automatiquement un point de restauration et une sauvegarde du registre avant chaque désinstallation. Retour en arrière facile en cas de problème."
+        }
+      },
+      "browser": {
+        "df1": {
+          "title": "Ultra-Fast Rendering",
+          "description": "Optimized engine loads web pages up to 3x faster."
+        },
+        "df2": {
+          "title": "Built-in Ad Blocker",
+          "description": "Stops annoying ads and pop-ups automatically."
+        },
+        "df3": {
+          "title": "Strict Privacy",
+          "description": "Blocks third-party trackers and fingerprinting scripts."
+        },
+        "df4": {
+          "title": "Low RAM Usage",
+          "description": "Uses up to 50% less memory than other major browsers."
+        },
+        "df5": {
+          "title": "Chromium Based",
+          "description": "Fully compatible with all Chrome web store extensions."
+        },
+        "df6": {
+          "title": "Cloud Sync",
+          "description": "Sync your bookmarks and passwords securely across devices."
+        }
       }
     },
     "faqs": {
@@ -450,16 +604,6 @@
         "a3": "Oui. Zidimi Cleaner crée automatiquement un point de restauration avant chaque nettoyage. Vous pouvez annuler toutes les actions dans les 30 jours via la fonction Historique. Les fichiers supprimés sont compressés et stockés dans la Corbeille Zidimi, distincte de la Corbeille Windows.",
         "q4": "À quelle fréquence dois-je nettoyer ?",
         "a4": "Nous recommandons une analyse rapide hebdomadaire et une analyse approfondie mensuelle. Zidimi Cleaner Pro peut planifier automatiquement — par ex., analyse rapide chaque vendredi, analyse approfondie le 1er de chaque mois — pour que vous n'ayez pas à vous en souvenir manuellement."
-      },
-      "driver": {
-        "q1": "Les pilotes Zidimi sont-ils officiels ?",
-        "a1": "Oui. Tous les pilotes de la base Zidimi sont téléchargés directement depuis les serveurs officiels des fabricants (NVIDIA, AMD, Intel, Realtek, etc.) et sont signés numériquement Microsoft WHQL. Nous ne distribuons jamais de pilotes modifiés ou bêta.",
-        "q2": "La mise à jour des pilotes est-elle dangereuse ?",
-        "a2": "Zidimi Driver crée toujours un point de restauration système et sauvegarde les anciens pilotes avant chaque mise à jour. Si un nouveau pilote pose problème, vous pouvez revenir à la version précédente en un clic. Le taux de réussite des mises à jour est de 99,7 %.",
-        "q3": "Zidimi Driver prend-il en charge les ordinateurs portables ?",
-        "a3": "Oui, particulièrement adapté aux ordinateurs portables. De nombreux portables (Dell, HP, Lenovo, Asus, Acer) ont des pilotes OEM personnalisés différents des pilotes publics. Zidimi identifie votre ordinateur portable et télécharge le pilote OEM correct, garantissant le bon fonctionnement des touches de fonction (Fn), webcam, empreinte digitale, carte audio.",
-        "q4": "À quelle fréquence les nouveaux pilotes sont-ils mis à jour ?",
-        "a4": "La base de pilotes Zidimi est mise à jour quotidiennement avec les nouveaux pilotes publiés par les OEM. Le logiciel vérifiera automatiquement et vous avertira lorsque de nouveaux pilotes sont disponibles pour vos appareils. Vous pouvez activer la mise à jour automatique pour une installation silencieuse en arrière-plan."
       },
       "privacy": {
         "q1": "Zidimi Privacy peut-il remplacer un VPN ?",
@@ -500,6 +644,16 @@
         "a3": "Oui. Zidimi Uninstaller possède une détection de bloatware — applications OEM préinstallées (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery, etc.). Listez automatiquement et permet la suppression par lot en un clic. Un nouveau PC a en moyenne 10 à 30 bloatware ; les supprimer toutes accélère considérablement l'ordinateur.",
         "q4": "Peut-il désinstaller les applications Windows Store (UWP) ?",
         "a4": "Oui. Zidimi Uninstaller prend en charge la désinstallation des applications de bureau Win32 traditionnelles et des applications Windows Store (UWP). Particulièrement utile pour supprimer les applications Windows intégrées que le Panneau de configuration ne permet pas de désinstaller (Cortana, Xbox, Mail, Calendrier, etc.)."
+      },
+      "browser": {
+        "q1": "Is Zidimi Browser based on Chrome?",
+        "a1": "Zidimi Browser is built on the open-source Chromium project. This means it is fast, secure, and supports all Chrome extensions.",
+        "q2": "Can I install my Chrome extensions?",
+        "a2": "Yes! Zidimi Browser is fully compatible with the Chrome Web Store. You can install all your favorite extensions with a single click.",
+        "q3": "How does it use less RAM?",
+        "a3": "We've optimized the background processes and implemented aggressive tab sleeping for inactive tabs, reducing memory footprint by up to 50%.",
+        "q4": "Is the ad blocker free?",
+        "a4": "Yes, the ad blocker and tracking protection are built directly into the browser core and are completely free forever."
       }
     },
     "howItWorks": {
@@ -510,14 +664,6 @@
         "h2d": "Affiche la liste détaillée des fichiers indésirables par catégorie, avec l'espace récupérable. Vous pouvez décocher tout élément.",
         "h3t": "Nettoyage en 1 clic",
         "h3d": "Cliquez sur « Nettoyer maintenant » pour tout supprimer. Zidimi crée automatiquement un point de restauration pour que vous puissiez annuler à tout moment."
-      },
-      "driver": {
-        "h1t": "Analyser les pilotes",
-        "h1d": "Analysez tous les périphériques matériels, comparez les versions actuelles des pilotes avec la base de pilotes la plus récente de Zidimi.",
-        "h2t": "Choisir les mises à jour",
-        "h2d": "Affiche la liste des pilotes obsolètes avec les informations de nouvelle version, le fabricant et la taille de téléchargement.",
-        "h3t": "Installation automatique",
-        "h3d": "Zidimi télécharge automatiquement, sauvegarde les anciens pilotes, installe les nouveaux, crée un point de restauration pour un retour en arrière."
       },
       "privacy": {
         "h1t": "Analyser les traces",
@@ -550,6 +696,14 @@
         "h2d": "Sélectionnez une ou plusieurs applications à supprimer. Zidimi exécute d'abord le désinstalleur officiel, puis analyse profondément les résidus.",
         "h3t": "Nettoyer",
         "h3d": "Supprime tous les fichiers indésirables résiduels, registre, raccourcis. Crée un point de restauration pour un retour en arrière si besoin."
+      },
+      "browser": {
+        "h1t": "Download & Install",
+        "h1d": "Get the lightweight 85MB installer and set up Zidimi Browser in under 30 seconds.",
+        "h2t": "Import Your Data",
+        "h2d": "Easily import your bookmarks, passwords, and history from your old browser.",
+        "h3t": "Browse Securely",
+        "h3d": "Enjoy a faster, ad-free web experience with maximum privacy protection."
       }
     },
     "reqs": {
@@ -559,13 +713,6 @@
         "ram": "Minimum 1 GB (2 GB recommandés)",
         "disk": "100 MB d'espace libre",
         "internet": "Requis pour les mises à jour"
-      },
-      "driver": {
-        "os": "Windows 11/10/8.1/8/7 (32 bits et 64 bits)",
-        "cpu": "Intel Pentium 1 GHz ou équivalent",
-        "ram": "Minimum 1 GB",
-        "disk": "150 MB d'espace libre",
-        "internet": "Requis pour télécharger les pilotes"
       },
       "privacy": {
         "os": "Windows 11/10/8.1/8/7 (32 bits et 64 bits)",
@@ -594,13 +741,31 @@
         "ram": "Minimum 1 GB",
         "disk": "50 MB d'espace libre",
         "internet": "Non requis"
+      },
+      "browser": {
+        "os": "Windows 11, 10, 8.1, 7",
+        "cpu": "1 GHz or faster",
+        "ram": "512 MB minimum",
+        "disk": "100 MB free space",
+        "internet": "Required for web browsing"
       }
     }
   },
   "Metadata": {
     "defaultTitle": "Zidimi — Logiciels utilitaires personnels pour l'optimisation du PC",
     "defaultDescription": "Zidimi est une suite logicielle utilitaire personnelle de premier plan : nettoyage PC, mises à jour de pilotes, protection de la vie privée, gestion des mots de passe et sauvegarde de données. Rapide, sûr, téléchargement gratuit.",
-    "defaultKeywords": ["Zidimi", "logiciels utilitaires", "optimisation PC", "nettoyage PC", "mise à jour de pilotes", "protection de la vie privée", "gestionnaire de mots de passe", "sauvegarde de données", "désinstalleur", "logiciel gratuit"],
+    "defaultKeywords": [
+      "Zidimi",
+      "logiciels utilitaires",
+      "optimisation PC",
+      "nettoyage PC",
+      "mise à jour de pilotes",
+      "protection de la vie privée",
+      "gestionnaire de mots de passe",
+      "sauvegarde de données",
+      "désinstalleur",
+      "logiciel gratuit"
+    ],
     "home": {
       "title": "Zidimi — Logiciels utilitaires personnels pour l'optimisation du PC",
       "description": "Zidimi est une suite logicielle utilitaire personnelle de premier plan : nettoyage PC, mises à jour de pilotes, protection de la vie privée, gestion des mots de passe et sauvegarde de données. Rapide, sûr, téléchargement gratuit."
@@ -609,10 +774,6 @@
       "cleaner": {
         "title": "Zidimi Cleaner — Nettoyage et optimisation du système",
         "description": "Analysez et supprimez les fichiers indésirables, les erreurs de registre et le cache du navigateur en un clic. Libérez des gigaoctets d'espace et accélérez votre ordinateur instantanément."
-      },
-      "driver": {
-        "title": "Zidimi Driver — Mises à jour automatiques des pilotes",
-        "description": "Détectez automatiquement les pilotes obsolètes et mettez-les à jour à partir d'une base de plus de 5 millions de pilotes officiels. Réglez les problèmes de périphériques, améliorez les performances des jeux et des graphismes."
       },
       "privacy": {
         "title": "Zidimi Privacy — Protection de la vie privée",
@@ -629,6 +790,10 @@
       "uninstaller": {
         "title": "Zidimi Uninstaller — Désinstalleur complet",
         "description": "Supprimez les logiciels récalcitrants ainsi que tous les fichiers résiduels, entrées de registre et raccourcis. Désinstallation par lot et désinstallation forcée prises en charge."
+      },
+      "browser": {
+        "title": "Zidimi Browser — Fast & Private Web Browser",
+        "description": "Browse the web safely with Zidimi Browser. Built-in ad blocker, tracking protection, and optimized for low RAM usage. Download free today."
       }
     },
     "notFound": "Produit introuvable"

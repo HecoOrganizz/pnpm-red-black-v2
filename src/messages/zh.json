@@ -75,39 +75,64 @@
         "name": "Zidimi Cleaner",
         "tagline": "清理与系统优化",
         "description": "一键扫描并清除垃圾文件、注册表错误和浏览器缓存。释放数 GB 空间,立即加速您的电脑。",
-        "features": ["一键深度扫描", "安全注册表清理", "启动项加速"],
+        "features": [
+          "一键深度扫描",
+          "安全注册表清理",
+          "启动项加速"
+        ],
         "badge": "最受欢迎"
-      },
-      "driver": {
-        "name": "Zidimi Driver",
-        "tagline": "自动驱动更新",
-        "description": "自动检测过时驱动,并从超过 500 万款官方驱动数据库中更新。修复设备问题,提升游戏和图形性能。",
-        "features": ["500万+ 官方驱动", "更新前备份", "定时自动更新"]
       },
       "privacy": {
         "name": "Zidimi Privacy",
         "tagline": "隐私保护",
         "description": "清除浏览历史、拦截追踪器、加密个人文件并防范间谍软件。您的数据,由您掌控。",
-        "features": ["拦截追踪器与 Cookie", "AES-256 文件加密", "安全永久删除"],
+        "features": [
+          "拦截追踪器与 Cookie",
+          "AES-256 文件加密",
+          "安全永久删除"
+        ],
         "badge": "新品"
       },
       "password": {
         "name": "Zidimi Password",
         "tagline": "安全密码管理器",
         "description": "将密码存储于零知识加密保险库。自动填充登录信息、生成强密码,并安全跨设备同步。",
-        "features": ["零知识加密", "智能自动填充", "跨设备同步"]
+        "features": [
+          "零知识加密",
+          "智能自动填充",
+          "跨设备同步"
+        ]
       },
       "backup": {
         "name": "Zidimi Backup",
         "tagline": "备份与恢复数据",
         "description": "自动将文件、文件夹和整个系统备份到云端或外部驱动器。当灾难发生时,几分钟内即可快速恢复。",
-        "features": ["定时备份", "云同步", "一键恢复"]
+        "features": [
+          "定时备份",
+          "云同步",
+          "一键恢复"
+        ]
       },
       "uninstaller": {
         "name": "Zidimi Uninstaller",
         "tagline": "完整卸载工具",
         "description": "卸载顽固软件及其所有残留文件、注册表项和快捷方式。支持批量卸载和强制卸载。",
-        "features": ["100% 彻底清除", "批量卸载", "强制卸载"]
+        "features": [
+          "100% 彻底清除",
+          "批量卸载",
+          "强制卸载"
+        ]
+      },
+      "browser": {
+        "name": "Zidimi Browser",
+        "tagline": "Fast & Private Web Browser",
+        "description": "Experience the web without ads, trackers, or interruptions. Built for speed and maximum privacy.",
+        "features": [
+          "Built-in Ad Blocker",
+          "Anti-Tracking Engine",
+          "Low RAM & CPU Usage",
+          "Free VPN (Coming soon)"
+        ]
       }
     }
   },
@@ -156,36 +181,36 @@
     "badge": "社区评价",
     "title": "2500 万用户",
     "titleHighlight": "信赖 Zidimi。",
-    "subtitle": "我们很荣幸受到越南及全球用户的喜爱。以下是一些来自 Zidimi 客户的真实评价。",
+    "subtitle": "探索用户对 Zidimi 使用体验的评价。",
     "items": {
       "r1": {
-        "name": "Minh Tran",
-        "role": "自由设计师 · 河内",
+        "name": "Alex Johnson",
+        "role": "自由设计师 · New York",
         "text": "使用 Zidimi Cleaner 后,我的电脑开机快多了,从 45 秒降到 18 秒。越南语界面清晰,操作简单,无烦人广告。强烈推荐!"
       },
       "r2": {
-        "name": "Lan Pham",
-        "role": "首席会计 · 胡志明市",
+        "name": "Sarah Williams",
+        "role": "首席会计 · London",
         "text": "Zidimi Password 帮了我大忙。以前我把密码记在笔记本上,现在所有内容都经过 AES-256 加密,需要时自动填充。处理客户数据时安心多了。"
       },
       "r3": {
-        "name": "Hoang Nguyen",
-        "role": "IT 学生 · 岘港",
-        "text": "我下载 Zidimi Driver 修复玩游戏时的显卡问题。仅 2 分钟就自动更新了驱动,游戏运行流畅无卡顿。免费却比许多付费软件质量更高。"
+        "name": "Michael Davis",
+        "role": "IT 学生 · Berlin",
+        "text": "I downloaded Zidimi Browser for faster surfing. It blocks ads perfectly and uses way less RAM than Chrome. The UI is clean and extensions work great. Highly recommended!"
       },
       "r4": {
-        "name": "Mai Le",
-        "role": "市场主管 · 平阳",
+        "name": "Emily Chen",
+        "role": "市场主管 · Toronto",
         "text": "Zidimi Privacy 拦截追踪器效果非常显著。我每天上网,明显感觉到定向广告减少了。永久删除文件的功能对工作也非常有用。"
       },
       "r5": {
-        "name": "Duc Anh Vu",
-        "role": "IT 经理 · 海防",
+        "name": "David Smith",
+        "role": "IT 经理 · Sydney",
         "text": "在公司 50 台电脑上部署了 Zidimi。集中式仪表板管理、自动更新,无需人工干预。比使用单独工具为我们的 IT 团队节省了大量时间。"
       },
       "r6": {
-        "name": "Huong Nguyen",
-        "role": "教师 · 芹苴",
+        "name": "Jessica Taylor",
+        "role": "教师 · Chicago",
         "text": "我不懂技术,但 Zidimi 非常易用。只需一键清理就完成了。自动云备份让我不再担心丢失讲义。感谢 Zidimi 团队!"
       }
     },
@@ -206,19 +231,40 @@
       "free": {
         "name": "免费版",
         "description": "适合个人家庭使用的完整基础功能。",
-        "features": ["全部 6 款 Zidimi 产品", "手动扫描与清理", "每月 5 次驱动更新", "1 GB 云备份", "社区支持"],
+        "features": [
+          "全部 6 款 Zidimi 产品",
+          "手动扫描与清理",
+          "每月 5 次驱动更新",
+          "1 GB 云备份",
+          "社区支持"
+        ],
         "cta": "免费下载"
       },
       "pro": {
         "name": "专业版",
         "description": "面向需要深度优化和全面保护的用户。",
-        "features": ["包含免费版所有功能,另加:", "定时自动扫描", "无限驱动更新", "100 GB 云备份", "AES-256 文件加密", "优先 7×24 小时支持"],
+        "features": [
+          "包含免费版所有功能,另加:",
+          "定时自动扫描",
+          "无限驱动更新",
+          "100 GB 云备份",
+          "AES-256 文件加密",
+          "优先 7×24 小时支持"
+        ],
         "cta": "升级到专业版"
       },
       "business": {
         "name": "企业版",
         "description": "面向团队和企业的部署管理。",
-        "features": ["包含专业版所有功能,另加:", "集中式仪表板", "批量部署 (MSI)", "ITSM API 集成", "每团队 1 TB 云备份", "专属客户经理", "99.9% 正常运行时间 SLA"],
+        "features": [
+          "包含专业版所有功能,另加:",
+          "集中式仪表板",
+          "批量部署 (MSI)",
+          "ITSM API 集成",
+          "每团队 1 TB 云备份",
+          "专属客户经理",
+          "99.9% 正常运行时间 SLA"
+        ],
         "cta": "联系销售"
       }
     },
@@ -315,13 +361,13 @@
       "support": "支持中心",
       "guides": "用户指南",
       "blog": "技巧博客",
-      "driverCheck": "驱动检测",
       "forum": "社区论坛",
       "terms": "服务条款",
       "privacy": "隐私政策",
       "cookie": "Cookie 政策",
       "license": "软件许可",
-      "security": "安全报告"
+      "security": "安全报告",
+      "browserCheck": "Browser Check"
     },
     "trustBadges": {
       "authenticode": "Microsoft Authenticode 签名",
@@ -384,60 +430,168 @@
     "back": "返回首页",
     "longDesc": {
       "cleaner": "Zidimi Cleaner 是一款备受 1200 万用户信赖的一体化电脑清理工具。凭借专为 Windows 开发的深度扫描算法,Zidimi Cleaner 可检测 50 多种不同类型的垃圾文件——从浏览器缓存和系统临时文件到长年使用积累的注册表错误。除清理外,该软件还能优化启动项、管理后台服务并安排自动维护,让您的电脑始终保持最佳状态。",
-      "driver": "Zidimi Driver 是一款面向 Windows 的综合驱动管理解决方案。凭借来自 NVIDIA、AMD、Intel、Realtek 和 Broadcom 等制造商超过 500 万款官方驱动的数据库,Zidimi Driver 确保您始终拥有最新且最兼容的驱动版本。该软件不仅更新驱动,还会在每次更新前创建还原点、备份当前驱动以便需要时回滚,并自动每周检查更新。对需要更新显卡驱动以提升 FPS 和修复卡顿的玩家尤为有用。",
       "privacy": "Zidimi Privacy 是一款面向 Windows 的综合隐私保护工具包。在个人数据已成为商品的时代,Zidimi Privacy 让您精确掌控哪些信息被分享、哪些保持私密。该软件拦截来自热门网站的 10000 多个追踪器和指纹脚本、使用 AES-256(银行和军方使用的相同标准)加密敏感文件、永久删除敏感文件使其无法被任何恢复软件恢复,并监控应用程序的访问权限。对关注数据安全的用户尤为有用。",
       "password": "Zidimi Password 是一款采用零知识架构的新一代密码管理器。与传统密码管理器不同,Zidimi Password 绝不会在服务器上存储您的密码——所有数据都在您的设备上加密后再同步到云端。即使 Zidimi 也无法看到您的密码。该软件支持跨所有浏览器的智能自动填充登录、遵循 NIST 标准生成强随机密码、在 Windows、macOS、iOS 和 Android 之间安全同步,并集成了内置的双重身份验证(2FA)以额外保护重要账户。",
       "backup": "Zidimi Backup 是一款综合备份解决方案,确保您永远不必担心丢失重要数据。无论是工作文档、家庭照片还是整个操作系统,Zidimi Backup 都能安全备份到加密云端、外部驱动器、NAS 或网络驱动器。该软件支持定时备份(每日、每周、每月)、节省空间和时间的增量备份,并存储多个历史版本,让您可以恢复到过去任意时间点。当灾难发生时,一键恢复功能可在几分钟内而非几小时内帮您恢复数据。",
-      "uninstaller": "Zidimi Uninstaller 是 Windows 上最彻底的软件卸载工具。当您通过默认控制面板卸载应用时,AppData、ProgramData、注册表、临时文件和快捷方式中通常会留下大量垃圾文件。Zidimi Uninstaller 深度扫描整个系统,查找并彻底移除应用程序的每一个痕迹。对无法通过控制面板移除的顽固应用(强制卸载)、捆绑广告软件/臃肿软件的应用,以及您想在重装 Windows 前清理电脑时尤为有用。支持一次批量卸载多个应用以节省时间。"
+      "uninstaller": "Zidimi Uninstaller 是 Windows 上最彻底的软件卸载工具。当您通过默认控制面板卸载应用时,AppData、ProgramData、注册表、临时文件和快捷方式中通常会留下大量垃圾文件。Zidimi Uninstaller 深度扫描整个系统,查找并彻底移除应用程序的每一个痕迹。对无法通过控制面板移除的顽固应用(强制卸载)、捆绑广告软件/臃肿软件的应用,以及您想在重装 Windows 前清理电脑时尤为有用。支持一次批量卸载多个应用以节省时间。",
+      "browser": "Zidimi Browser is a next-generation web browser built on the Chromium engine but heavily optimized for speed, privacy, and low resource usage. With built-in AdBlock, strict anti-tracking, and a minimalist interface, it loads pages up to 3x faster than standard browsers while using 50% less RAM."
     },
     "detailedFeatures": {
       "cleaner": {
-        "df1": { "title": "超快扫描", "description": "多线程并行算法在 10 秒内扫描整个系统,比同类软件快 3 倍。" },
-        "df2": { "title": "绝对安全", "description": "10000+ 关键系统文件白名单,确保我们绝不会删除 Windows 运行所必需的文件。" },
-        "df3": { "title": "自动调度", "description": "按每日、每周或每月计划自动清理。在后台静默运行,不打扰工作。" },
-        "df4": { "title": "深度注册表扫描", "description": "检测并修复 50 多种常见注册表错误,这些错误会拖慢电脑、导致应用崩溃、引发蓝屏和 Windows 更新失败。" },
-        "df5": { "title": "删除前预览", "description": "在确认前查看待删除文件和项目的详细列表。完全掌控保留重要内容。" },
-        "df6": { "title": "30 天撤销", "description": "所有清理操作都保存在历史记录中。30 天内可随时恢复已删除的文件。" }
-      },
-      "driver": {
-        "df1": { "title": "500万+ 官方驱动", "description": "来自 NVIDIA、AMD、Intel、Realtek、Broadcom 及 500 多家其他 OEM 的大型驱动数据库,每日更新。" },
-        "df2": { "title": "自动更新", "description": "每周自动检查新驱动。启用自动更新可进行静默后台安装。" },
-        "df3": { "title": "更新前备份", "description": "自动创建还原点并备份当前驱动。一键回滚到先前版本。" },
-        "df4": { "title": "智能调度", "description": "按每周/每月安排驱动检查。在非工作时间运行,避免打扰工作。" },
-        "df5": { "title": "性能提升", "description": "显卡驱动更新可使游戏 FPS 提升 15-30%,修复卡顿并针对专业图形软件进行优化。" },
-        "df6": { "title": "修复设备错误", "description": "解决设备无法识别、USB 连接问题、音频杂音、打印机错误、蓝牙断连等问题。" }
+        "df1": {
+          "title": "超快扫描",
+          "description": "多线程并行算法在 10 秒内扫描整个系统,比同类软件快 3 倍。"
+        },
+        "df2": {
+          "title": "绝对安全",
+          "description": "10000+ 关键系统文件白名单,确保我们绝不会删除 Windows 运行所必需的文件。"
+        },
+        "df3": {
+          "title": "自动调度",
+          "description": "按每日、每周或每月计划自动清理。在后台静默运行,不打扰工作。"
+        },
+        "df4": {
+          "title": "深度注册表扫描",
+          "description": "检测并修复 50 多种常见注册表错误,这些错误会拖慢电脑、导致应用崩溃、引发蓝屏和 Windows 更新失败。"
+        },
+        "df5": {
+          "title": "删除前预览",
+          "description": "在确认前查看待删除文件和项目的详细列表。完全掌控保留重要内容。"
+        },
+        "df6": {
+          "title": "30 天撤销",
+          "description": "所有清理操作都保存在历史记录中。30 天内可随时恢复已删除的文件。"
+        }
       },
       "privacy": {
-        "df1": { "title": "拦截追踪器", "description": "拦截来自 Facebook、Google、Amazon 及其他主要广告网络的 10000+ 追踪器和指纹脚本。" },
-        "df2": { "title": "AES-256 加密", "description": "使用 AES-256 加密敏感文件和文件夹——与银行和军方使用的相同标准。" },
-        "df3": { "title": "永久删除", "description": "按 DoD 5220.22-M 标准进行不可恢复的文件删除,多次覆盖随机数据。" },
-        "df4": { "title": "匿名浏览", "description": "隐藏 IP、清除在线痕迹、防范浏览器指纹。浏览不留痕迹。" },
-        "df5": { "title": "数据泄露警报", "description": "集成 Have I Been Pwned 数据库——如果您的邮箱或密码出现在数据泄露中会发出警报。" },
-        "df6": { "title": "Cookie 控制", "description": "按网站控制 Cookie。白名单需要登录的网站,自动删除第三方追踪 Cookie。" }
+        "df1": {
+          "title": "拦截追踪器",
+          "description": "拦截来自 Facebook、Google、Amazon 及其他主要广告网络的 10000+ 追踪器和指纹脚本。"
+        },
+        "df2": {
+          "title": "AES-256 加密",
+          "description": "使用 AES-256 加密敏感文件和文件夹——与银行和军方使用的相同标准。"
+        },
+        "df3": {
+          "title": "永久删除",
+          "description": "按 DoD 5220.22-M 标准进行不可恢复的文件删除,多次覆盖随机数据。"
+        },
+        "df4": {
+          "title": "匿名浏览",
+          "description": "隐藏 IP、清除在线痕迹、防范浏览器指纹。浏览不留痕迹。"
+        },
+        "df5": {
+          "title": "数据泄露警报",
+          "description": "集成 Have I Been Pwned 数据库——如果您的邮箱或密码出现在数据泄露中会发出警报。"
+        },
+        "df6": {
+          "title": "Cookie 控制",
+          "description": "按网站控制 Cookie。白名单需要登录的网站,自动删除第三方追踪 Cookie。"
+        }
       },
       "password": {
-        "df1": { "title": "零知识", "description": "Zidimi 永远不会知道您的密码。数据在设备上加密后再同步——服务器仅存储密文。" },
-        "df2": { "title": "强密码生成器", "description": "符合 NIST 标准的密码生成器,支持随机密码和密码短语。可自定义长度、字符,排除歧义字符。" },
-        "df3": { "title": "自动填充", "description": "浏览器扩展一键自动填充登录信息。智能表单检测,支持多步登录。" },
-        "df4": { "title": "跨设备同步", "description": "通过端到端加密云在 Windows、macOS、iOS、Android 之间安全同步。离线优先,联网时同步。" },
-        "df5": { "title": "内置 2FA", "description": "集成类似 Google Authenticator 的 TOTP 双重身份验证。在应用内为 2FA 账户生成 6 位验证码。" },
-        "df6": { "title": "泄露警报", "description": "自动对照 Have I Been Pwned 数据库检查密码。如有密码在数据泄露中被泄露会通知您。" }
+        "df1": {
+          "title": "零知识",
+          "description": "Zidimi 永远不会知道您的密码。数据在设备上加密后再同步——服务器仅存储密文。"
+        },
+        "df2": {
+          "title": "强密码生成器",
+          "description": "符合 NIST 标准的密码生成器,支持随机密码和密码短语。可自定义长度、字符,排除歧义字符。"
+        },
+        "df3": {
+          "title": "自动填充",
+          "description": "浏览器扩展一键自动填充登录信息。智能表单检测,支持多步登录。"
+        },
+        "df4": {
+          "title": "跨设备同步",
+          "description": "通过端到端加密云在 Windows、macOS、iOS、Android 之间安全同步。离线优先,联网时同步。"
+        },
+        "df5": {
+          "title": "内置 2FA",
+          "description": "集成类似 Google Authenticator 的 TOTP 双重身份验证。在应用内为 2FA 账户生成 6 位验证码。"
+        },
+        "df6": {
+          "title": "泄露警报",
+          "description": "自动对照 Have I Been Pwned 数据库检查密码。如有密码在数据泄露中被泄露会通知您。"
+        }
       },
       "backup": {
-        "df1": { "title": "自动备份", "description": "安排每日、每周、每月备份。在后台静默运行,不打扰工作。" },
-        "df2": { "title": "安全云存储", "description": "通过 AES-256 端到端加密备份到 Zidimi 云。服务器位于越南,符合第 13/2023/NĐ-CP 号法令。" },
-        "df3": { "title": "版本历史", "description": "存储多个文件版本——30 天内(免费版)或 1 年内(专业版)可恢复到任意时间点。" },
-        "df4": { "title": "一键恢复", "description": "选择要恢复的版本,点击恢复。文件在几分钟内返回原位置,无需复杂操作。" },
-        "df5": { "title": "系统备份", "description": "创建包括整个操作系统、应用、设置、驱动在内的系统镜像。需要时将 Windows 恢复到精确状态。" },
-        "df6": { "title": "端到端加密", "description": "数据在设备上加密后再上传到云端。即使 Zidimi 也无法查看您的文件。" }
+        "df1": {
+          "title": "自动备份",
+          "description": "安排每日、每周、每月备份。在后台静默运行,不打扰工作。"
+        },
+        "df2": {
+          "title": "安全云存储",
+          "description": "通过 AES-256 端到端加密备份到 Zidimi 云。服务器位于越南,符合第 13/2023/NĐ-CP 号法令。"
+        },
+        "df3": {
+          "title": "版本历史",
+          "description": "存储多个文件版本——30 天内(免费版)或 1 年内(专业版)可恢复到任意时间点。"
+        },
+        "df4": {
+          "title": "一键恢复",
+          "description": "选择要恢复的版本,点击恢复。文件在几分钟内返回原位置,无需复杂操作。"
+        },
+        "df5": {
+          "title": "系统备份",
+          "description": "创建包括整个操作系统、应用、设置、驱动在内的系统镜像。需要时将 Windows 恢复到精确状态。"
+        },
+        "df6": {
+          "title": "端到端加密",
+          "description": "数据在设备上加密后再上传到云端。即使 Zidimi 也无法查看您的文件。"
+        }
       },
       "uninstaller": {
-        "df1": { "title": "彻底移除", "description": "深度扫描 AppData、ProgramData、注册表、临时文件,移除应用程序的每一个痕迹。" },
-        "df2": { "title": "批量卸载", "description": "选择多个应用一起卸载。对清理带有 OEM 臃件软件的新电脑尤为有用。" },
-        "df3": { "title": "强制卸载", "description": "强制移除控制面板无法卸载的顽固应用——损坏的卸载程序、没有卸载程序的应用。" },
-        "df4": { "title": "安装监控", "description": "跟踪安装新应用时的系统变化。确保日后卸载时 100% 移除痕迹。" },
-        "df5": { "title": "移除 Windows 更新", "description": "移除有问题的 Windows 更新,回滚到稳定版本。同时支持 Windows 更新和驱动更新。" },
-        "df6": { "title": "卸载前备份", "description": "每次卸载前自动创建还原点和注册表备份。出现问题时可轻松回滚。" }
+        "df1": {
+          "title": "彻底移除",
+          "description": "深度扫描 AppData、ProgramData、注册表、临时文件,移除应用程序的每一个痕迹。"
+        },
+        "df2": {
+          "title": "批量卸载",
+          "description": "选择多个应用一起卸载。对清理带有 OEM 臃件软件的新电脑尤为有用。"
+        },
+        "df3": {
+          "title": "强制卸载",
+          "description": "强制移除控制面板无法卸载的顽固应用——损坏的卸载程序、没有卸载程序的应用。"
+        },
+        "df4": {
+          "title": "安装监控",
+          "description": "跟踪安装新应用时的系统变化。确保日后卸载时 100% 移除痕迹。"
+        },
+        "df5": {
+          "title": "移除 Windows 更新",
+          "description": "移除有问题的 Windows 更新,回滚到稳定版本。同时支持 Windows 更新和驱动更新。"
+        },
+        "df6": {
+          "title": "卸载前备份",
+          "description": "每次卸载前自动创建还原点和注册表备份。出现问题时可轻松回滚。"
+        }
+      },
+      "browser": {
+        "df1": {
+          "title": "Ultra-Fast Rendering",
+          "description": "Optimized engine loads web pages up to 3x faster."
+        },
+        "df2": {
+          "title": "Built-in Ad Blocker",
+          "description": "Stops annoying ads and pop-ups automatically."
+        },
+        "df3": {
+          "title": "Strict Privacy",
+          "description": "Blocks third-party trackers and fingerprinting scripts."
+        },
+        "df4": {
+          "title": "Low RAM Usage",
+          "description": "Uses up to 50% less memory than other major browsers."
+        },
+        "df5": {
+          "title": "Chromium Based",
+          "description": "Fully compatible with all Chrome web store extensions."
+        },
+        "df6": {
+          "title": "Cloud Sync",
+          "description": "Sync your bookmarks and passwords securely across devices."
+        }
       }
     },
     "faqs": {
@@ -450,16 +604,6 @@
         "a3": "可以。Zidimi Cleaner 在每次清理前自动创建还原点。您可以在 30 天内通过历史记录功能撤销所有操作。已删除的文件被压缩并存储在 Zidimi 的回收站中,与 Windows 回收站分开。",
         "q4": "我应该多久清理一次?",
         "a4": "我们建议每周快速扫描,每月深度扫描。Zidimi Cleaner 专业版可自动安排——例如每周五快速扫描,每月 1 日深度扫描——您无需手动记忆。"
-      },
-      "driver": {
-        "q1": "Zidimi 的驱动是官方的吗?",
-        "a1": "是的。Zidimi 数据库中的所有驱动都直接从制造商官方服务器(NVIDIA、AMD、Intel、Realtek 等)下载,并经过 Microsoft WHQL 数字签名。我们从不分发修改版或测试版驱动。",
-        "q2": "更新驱动危险吗?",
-        "a2": "Zidimi Driver 在每次更新前都会创建系统还原点并备份旧驱动。如果新驱动出现问题,您可以一键回滚到先前版本。更新成功率为 99.7%。",
-        "q3": "Zidimi Driver 支持笔记本电脑吗?",
-        "a3": "支持,特别适合笔记本电脑。许多笔记本(Dell、HP、Lenovo、Asus、Acer)有定制的 OEM 驱动,与公开驱动不同。Zidimi 会识别您的笔记本并下载正确的 OEM 驱动,确保功能键(Fn)、摄像头、指纹、声卡都正常工作。",
-        "q4": "新驱动多久更新一次?",
-        "a4": "Zidimi 的驱动数据库每日更新来自 OEM 的新发布驱动。当您的设备有新驱动可用时,软件会自动检查并通知您。您可以启用自动更新进行静默后台安装。"
       },
       "privacy": {
         "q1": "Zidimi Privacy 能替代 VPN 吗?",
@@ -500,6 +644,16 @@
         "a3": "能。Zidimi Uninstaller 具有臃件软件检测功能——预装的 OEM 应用(McAfee 试用版、WildTangent、Lenovo App、Dell Digital Delivery 等)。自动列出并允许一键批量移除。平均新电脑有 10-30 个臃件软件;全部移除可显著加快电脑速度。",
         "q4": "能卸载 Windows 应用商店(UWP)应用吗?",
         "a4": "能。Zidimi Uninstaller 支持卸载传统 Win32 桌面应用和 Windows 应用商店(UWP)应用。对移除控制面板不允许卸载的内置 Windows 应用(Cortana、Xbox、邮件、日历等)尤为有用。"
+      },
+      "browser": {
+        "q1": "Is Zidimi Browser based on Chrome?",
+        "a1": "Zidimi Browser is built on the open-source Chromium project. This means it is fast, secure, and supports all Chrome extensions.",
+        "q2": "Can I install my Chrome extensions?",
+        "a2": "Yes! Zidimi Browser is fully compatible with the Chrome Web Store. You can install all your favorite extensions with a single click.",
+        "q3": "How does it use less RAM?",
+        "a3": "We've optimized the background processes and implemented aggressive tab sleeping for inactive tabs, reducing memory footprint by up to 50%.",
+        "q4": "Is the ad blocker free?",
+        "a4": "Yes, the ad blocker and tracking protection are built directly into the browser core and are completely free forever."
       }
     },
     "howItWorks": {
@@ -510,14 +664,6 @@
         "h2d": "按类别显示垃圾文件详细列表及可回收空间。您可以取消勾选任何项目。",
         "h3t": "一键清理",
         "h3d": "点击'立即清理'移除所有内容。Zidimi 自动创建还原点,您可以随时撤销。"
-      },
-      "driver": {
-        "h1t": "扫描驱动",
-        "h1d": "扫描所有硬件设备,将当前驱动版本与 Zidimi 的最新驱动数据库进行比较。",
-        "h2t": "选择更新",
-        "h2d": "显示过时驱动列表,包含新版本信息、制造商和下载大小。",
-        "h3t": "自动安装",
-        "h3d": "Zidimi 自动下载、备份旧驱动、安装新驱动、创建还原点以便回滚。"
       },
       "privacy": {
         "h1t": "分析痕迹",
@@ -550,6 +696,14 @@
         "h2d": "选择一个或多个要移除的应用。Zidimi 先运行官方卸载程序,然后深度扫描残留。",
         "h3t": "清理",
         "h3d": "移除所有残留的垃圾文件、注册表、快捷方式。如需要,创建还原点以便回滚。"
+      },
+      "browser": {
+        "h1t": "Download & Install",
+        "h1d": "Get the lightweight 85MB installer and set up Zidimi Browser in under 30 seconds.",
+        "h2t": "Import Your Data",
+        "h2d": "Easily import your bookmarks, passwords, and history from your old browser.",
+        "h3t": "Browse Securely",
+        "h3d": "Enjoy a faster, ad-free web experience with maximum privacy protection."
       }
     },
     "reqs": {
@@ -559,13 +713,6 @@
         "ram": "最低 1 GB(推荐 2 GB)",
         "disk": "100 MB 可用空间",
         "internet": "更新时需要"
-      },
-      "driver": {
-        "os": "Windows 11/10/8.1/8/7(32 位和 64 位)",
-        "cpu": "Intel Pentium 1 GHz 或同等配置",
-        "ram": "最低 1 GB",
-        "disk": "150 MB 可用空间",
-        "internet": "下载驱动时需要"
       },
       "privacy": {
         "os": "Windows 11/10/8.1/8/7(32 位和 64 位)",
@@ -594,13 +741,31 @@
         "ram": "最低 1 GB",
         "disk": "50 MB 可用空间",
         "internet": "不需要"
+      },
+      "browser": {
+        "os": "Windows 11, 10, 8.1, 7",
+        "cpu": "1 GHz or faster",
+        "ram": "512 MB minimum",
+        "disk": "100 MB free space",
+        "internet": "Required for web browsing"
       }
     }
   },
   "Metadata": {
     "defaultTitle": "Zidimi — PC 优化个人实用软件",
     "defaultDescription": "Zidimi 是领先的个人实用软件套件:PC 清理、驱动更新、隐私保护、密码管理和数据备份。快速、安全、免费下载。",
-    "defaultKeywords": ["Zidimi", "实用软件", "PC 优化", "PC 清理", "驱动更新", "隐私保护", "密码管理器", "数据备份", "卸载工具", "免费软件"],
+    "defaultKeywords": [
+      "Zidimi",
+      "实用软件",
+      "PC 优化",
+      "PC 清理",
+      "驱动更新",
+      "隐私保护",
+      "密码管理器",
+      "数据备份",
+      "卸载工具",
+      "免费软件"
+    ],
     "home": {
       "title": "Zidimi — PC 优化个人实用软件",
       "description": "Zidimi 是领先的个人实用软件套件:PC 清理、驱动更新、隐私保护、密码管理和数据备份。快速、安全、免费下载。"
@@ -609,10 +774,6 @@
       "cleaner": {
         "title": "Zidimi Cleaner — 清理与系统优化",
         "description": "一键扫描并清除垃圾文件、注册表错误和浏览器缓存。释放数 GB 空间,立即加速您的电脑。"
-      },
-      "driver": {
-        "title": "Zidimi Driver — 自动驱动更新",
-        "description": "自动检测过时驱动,并从超过 500 万款官方驱动数据库中更新。修复设备问题,提升游戏和图形性能。"
       },
       "privacy": {
         "title": "Zidimi Privacy — 隐私保护",
@@ -629,6 +790,10 @@
       "uninstaller": {
         "title": "Zidimi Uninstaller — 完整卸载工具",
         "description": "卸载顽固软件及其所有残留文件、注册表项和快捷方式。支持批量卸载和强制卸载。"
+      },
+      "browser": {
+        "title": "Zidimi Browser — Fast & Private Web Browser",
+        "description": "Browse the web safely with Zidimi Browser. Built-in ad blocker, tracking protection, and optimized for low RAM usage. Download free today."
       }
     },
     "notFound": "未找到产品"

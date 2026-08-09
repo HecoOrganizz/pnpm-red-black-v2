@@ -20,7 +20,7 @@
     "title": "Optimize your PC,",
     "titleHighlight": "protect your data,",
     "titleEnd": "accelerate your work.",
-    "subtitle": "Zidimi is an all-in-one personal utility suite: junk cleanup, driver updates, privacy protection, password management, and data backup.",
+    "subtitle": "Zidimi is an all-in-one personal utility suite: junk cleanup, web browser, privacy protection, password management, and data backup.",
     "subtitleHighlight": "Faster, safer, free to download.",
     "trust": {
       "free": "Free forever",
@@ -75,39 +75,64 @@
         "name": "Zidimi Cleaner",
         "tagline": "Cleanup & system optimization",
         "description": "Scan and remove junk files, registry errors, and browser cache in one click. Free up gigabytes of space and speed up your computer instantly.",
-        "features": ["1-click deep scan", "Safe registry cleanup", "Startup booster"],
+        "features": [
+          "1-click deep scan",
+          "Safe registry cleanup",
+          "Startup booster"
+        ],
         "badge": "Most popular"
-      },
-      "driver": {
-        "name": "Zidimi Driver",
-        "tagline": "Automatic driver updates",
-        "description": "Automatically detect outdated drivers and update from a database of over 5 million official drivers. Fix device issues, boost game and graphics performance.",
-        "features": ["5M+ official drivers", "Pre-update backup", "Scheduled automation"]
       },
       "privacy": {
         "name": "Zidimi Privacy",
         "tagline": "Privacy protection",
         "description": "Erase browsing history, block trackers, encrypt personal files, and prevent spyware. Your data, your control.",
-        "features": ["Block trackers & cookies", "AES-256 file encryption", "Secure permanent erasure"],
+        "features": [
+          "Block trackers & cookies",
+          "AES-256 file encryption",
+          "Secure permanent erasure"
+        ],
         "badge": "New"
       },
       "password": {
         "name": "Zidimi Password",
         "tagline": "Secure password manager",
         "description": "Store passwords in a zero-knowledge encrypted vault. Auto-fill logins, generate strong passwords, and sync safely across devices.",
-        "features": ["Zero-knowledge encryption", "Smart auto-fill", "Cross-device sync"]
+        "features": [
+          "Zero-knowledge encryption",
+          "Smart auto-fill",
+          "Cross-device sync"
+        ]
       },
       "backup": {
         "name": "Zidimi Backup",
         "tagline": "Backup & restore data",
         "description": "Automatically back up files, folders, and entire systems to the cloud or external drives. Restore quickly in minutes when disaster strikes.",
-        "features": ["Scheduled backups", "Cloud sync", "1-click restore"]
+        "features": [
+          "Scheduled backups",
+          "Cloud sync",
+          "1-click restore"
+        ]
       },
       "uninstaller": {
         "name": "Zidimi Uninstaller",
         "tagline": "Complete uninstaller",
         "description": "Remove stubborn software along with all leftover files, registry entries, and shortcuts. Batch uninstall and force uninstall supported.",
-        "features": ["100% thorough removal", "Batch uninstall", "Force uninstall"]
+        "features": [
+          "100% thorough removal",
+          "Batch uninstall",
+          "Force uninstall"
+        ]
+      },
+      "browser": {
+        "name": "Zidimi Browser",
+        "tagline": "Fast & Private Web Browser",
+        "description": "Experience the web without ads, trackers, or interruptions. Built for speed and maximum privacy.",
+        "features": [
+          "Built-in Ad Blocker",
+          "Anti-Tracking Engine",
+          "Low RAM & CPU Usage",
+          "Free VPN (Coming soon)"
+        ]
       }
     }
   },
@@ -156,36 +181,36 @@
     "badge": "Community reviews",
     "title": "25 million users",
     "titleHighlight": "trust Zidimi.",
-    "subtitle": "We're proud to be loved by users in Vietnam and around the world. Here are some real reviews from Zidimi customers.",
+    "subtitle": "Discover what users are saying about their experience with Zidimi.",
     "items": {
       "r1": {
-        "name": "Minh Tran",
-        "role": "Freelance Designer · Hanoi",
+        "name": "Alex Johnson",
+        "role": "Freelance Designer · New York",
         "text": "After using Zidimi Cleaner, my computer boots much faster, from 45 seconds down to 18 seconds. Clear Vietnamese interface, easy to use, no annoying ads. Recommended!"
       },
       "r2": {
-        "name": "Lan Pham",
-        "role": "Chief Accountant · Ho Chi Minh City",
+        "name": "Sarah Williams",
+        "role": "Chief Accountant · London",
         "text": "Zidimi Password has saved me many times. I used to keep passwords in a notebook, now everything is AES-256 encrypted and auto-fills when needed. Feel much safer working with client data."
       },
       "r3": {
-        "name": "Hoang Nguyen",
-        "role": "IT Student · Da Nang",
-        "text": "I downloaded Zidimi Driver to fix graphics card issues while gaming. Auto-updated drivers in just 2 minutes, games run smooth without lag. Free but better quality than many paid software."
+        "name": "Michael Davis",
+        "role": "IT Student · Berlin",
+        "text": "I downloaded Zidimi Browser for faster surfing. It blocks ads perfectly and uses way less RAM than Chrome. The UI is clean and extensions work great. Highly recommended!"
       },
       "r4": {
-        "name": "Mai Le",
-        "role": "Marketing Lead · Binh Duong",
+        "name": "Emily Chen",
+        "role": "Marketing Lead · Toronto",
         "text": "Zidimi Privacy blocks trackers very effectively. I browse daily and noticed a clear reduction in targeted ads. The permanent file deletion feature is also very useful for work."
       },
       "r5": {
-        "name": "Duc Anh Vu",
-        "role": "IT Manager · Hai Phong",
+        "name": "David Smith",
+        "role": "IT Manager · Sydney",
         "text": "Deployed Zidimi across 50 company computers. Centralized dashboard management, automatic updates, no manual intervention needed. Saves our IT team huge time vs using separate tools."
       },
       "r6": {
-        "name": "Huong Nguyen",
-        "role": "Teacher · Can Tho",
+        "name": "Jessica Taylor",
+        "role": "Teacher · Chicago",
         "text": "I'm not tech-savvy but Zidimi is very easy to use. Just one click and cleanup is done. Automatic cloud backup means I no longer fear losing lecture materials. Thanks Zidimi team!"
       }
     },
@@ -206,19 +231,40 @@
       "free": {
         "name": "Free",
         "description": "Full basic features for personal home use.",
-        "features": ["All 6 Zidimi products", "Manual scan & cleanup", "5 driver updates/month", "1 GB cloud backup", "Community support"],
+        "features": [
+          "All 6 Zidimi products",
+          "Manual scan & cleanup",
+          "5 driver updates/month",
+          "1 GB cloud backup",
+          "Community support"
+        ],
         "cta": "Download free"
       },
       "pro": {
         "name": "Pro",
         "description": "For users who want deep optimization and full protection.",
-        "features": ["Everything in Free, plus:", "Scheduled auto-scan", "Unlimited driver updates", "100 GB cloud backup", "AES-256 file encryption", "Priority 24/7 support"],
+        "features": [
+          "Everything in Free, plus:",
+          "Scheduled auto-scan",
+          "Unlimited driver updates",
+          "100 GB cloud backup",
+          "AES-256 file encryption",
+          "Priority 24/7 support"
+        ],
         "cta": "Upgrade to Pro"
       },
       "business": {
         "name": "Business",
         "description": "Deployment management for teams and enterprises.",
-        "features": ["Everything in Pro, plus:", "Centralized dashboard", "Batch deployment (MSI)", "ITSM API integration", "1 TB cloud backup/team", "Dedicated account manager", "99.9% uptime SLA"],
+        "features": [
+          "Everything in Pro, plus:",
+          "Centralized dashboard",
+          "Batch deployment (MSI)",
+          "ITSM API integration",
+          "1 TB cloud backup/team",
+          "Dedicated account manager",
+          "99.9% uptime SLA"
+        ],
         "cta": "Contact sales"
       }
     },
@@ -315,13 +361,13 @@
       "support": "Support center",
       "guides": "User guides",
       "blog": "Tips blog",
-      "driverCheck": "Driver check",
       "forum": "Community forum",
       "terms": "Terms of service",
       "privacy": "Privacy policy",
       "cookie": "Cookie policy",
       "license": "Software license",
-      "security": "Security report"
+      "security": "Security report",
+      "browserCheck": "Browser Check"
     },
     "trustBadges": {
       "authenticode": "Microsoft Authenticode signed",
@@ -384,60 +430,168 @@
     "back": "Back to home",
     "longDesc": {
       "cleaner": "Zidimi Cleaner is an all-in-one PC cleanup tool trusted by 12 million users. With a deep scan algorithm developed specifically for Windows, Zidimi Cleaner can detect over 50 different types of junk files — from browser cache and temporary system files to registry errors accumulated over years of use. Beyond cleaning, the software also optimizes startup, manages background services, and schedules automatic maintenance to keep your computer in peak condition.",
-      "driver": "Zidimi Driver is a comprehensive driver management solution for Windows. With a database of over 5 million official drivers from manufacturers like NVIDIA, AMD, Intel, Realtek, and Broadcom, Zidimi Driver ensures you always have the latest and most compatible driver version. The software not only updates drivers but also creates restore points before each update, backs up current drivers for rollback when needed, and automatically checks for updates weekly. Especially useful for gamers who need graphics driver updates to boost FPS and fix stuttering.",
       "privacy": "Zidimi Privacy is a comprehensive privacy protection toolkit for Windows. In an era where personal data has become a commodity, Zidimi Privacy lets you control exactly what information is shared and what stays private. The software blocks over 10,000 trackers and fingerprinting scripts from popular websites, encrypts sensitive files with AES-256 (the same standard used by banks and military), permanently deletes sensitive files so they cannot be recovered by any recovery software, and monitors application access permissions. Especially useful for users concerned about data safety.",
       "password": "Zidimi Password is a next-generation password manager with zero-knowledge architecture. Unlike traditional password managers, Zidimi Password never stores your passwords on servers — all data is encrypted on your device before syncing to the cloud. Even Zidimi cannot see your passwords. The software supports smart auto-fill logins across all browsers, generates strong random passwords following NIST standards, syncs safely between Windows, macOS, iOS, and Android, and integrates built-in two-factor authentication (2FA) for additional protection of important accounts.",
       "backup": "Zidimi Backup is a comprehensive backup solution that ensures you never have to worry about losing important data. Whether it's work documents, family photos, or the entire operating system, Zidimi Backup can safely back up to encrypted cloud, external drives, NAS, or network drives. The software supports scheduled backups (daily, weekly, monthly), incremental backups to save space and time, and stores multiple historical versions so you can restore to any point in the past. When disaster strikes, the 1-click restore feature helps you recover data in minutes rather than hours.",
-      "uninstaller": "Zidimi Uninstaller is the most thorough software uninstaller for Windows. When you uninstall apps through the default Control Panel, a lot of junk files are often left behind in AppData, ProgramData, registry, temporary files, and shortcuts. Zidimi Uninstaller deep scans the entire system to find and completely remove every trace of an application. Especially useful for stubborn apps that can't be removed through Control Panel (force uninstall), software bundled with adware/bloatware, and when you want to clean your PC before reinstalling Windows. Supports batch uninstall of multiple apps at once to save time."
+      "uninstaller": "Zidimi Uninstaller is the most thorough software uninstaller for Windows. When you uninstall apps through the default Control Panel, a lot of junk files are often left behind in AppData, ProgramData, registry, temporary files, and shortcuts. Zidimi Uninstaller deep scans the entire system to find and completely remove every trace of an application. Especially useful for stubborn apps that can't be removed through Control Panel (force uninstall), software bundled with adware/bloatware, and when you want to clean your PC before reinstalling Windows. Supports batch uninstall of multiple apps at once to save time.",
+      "browser": "Zidimi Browser is a next-generation web browser built on the Chromium engine but heavily optimized for speed, privacy, and low resource usage. With built-in AdBlock, strict anti-tracking, and a minimalist interface, it loads pages up to 3x faster than standard browsers while using 50% less RAM."
     },
     "detailedFeatures": {
       "cleaner": {
-        "df1": { "title": "Ultra-fast scan", "description": "Multi-threaded parallel algorithm scans the entire system in under 10 seconds, 3x faster than similar software." },
-        "df2": { "title": "Absolute safety", "description": "Whitelist of 10,000+ critical system files, ensuring we never delete files essential for Windows operation." },
-        "df3": { "title": "Auto scheduling", "description": "Automatic cleanup on daily, weekly, or monthly schedules. Runs silently in background without disrupting work." },
-        "df4": { "title": "Deep registry scan", "description": "Detects and fixes 50+ common registry errors that slow down PCs, crash apps, cause BSODs and Windows Update failures." },
-        "df5": { "title": "Preview before delete", "description": "View detailed list of files and items to be deleted before confirming. Full control to keep what matters." },
-        "df6": { "title": "30-day undo", "description": "All cleanup actions are saved in History. Restore deleted files anytime within 30 days." }
-      },
-      "driver": {
-        "df1": { "title": "5M+ official drivers", "description": "Massive driver database from NVIDIA, AMD, Intel, Realtek, Broadcom and 500+ other OEMs, updated daily." },
-        "df2": { "title": "Auto update", "description": "Automatically checks for new drivers weekly. Enable Auto-Update for silent background installation." },
-        "df3": { "title": "Pre-update backup", "description": "Automatically creates restore point and backs up current drivers. Rollback to previous version in one click." },
-        "df4": { "title": "Smart scheduling", "description": "Schedule driver checks weekly/monthly. Run outside business hours to avoid disrupting work." },
-        "df5": { "title": "Performance boost", "description": "Graphics driver updates boost game FPS by 15-30%, fix stuttering and optimize for professional graphics software." },
-        "df6": { "title": "Fix device errors", "description": "Resolve device not recognized, USB connection issues, audio crackling, printer errors, Bluetooth disconnections." }
+        "df1": {
+          "title": "Ultra-fast scan",
+          "description": "Multi-threaded parallel algorithm scans the entire system in under 10 seconds, 3x faster than similar software."
+        },
+        "df2": {
+          "title": "Absolute safety",
+          "description": "Whitelist of 10,000+ critical system files, ensuring we never delete files essential for Windows operation."
+        },
+        "df3": {
+          "title": "Auto scheduling",
+          "description": "Automatic cleanup on daily, weekly, or monthly schedules. Runs silently in background without disrupting work."
+        },
+        "df4": {
+          "title": "Deep registry scan",
+          "description": "Detects and fixes 50+ common registry errors that slow down PCs, crash apps, cause BSODs and Windows Update failures."
+        },
+        "df5": {
+          "title": "Preview before delete",
+          "description": "View detailed list of files and items to be deleted before confirming. Full control to keep what matters."
+        },
+        "df6": {
+          "title": "30-day undo",
+          "description": "All cleanup actions are saved in History. Restore deleted files anytime within 30 days."
+        }
       },
       "privacy": {
-        "df1": { "title": "Block trackers", "description": "Block 10,000+ trackers and fingerprinting scripts from Facebook, Google, Amazon and other major ad networks." },
-        "df2": { "title": "AES-256 encryption", "description": "Encrypt sensitive files and folders with AES-256 — the same standard used by banks and military." },
-        "df3": { "title": "Permanent deletion", "description": "Irrecoverable file deletion per DoD 5220.22-M standard, overwriting random data multiple times." },
-        "df4": { "title": "Anonymous browsing", "description": "Hide IP, erase online traces, anti-browser fingerprinting. Browse without leaving a trail." },
-        "df5": { "title": "Breach alerts", "description": "Integrated with Have I Been Pwned database — alerts if your email or password appears in data breaches." },
-        "df6": { "title": "Cookie control", "description": "Control cookies per website. Whitelist sites needing login, auto-delete third-party tracking cookies." }
+        "df1": {
+          "title": "Block trackers",
+          "description": "Block 10,000+ trackers and fingerprinting scripts from Facebook, Google, Amazon and other major ad networks."
+        },
+        "df2": {
+          "title": "AES-256 encryption",
+          "description": "Encrypt sensitive files and folders with AES-256 — the same standard used by banks and military."
+        },
+        "df3": {
+          "title": "Permanent deletion",
+          "description": "Irrecoverable file deletion per DoD 5220.22-M standard, overwriting random data multiple times."
+        },
+        "df4": {
+          "title": "Anonymous browsing",
+          "description": "Hide IP, erase online traces, anti-browser fingerprinting. Browse without leaving a trail."
+        },
+        "df5": {
+          "title": "Breach alerts",
+          "description": "Integrated with Have I Been Pwned database — alerts if your email or password appears in data breaches."
+        },
+        "df6": {
+          "title": "Cookie control",
+          "description": "Control cookies per website. Whitelist sites needing login, auto-delete third-party tracking cookies."
+        }
       },
       "password": {
-        "df1": { "title": "Zero-knowledge", "description": "Zidimi never knows your passwords. Data encrypted on device before syncing — server stores only ciphertext." },
-        "df2": { "title": "Strong password generator", "description": "NIST-compliant Password Generator, supports random passwords and passphrases. Customize length, characters, exclude ambiguous chars." },
-        "df3": { "title": "Auto-fill", "description": "Browser extension auto-fills logins in one click. Smart form detection, supports multi-step login." },
-        "df4": { "title": "Cross-device sync", "description": "Secure sync between Windows, macOS, iOS, Android via end-to-end encrypted cloud. Offline-first, syncs when online." },
-        "df5": { "title": "Built-in 2FA", "description": "Integrated TOTP two-factor authentication like Google Authenticator. Generates 6-digit codes for 2FA accounts in-app." },
-        "df6": { "title": "Leak alerts", "description": "Auto-checks passwords against Have I Been Pwned database. Notifies if any password is leaked in data breaches." }
+        "df1": {
+          "title": "Zero-knowledge",
+          "description": "Zidimi never knows your passwords. Data encrypted on device before syncing — server stores only ciphertext."
+        },
+        "df2": {
+          "title": "Strong password generator",
+          "description": "NIST-compliant Password Generator, supports random passwords and passphrases. Customize length, characters, exclude ambiguous chars."
+        },
+        "df3": {
+          "title": "Auto-fill",
+          "description": "Browser extension auto-fills logins in one click. Smart form detection, supports multi-step login."
+        },
+        "df4": {
+          "title": "Cross-device sync",
+          "description": "Secure sync between Windows, macOS, iOS, Android via end-to-end encrypted cloud. Offline-first, syncs when online."
+        },
+        "df5": {
+          "title": "Built-in 2FA",
+          "description": "Integrated TOTP two-factor authentication like Google Authenticator. Generates 6-digit codes for 2FA accounts in-app."
+        },
+        "df6": {
+          "title": "Leak alerts",
+          "description": "Auto-checks passwords against Have I Been Pwned database. Notifies if any password is leaked in data breaches."
+        }
       },
       "backup": {
-        "df1": { "title": "Automatic backup", "description": "Schedule daily, weekly, monthly backups. Runs silently in background without disrupting work." },
-        "df2": { "title": "Secure cloud", "description": "Backup to Zidimi cloud with AES-256 end-to-end encryption. Servers in Vietnam, compliant with Decree 13/2023/NĐ-CP." },
-        "df3": { "title": "Version history", "description": "Store multiple file versions — restore to any point within 30 days (Free) or 1 year (Pro)." },
-        "df4": { "title": "1-click restore", "description": "Select version to restore, click Restore. Files return to original location in minutes, no complex operations." },
-        "df5": { "title": "System backup", "description": "Create system image including entire OS, apps, settings, drivers. Restore Windows to exact state when needed." },
-        "df6": { "title": "End-to-end encryption", "description": "Data encrypted on device before uploading to cloud. Even Zidimi cannot view your files." }
+        "df1": {
+          "title": "Automatic backup",
+          "description": "Schedule daily, weekly, monthly backups. Runs silently in background without disrupting work."
+        },
+        "df2": {
+          "title": "Secure cloud",
+          "description": "Backup to Zidimi cloud with AES-256 end-to-end encryption. Servers in Vietnam, compliant with Decree 13/2023/NĐ-CP."
+        },
+        "df3": {
+          "title": "Version history",
+          "description": "Store multiple file versions — restore to any point within 30 days (Free) or 1 year (Pro)."
+        },
+        "df4": {
+          "title": "1-click restore",
+          "description": "Select version to restore, click Restore. Files return to original location in minutes, no complex operations."
+        },
+        "df5": {
+          "title": "System backup",
+          "description": "Create system image including entire OS, apps, settings, drivers. Restore Windows to exact state when needed."
+        },
+        "df6": {
+          "title": "End-to-end encryption",
+          "description": "Data encrypted on device before uploading to cloud. Even Zidimi cannot view your files."
+        }
       },
       "uninstaller": {
-        "df1": { "title": "Thorough removal", "description": "Deep scan of AppData, ProgramData, registry, temp files to remove every trace of applications." },
-        "df2": { "title": "Batch uninstall", "description": "Select multiple apps and uninstall together. Especially useful for cleaning new PCs with OEM bloatware." },
-        "df3": { "title": "Force uninstall", "description": "Force remove stubborn apps that Control Panel can't — broken uninstallers, apps without uninstallers." },
-        "df4": { "title": "Install monitor", "description": "Track system changes when installing new apps. Ensures 100% trace removal when uninstalling later." },
-        "df5": { "title": "Remove Windows updates", "description": "Remove problematic Windows updates, rollback to stable version. Supports both Windows Update and Driver Update." },
-        "df6": { "title": "Pre-uninstall backup", "description": "Auto-creates restore point and registry backup before each uninstall. Easy rollback if issues occur." }
+        "df1": {
+          "title": "Thorough removal",
+          "description": "Deep scan of AppData, ProgramData, registry, temp files to remove every trace of applications."
+        },
+        "df2": {
+          "title": "Batch uninstall",
+          "description": "Select multiple apps and uninstall together. Especially useful for cleaning new PCs with OEM bloatware."
+        },
+        "df3": {
+          "title": "Force uninstall",
+          "description": "Force remove stubborn apps that Control Panel can't — broken uninstallers, apps without uninstallers."
+        },
+        "df4": {
+          "title": "Install monitor",
+          "description": "Track system changes when installing new apps. Ensures 100% trace removal when uninstalling later."
+        },
+        "df5": {
+          "title": "Remove Windows updates",
+          "description": "Remove problematic Windows updates, rollback to stable version. Supports both Windows Update and Driver Update."
+        },
+        "df6": {
+          "title": "Pre-uninstall backup",
+          "description": "Auto-creates restore point and registry backup before each uninstall. Easy rollback if issues occur."
+        }
+      },
+      "browser": {
+        "df1": {
+          "title": "Ultra-Fast Rendering",
+          "description": "Optimized engine loads web pages up to 3x faster."
+        },
+        "df2": {
+          "title": "Built-in Ad Blocker",
+          "description": "Stops annoying ads and pop-ups automatically."
+        },
+        "df3": {
+          "title": "Strict Privacy",
+          "description": "Blocks third-party trackers and fingerprinting scripts."
+        },
+        "df4": {
+          "title": "Low RAM Usage",
+          "description": "Uses up to 50% less memory than other major browsers."
+        },
+        "df5": {
+          "title": "Chromium Based",
+          "description": "Fully compatible with all Chrome web store extensions."
+        },
+        "df6": {
+          "title": "Cloud Sync",
+          "description": "Sync your bookmarks and passwords securely across devices."
+        }
       }
     },
     "faqs": {
@@ -450,16 +604,6 @@
         "a3": "Yes. Zidimi Cleaner automatically creates a restore point before each cleanup. You can undo all actions within 30 days via the History feature. Deleted files are compressed and stored in Zidimi's Recycle Bin, separate from Windows Recycle Bin.",
         "q4": "How often should I clean?",
         "a4": "We recommend weekly Quick Scan and monthly Deep Scan. Zidimi Cleaner Pro can auto-schedule — e.g., Quick Scan every Friday, Deep Scan on the 1st of each month — so you don't need to remember manually."
-      },
-      "driver": {
-        "q1": "Are Zidimi drivers official?",
-        "a1": "Yes. All drivers in Zidimi's database are downloaded directly from manufacturer official servers (NVIDIA, AMD, Intel, Realtek, etc.) and are Microsoft WHQL digitally signed. We never distribute modified or beta drivers.",
-        "q2": "Is updating drivers dangerous?",
-        "a2": "Zidimi Driver always creates a system restore point and backs up old drivers before each update. If a new driver causes issues, you can rollback to the previous version in one click. Update success rate is 99.7%.",
-        "q3": "Does Zidimi Driver support laptops?",
-        "a3": "Yes, especially good for laptops. Many laptops (Dell, HP, Lenovo, Asus, Acer) have customized OEM drivers different from public drivers. Zidimi identifies your laptop and downloads the correct OEM driver, ensuring function keys (Fn), webcam, fingerprint, audio card all work.",
-        "q4": "How often are new drivers updated?",
-        "a4": "Zidimi's driver database is updated daily with newly released drivers from OEMs. The software will automatically check and notify you when new drivers are available for your devices. You can enable Auto-Update for silent background installation."
       },
       "privacy": {
         "q1": "Can Zidimi Privacy replace a VPN?",
@@ -500,6 +644,16 @@
         "a3": "Yes. Zidimi Uninstaller has bloatware detection — pre-installed OEM apps (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery, etc.). Auto-lists and allows batch removal in one click. Average new PC has 10-30 bloatware; removing all significantly speeds up the computer.",
         "q4": "Can it uninstall Windows Store (UWP) apps?",
         "a4": "Yes. Zidimi Uninstaller supports uninstalling both traditional Win32 desktop apps and Windows Store (UWP) apps. Especially useful for removing built-in Windows apps that Control Panel doesn't allow uninstalling (Cortana, Xbox, Mail, Calendar, etc.)."
+      },
+      "browser": {
+        "q1": "Is Zidimi Browser based on Chrome?",
+        "a1": "Zidimi Browser is built on the open-source Chromium project. This means it is fast, secure, and supports all Chrome extensions.",
+        "q2": "Can I install my Chrome extensions?",
+        "a2": "Yes! Zidimi Browser is fully compatible with the Chrome Web Store. You can install all your favorite extensions with a single click.",
+        "q3": "How does it use less RAM?",
+        "a3": "We've optimized the background processes and implemented aggressive tab sleeping for inactive tabs, reducing memory footprint by up to 50%.",
+        "q4": "Is the ad blocker free?",
+        "a4": "Yes, the ad blocker and tracking protection are built directly into the browser core and are completely free forever."
       }
     },
     "howItWorks": {
@@ -510,14 +664,6 @@
         "h2d": "Display detailed list of junk files by category, with reclaimable space. You can uncheck any item.",
         "h3t": "1-click cleanup",
         "h3d": "Click 'Clean Now' to remove everything. Zidimi auto-creates restore point so you can undo anytime."
-      },
-      "driver": {
-        "h1t": "Scan drivers",
-        "h1d": "Scan all hardware devices, compare current driver versions with Zidimi's latest driver database.",
-        "h2t": "Choose updates",
-        "h2d": "Display list of outdated drivers with new version info, manufacturer and download size.",
-        "h3t": "Auto install",
-        "h3d": "Zidimi auto-downloads, backs up old drivers, installs new ones, creates restore point for rollback."
       },
       "privacy": {
         "h1t": "Analyze traces",
@@ -550,6 +696,14 @@
         "h2d": "Select one or more apps to remove. Zidimi runs official uninstaller first, then deep scans for leftovers.",
         "h3t": "Clean up",
         "h3d": "Remove all leftover junk files, registry, shortcuts. Creates restore point for rollback if needed."
+      },
+      "browser": {
+        "h1t": "Download & Install",
+        "h1d": "Get the lightweight 85MB installer and set up Zidimi Browser in under 30 seconds.",
+        "h2t": "Import Your Data",
+        "h2d": "Easily import your bookmarks, passwords, and history from your old browser.",
+        "h3t": "Browse Securely",
+        "h3d": "Enjoy a faster, ad-free web experience with maximum privacy protection."
       }
     },
     "reqs": {
@@ -559,13 +713,6 @@
         "ram": "Minimum 1 GB (2 GB recommended)",
         "disk": "100 MB free space",
         "internet": "Required for updates"
-      },
-      "driver": {
-        "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
-        "cpu": "Intel Pentium 1 GHz or equivalent",
-        "ram": "Minimum 1 GB",
-        "disk": "150 MB free space",
-        "internet": "Required to download drivers"
       },
       "privacy": {
         "os": "Windows 11/10/8.1/8/7 (32-bit & 64-bit)",
@@ -594,25 +741,39 @@
         "ram": "Minimum 1 GB",
         "disk": "50 MB free space",
         "internet": "Not required"
+      },
+      "browser": {
+        "os": "Windows 11, 10, 8.1, 7",
+        "cpu": "1 GHz or faster",
+        "ram": "512 MB minimum",
+        "disk": "100 MB free space",
+        "internet": "Required for web browsing"
       }
     }
   },
   "Metadata": {
     "defaultTitle": "Zidimi — Personal Utility Software for PC Optimization",
-    "defaultDescription": "Zidimi is a leading personal utility suite for PC cleanup, driver updates, privacy, passwords, and data backup. Fast, safe, free download.",
-    "defaultKeywords": ["Zidimi", "utility software", "PC optimization", "PC cleanup", "driver updater", "privacy protection", "password manager", "data backup", "uninstaller", "free software"],
+    "defaultDescription": "Zidimi is a leading personal utility suite for PC cleanup, web browsing, privacy, passwords, and data backup. Fast, safe, free download.",
+    "defaultKeywords": [
+      "Zidimi",
+      "utility software",
+      "PC optimization",
+      "PC cleanup",
+      "web browser",
+      "privacy protection",
+      "password manager",
+      "data backup",
+      "uninstaller",
+      "free software"
+    ],
     "home": {
       "title": "Zidimi — Personal Utility Software for PC Optimization",
-      "description": "Zidimi is a leading personal utility suite for PC cleanup, driver updates, privacy, passwords, and data backup. Fast, safe, free download."
+      "description": "Zidimi is a leading personal utility suite for PC cleanup, web browsing, privacy, passwords, and data backup. Fast, safe, free download."
     },
     "products": {
       "cleaner": {
         "title": "Zidimi Cleaner — Cleanup & System Optimization",
         "description": "Scan and remove junk files, registry errors, and browser cache in one click. Free up gigabytes of space and speed up your computer instantly."
-      },
-      "driver": {
-        "title": "Zidimi Driver — Automatic Driver Updates",
-        "description": "Automatically detect outdated drivers and update from a database of over 5 million official drivers. Fix device issues, boost game and graphics performance."
       },
       "privacy": {
         "title": "Zidimi Privacy — Privacy Protection",
@@ -629,6 +790,10 @@
       "uninstaller": {
         "title": "Zidimi Uninstaller — Complete Uninstaller",
         "description": "Remove stubborn software along with all leftover files, registry entries, and shortcuts. Batch uninstall and force uninstall supported."
+      },
+      "browser": {
+        "title": "Zidimi Browser — Fast & Private Web Browser",
+        "description": "Browse the web safely with Zidimi Browser. Built-in ad blocker, tracking protection, and optimized for low RAM usage. Download free today."
       }
     },
     "notFound": "Product not found"

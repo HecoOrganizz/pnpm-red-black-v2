@@ -75,39 +75,64 @@
         "name": "Zidimi Cleaner",
         "tagline": "정리 및 시스템 최적화",
         "description": "정크 파일, 레지스트리 오류, 브라우저 캐시를 한 번의 클릭으로 스캔하고 제거합니다. 수 기가바이트의 공간을 확보하고 컴퓨터를 즉시 가속화하세요.",
-        "features": ["1-클릭 심층 스캔", "안전한 레지스트리 정리", "시작 부스터"],
+        "features": [
+          "1-클릭 심층 스캔",
+          "안전한 레지스트리 정리",
+          "시작 부스터"
+        ],
         "badge": "가장 인기 있음"
-      },
-      "driver": {
-        "name": "Zidimi Driver",
-        "tagline": "자동 드라이버 업데이트",
-        "description": "오래된 드라이버를 자동으로 감지하고 500만 개 이상의 공식 드라이버 데이터베이스에서 업데이트합니다. 기기 문제를 해결하고 게임 및 그래픽 성능을 향상시킵니다.",
-        "features": ["500만 개 이상의 공식 드라이버", "업데이트 전 백업", "예약 자동화"]
       },
       "privacy": {
         "name": "Zidimi Privacy",
         "tagline": "개인정보 보호",
         "description": "브라우징 기록 삭제, 추적기 차단, 개인 파일 암호화, 스파이웨어 방지 기능을 제공합니다. 당신의 데이터, 당신이 통제하세요.",
-        "features": ["추적기 및 쿠키 차단", "AES-256 파일 암호화", "안전한 영구 삭제"],
+        "features": [
+          "추적기 및 쿠키 차단",
+          "AES-256 파일 암호화",
+          "안전한 영구 삭제"
+        ],
         "badge": "신규"
       },
       "password": {
         "name": "Zidimi Password",
         "tagline": "안전한 비밀번호 관리자",
         "description": "제로 지식 암호화 금고에 비밀번호를 저장하세요. 로그인 자동 입력, 강력한 비밀번호 생성, 기기 간 안전한 동기화를 제공합니다.",
-        "features": ["제로 지식 암호화", "스마트 자동 입력", "기기 간 동기화"]
+        "features": [
+          "제로 지식 암호화",
+          "스마트 자동 입력",
+          "기기 간 동기화"
+        ]
       },
       "backup": {
         "name": "Zidimi Backup",
         "tagline": "데이터 백업 및 복원",
         "description": "파일, 폴더, 전체 시스템을 클라우드나 외장 드라이브에 자동으로 백업합니다. 재해 발생 시 몇 분 만에 복원할 수 있습니다.",
-        "features": ["예약 백업", "클라우드 동기화", "1-클릭 복원"]
+        "features": [
+          "예약 백업",
+          "클라우드 동기화",
+          "1-클릭 복원"
+        ]
       },
       "uninstaller": {
         "name": "Zidimi Uninstaller",
         "tagline": "완전한 제거 도구",
         "description": "고집스러운 소프트웨어를 남은 파일, 레지스트리 항목, 바로 가기와 함께 제거합니다. 일괄 제거 및 강제 제거를 지원합니다.",
-        "features": ["100% 철저한 제거", "일괄 제거", "강제 제거"]
+        "features": [
+          "100% 철저한 제거",
+          "일괄 제거",
+          "강제 제거"
+        ]
+      },
+      "browser": {
+        "name": "Zidimi Browser",
+        "tagline": "Fast & Private Web Browser",
+        "description": "Experience the web without ads, trackers, or interruptions. Built for speed and maximum privacy.",
+        "features": [
+          "Built-in Ad Blocker",
+          "Anti-Tracking Engine",
+          "Low RAM & CPU Usage",
+          "Free VPN (Coming soon)"
+        ]
       }
     }
   },
@@ -156,36 +181,36 @@
     "badge": "커뮤니티 리뷰",
     "title": "2,500만 명의 사용자가",
     "titleHighlight": "Zidimi를 신뢰합니다.",
-    "subtitle": "베트남과 전 세계 사용자들에게 사랑받게 되어 자랑스럽습니다. Zidimi 고객의 진실한 리뷰를 소개합니다.",
+    "subtitle": "Zidimi 사용 경험에 대한 사용자들의 의견을 확인해보세요.",
     "items": {
       "r1": {
-        "name": "Minh Tran",
-        "role": "프리랜서 디자이너 · 하노이",
+        "name": "Alex Johnson",
+        "role": "프리랜서 디자이너 · New York",
         "text": "Zidimi Cleaner를 사용한 후 컴퓨터 부팅이 45초에서 18초로 크게 빨라졌습니다. 베트남어 인터페이스도 명확하고 사용하기 쉬우며 성가신 광고가 없습니다. 추천합니다!"
       },
       "r2": {
-        "name": "Lan Pham",
-        "role": "수석 회계사 · 호치민시",
+        "name": "Sarah Williams",
+        "role": "수석 회계사 · London",
         "text": "Zidimi Password가 여러 번 도움이 되었습니다. 예전에는 수첩에 비밀번호를 적어 두었지만, 지금은 모두 AES-256으로 암호화되어 필요할 때 자동 입력됩니다. 고객 데이터를 다룰 때 훨씬 안전합니다."
       },
       "r3": {
-        "name": "Hoang Nguyen",
-        "role": "IT 학생 · 다낭",
-        "text": "게임 중 그래픽 카드 문제를 해결하기 위해 Zidimi Driver를 다운로드했습니다. 단 2분 만에 드라이버가 자동 업데이트되었고 게임이 렉 없이 부드럽게 작동합니다. 무료인데 많은 유료 소프트웨어보다 품질이 좋습니다."
+        "name": "Michael Davis",
+        "role": "IT 학생 · Berlin",
+        "text": "I downloaded Zidimi Browser for faster surfing. It blocks ads perfectly and uses way less RAM than Chrome. The UI is clean and extensions work great. Highly recommended!"
       },
       "r4": {
-        "name": "Mai Le",
-        "role": "마케팅 리드 · 빈즈엉성",
+        "name": "Emily Chen",
+        "role": "마케팅 리드 · Toronto",
         "text": "Zidimi Privacy는 추적기 차단에 매우 효과적입니다. 매일 브라우징하면서 타겟 광고가 확실히 줄었습니다. 영구 파일 삭제 기능도 업무에 매우 유용합니다."
       },
       "r5": {
-        "name": "Duc Anh Vu",
-        "role": "IT 매니저 · 하이퐁",
+        "name": "David Smith",
+        "role": "IT 매니저 · Sydney",
         "text": "회사 컴퓨터 50대에 Zidimi를 배포했습니다. 중앙 대시보드 관리, 자동 업데이트, 수동 개입 불필요. 별도의 도구를 사용할 때보다 IT 팀의 시간을 크게 절약합니다."
       },
       "r6": {
-        "name": "Huong Nguyen",
-        "role": "교사 · 칸토",
+        "name": "Jessica Taylor",
+        "role": "교사 · Chicago",
         "text": "저는 IT에 익숙하지 않지만 Zidimi는 사용하기 매우 쉽습니다. 한 번의 클릭으로 정리가 완료됩니다. 자동 클라우드 백업 덕분에 강의 자료를 잃을까 두려워하지 않아도 됩니다. Zidimi 팀에게 감사합니다!"
       }
     },
@@ -206,19 +231,40 @@
       "free": {
         "name": "Free",
         "description": "개인 가정용 기본 기능 풀세트.",
-        "features": ["Zidimi 전 6개 제품", "수동 스캔 및 정리", "월 5회 드라이버 업데이트", "1 GB 클라우드 백업", "커뮤니티 지원"],
+        "features": [
+          "Zidimi 전 6개 제품",
+          "수동 스캔 및 정리",
+          "월 5회 드라이버 업데이트",
+          "1 GB 클라우드 백업",
+          "커뮤니티 지원"
+        ],
         "cta": "무료 다운로드"
       },
       "pro": {
         "name": "Pro",
         "description": "심층 최적화와 완전한 보호를 원하는 사용자용.",
-        "features": ["Free 버전의 모든 기능에 추가:", "예약 자동 스캔", "무제한 드라이버 업데이트", "100 GB 클라우드 백업", "AES-256 파일 암호화", "우선 24시간 지원"],
+        "features": [
+          "Free 버전의 모든 기능에 추가:",
+          "예약 자동 스캔",
+          "무제한 드라이버 업데이트",
+          "100 GB 클라우드 백업",
+          "AES-256 파일 암호화",
+          "우선 24시간 지원"
+        ],
         "cta": "Pro로 업그레이드"
       },
       "business": {
         "name": "Business",
         "description": "팀 및 기업을 위한 배포 관리.",
-        "features": ["Pro 버전의 모든 기능에 추가:", "중앙 대시보드", "일괄 배포(MSI)", "ITSM API 연동", "1 TB 클라우드 백업/팀", "전담 계정 매니저", "99.9% 가동률 SLA"],
+        "features": [
+          "Pro 버전의 모든 기능에 추가:",
+          "중앙 대시보드",
+          "일괄 배포(MSI)",
+          "ITSM API 연동",
+          "1 TB 클라우드 백업/팀",
+          "전담 계정 매니저",
+          "99.9% 가동률 SLA"
+        ],
         "cta": "영업팀 문의"
       }
     },
@@ -315,13 +361,13 @@
       "support": "지원 센터",
       "guides": "사용 가이드",
       "blog": "팁 블로그",
-      "driverCheck": "드라이버 확인",
       "forum": "커뮤니티 포럼",
       "terms": "서비스 약관",
       "privacy": "개인정보 처리방침",
       "cookie": "쿠키 정책",
       "license": "소프트웨어 라이선스",
-      "security": "보안 보고서"
+      "security": "보안 보고서",
+      "browserCheck": "Browser Check"
     },
     "trustBadges": {
       "authenticode": "Microsoft Authenticode 서명됨",
@@ -384,60 +430,168 @@
     "back": "홈으로 돌아가기",
     "longDesc": {
       "cleaner": "Zidimi Cleaner는 1,200만 명의 사용자가 신뢰하는 올인원 PC 정리 도구입니다. Windows 전용으로 개발된 심층 스캔 알고리즘을 통해 브라우저 캐시와 임시 시스템 파일부터 오랜 사용으로 누적된 레지스트리 오류까지 50가지 이상의 정크 파일을 감지할 수 있습니다. 정리뿐만 아니라 시작 최적화, 백그라운드 서비스 관리, 자동 유지 관리 예약을 통해 컴퓨터를 최상의 상태로 유지합니다.",
-      "driver": "Zidimi Driver는 Windows를 위한 종합적인 드라이버 관리 솔루션입니다. NVIDIA, AMD, Intel, Realtek, Broadcom 등의 제조사로부터 500만 개 이상의 공식 드라이버를 담은 데이터베이스를 통해 항상 최신이며 호환성이 높은 드라이버 버전을 제공합니다. 드라이버 업데이트뿐만 아니라 각 업데이트 전 복원 지점을 생성하고, 필요 시 롤백할 수 있도록 현재 드라이버를 백업하며, 매주 자동으로 업데이트를 확인합니다. 그래픽 드라이버 업데이트로 FPS를 향상시키고 버벅임을 해결하려는 게이머에게 특히 유용합니다.",
       "privacy": "Zidimi Privacy는 Windows를 위한 종합적인 개인정보 보호 도구 모음입니다. 개인 데이터가 상품이 된 시대에 Zidimi Privacy는 어떤 정보를 공유하고 어떤 정보를 비공개로 유지할지 정확하게 제어할 수 있게 합니다. 주요 웹사이트의 10,000개 이상의 추적기와 핑거프린팅 스크립트를 차단하고, 민감한 파일을 AES-256(은행과 군에서 사용하는 동일한 표준)로 암호화하며, 어떤 복구 소프트웨어로도 복구할 수 없도록 민감한 파일을 영구 삭제하고, 응용 프로그램의 접근 권한을 모니터링합니다. 데이터 안전을 우려하는 사용자에게 특히 유용합니다.",
       "password": "Zidimi Password는 제로 지식 아키텍처를 채택한 차세대 비밀번호 관리자입니다. 기존 비밀번호 관리자와 달리 Zidimi Password는 비밀번호를 서버에 저장하지 않습니다. 모든 데이터는 클라우드에 동기화되기 전 기기에서 암호화됩니다. Zidimi조차도 비밀번호를 볼 수 없습니다. 모든 브라우저에서 스마트 로그인 자동 입력을 지원하고, NIST 표준을 따르는 강력한 무작위 비밀번호를 생성하며, Windows, macOS, iOS, Android 간에 안전하게 동기화하고, 중요 계정의 추가 보호를 위한 내장 2단계 인증(2FA)을 통합합니다.",
       "backup": "Zidimi Backup은 중요한 데이터를 잃을까 걱정하지 않아도 되는 종합적인 백업 솔루션입니다. 업무 문서, 가족 사진 또는 운영체제 전체 등 무엇이든 Zidimi Backup은 암호화된 클라우드, 외장 드라이브, NAS 또는 네트워크 드라이브에 안전하게 백업할 수 있습니다. 일정 백업(일간, 주간, 월간), 공간과 시간을 절약하는 증분 백업, 과거 어느 시점으로든 복원할 수 있는 여러 기록 버전 저장을 지원합니다. 재해 발생 시 1-클릭 복원 기능을 통해 시간이 아닌 분 단위로 데이터를 복구할 수 있습니다.",
-      "uninstaller": "Zidimi Uninstaller는 Windows를 위한 가장 철저한 소프트웨어 제거 도구입니다. 기본 제어판을 통해 앱을 제거하면 AppData, ProgramData, 레지스트리, 임시 파일, 바로 가기에 많은 정크 파일이 남는 경우가 많습니다. Zidimi Uninstaller는 시스템 전체를 심층 스캔하여 응용 프로그램의 모든 흔적을 찾아 완전히 제거합니다. 제어판에서 제거할 수 없는 고집스러운 앱(강제 제거), 애드웨어/블로트웨어가 번들된 소프트웨어, Windows 재설치 전 PC를 정리하려는 경우에 특히 유용합니다. 여러 앱을 한 번에 일괄 제거하여 시간을 절약할 수 있습니다."
+      "uninstaller": "Zidimi Uninstaller는 Windows를 위한 가장 철저한 소프트웨어 제거 도구입니다. 기본 제어판을 통해 앱을 제거하면 AppData, ProgramData, 레지스트리, 임시 파일, 바로 가기에 많은 정크 파일이 남는 경우가 많습니다. Zidimi Uninstaller는 시스템 전체를 심층 스캔하여 응용 프로그램의 모든 흔적을 찾아 완전히 제거합니다. 제어판에서 제거할 수 없는 고집스러운 앱(강제 제거), 애드웨어/블로트웨어가 번들된 소프트웨어, Windows 재설치 전 PC를 정리하려는 경우에 특히 유용합니다. 여러 앱을 한 번에 일괄 제거하여 시간을 절약할 수 있습니다.",
+      "browser": "Zidimi Browser is a next-generation web browser built on the Chromium engine but heavily optimized for speed, privacy, and low resource usage. With built-in AdBlock, strict anti-tracking, and a minimalist interface, it loads pages up to 3x faster than standard browsers while using 50% less RAM."
     },
     "detailedFeatures": {
       "cleaner": {
-        "df1": { "title": "초고속 스캔", "description": "멀티스레드 병렬 알고리즘이 10초 미만으로 전체 시스템을 스캔합니다. 유사 소프트웨어보다 3배 빠릅니다." },
-        "df2": { "title": "절대적 안전", "description": "10,000개 이상의 중요 시스템 파일 화이트리스트로 Windows 작동에 필수적인 파일은 절대 삭제하지 않습니다." },
-        "df3": { "title": "자동 예약", "description": "일간, 주간, 월간 일정으로 자동 정리. 백그라운드에서 조용히 실행되어 작업을 방해하지 않습니다." },
-        "df4": { "title": "심층 레지스트리 스캔", "description": "PC 속도 저하, 앱 충돌, BSOD 및 Windows Update 실패를 일으키는 50개 이상의 일반적인 레지스트리 오류를 감지하고 수정합니다." },
-        "df5": { "title": "삭제 전 미리보기", "description": "확인 전 삭제할 파일 및 항목의 상세 목록을 표시합니다. 중요한 것을 유지할 수 있는 완전한 제어권을 제공합니다." },
-        "df6": { "title": "30일 실행 취소", "description": "모든 정리 작업은 기록에 저장됩니다. 30일 이내에는 언제든 삭제된 파일을 복원할 수 있습니다." }
-      },
-      "driver": {
-        "df1": { "title": "500만 개 이상의 공식 드라이버", "description": "NVIDIA, AMD, Intel, Realtek, Broadcom 및 500개 이상의 다른 OEM의 대규모 드라이버 데이터베이스. 매일 업데이트됩니다." },
-        "df2": { "title": "자동 업데이트", "description": "매주 새로운 드라이버를 자동 확인. 자동 업데이트를 활성화하면 백그라운드에서 조용히 설치됩니다." },
-        "df3": { "title": "업데이트 전 백업", "description": "복원 지점을 자동 생성하고 현재 드라이버를 백업. 한 번의 클릭으로 이전 버전으로 롤백할 수 있습니다." },
-        "df4": { "title": "스마트 예약", "description": "주간/월간 드라이버 확인을 예약. 업무 시간 외에 실행하여 작업을 방해하지 않습니다." },
-        "df5": { "title": "성능 향상", "description": "그래픽 드라이버 업데이트로 게임 FPS를 15-30% 향상, 버벅임을 수정하고 전문 그래픽 소프트웨어에 최적화합니다." },
-        "df6": { "title": "기기 오류 수정", "description": "기기 인식 불량, USB 연결 문제, 오디오 잡음, 프린터 오류, 블루투스 연결 끊김을 해결합니다." }
+        "df1": {
+          "title": "초고속 스캔",
+          "description": "멀티스레드 병렬 알고리즘이 10초 미만으로 전체 시스템을 스캔합니다. 유사 소프트웨어보다 3배 빠릅니다."
+        },
+        "df2": {
+          "title": "절대적 안전",
+          "description": "10,000개 이상의 중요 시스템 파일 화이트리스트로 Windows 작동에 필수적인 파일은 절대 삭제하지 않습니다."
+        },
+        "df3": {
+          "title": "자동 예약",
+          "description": "일간, 주간, 월간 일정으로 자동 정리. 백그라운드에서 조용히 실행되어 작업을 방해하지 않습니다."
+        },
+        "df4": {
+          "title": "심층 레지스트리 스캔",
+          "description": "PC 속도 저하, 앱 충돌, BSOD 및 Windows Update 실패를 일으키는 50개 이상의 일반적인 레지스트리 오류를 감지하고 수정합니다."
+        },
+        "df5": {
+          "title": "삭제 전 미리보기",
+          "description": "확인 전 삭제할 파일 및 항목의 상세 목록을 표시합니다. 중요한 것을 유지할 수 있는 완전한 제어권을 제공합니다."
+        },
+        "df6": {
+          "title": "30일 실행 취소",
+          "description": "모든 정리 작업은 기록에 저장됩니다. 30일 이내에는 언제든 삭제된 파일을 복원할 수 있습니다."
+        }
       },
       "privacy": {
-        "df1": { "title": "추적기 차단", "description": "Facebook, Google, Amazon 및 기타 주요 광고 네트워크의 10,000개 이상의 추적기와 핑거프린팅 스크립트를 차단합니다." },
-        "df2": { "title": "AES-256 암호화", "description": "민감한 파일 및 폴더를 AES-256으로 암호화. 은행과 군에서 사용하는 동일한 표준입니다." },
-        "df3": { "title": "영구 삭제", "description": "DoD 5220.22-M 표준에 따른 복구 불가능한 파일 삭제. 무작위 데이터로 여러 번 덮어씁니다." },
-        "df4": { "title": "익명 브라우징", "description": "IP 숨김, 온라인 흔적 삭제, 브라우저 핑거프린팅 방지. 흔적을 남기지 않고 브라우징할 수 있습니다." },
-        "df5": { "title": "유출 알림", "description": "Have I Been Pwned 데이터베이스와 연동. 이메일이나 비밀번호가 데이터 유출에 포함된 경우 알림을 제공합니다." },
-        "df6": { "title": "쿠키 제어", "description": "웹사이트별 쿠키 제어. 로그인이 필요한 사이트는 화이트리스트에 등록하고 제3자 추적 쿠키는 자동 삭제합니다." }
+        "df1": {
+          "title": "추적기 차단",
+          "description": "Facebook, Google, Amazon 및 기타 주요 광고 네트워크의 10,000개 이상의 추적기와 핑거프린팅 스크립트를 차단합니다."
+        },
+        "df2": {
+          "title": "AES-256 암호화",
+          "description": "민감한 파일 및 폴더를 AES-256으로 암호화. 은행과 군에서 사용하는 동일한 표준입니다."
+        },
+        "df3": {
+          "title": "영구 삭제",
+          "description": "DoD 5220.22-M 표준에 따른 복구 불가능한 파일 삭제. 무작위 데이터로 여러 번 덮어씁니다."
+        },
+        "df4": {
+          "title": "익명 브라우징",
+          "description": "IP 숨김, 온라인 흔적 삭제, 브라우저 핑거프린팅 방지. 흔적을 남기지 않고 브라우징할 수 있습니다."
+        },
+        "df5": {
+          "title": "유출 알림",
+          "description": "Have I Been Pwned 데이터베이스와 연동. 이메일이나 비밀번호가 데이터 유출에 포함된 경우 알림을 제공합니다."
+        },
+        "df6": {
+          "title": "쿠키 제어",
+          "description": "웹사이트별 쿠키 제어. 로그인이 필요한 사이트는 화이트리스트에 등록하고 제3자 추적 쿠키는 자동 삭제합니다."
+        }
       },
       "password": {
-        "df1": { "title": "제로 지식", "description": "Zidimi는 귀하의 비밀번호를 알지 못합니다. 데이터는 기기에서 암호화된 후 동기화되며 서버에는 암호문만 저장됩니다." },
-        "df2": { "title": "강력한 비밀번호 생성기", "description": "NIST 준수 비밀번호 생성기. 무작위 비밀번호와 패스프레이즈를 지원. 길이, 문자, 혼동되는 문자 제외를 사용자 정의할 수 있습니다." },
-        "df3": { "title": "자동 입력", "description": "브라우저 확장 프로그램이 한 번의 클릭으로 로그인을 자동 입력. 스마트 양식 감지, 다단계 로그인을 지원합니다." },
-        "df4": { "title": "기기 간 동기화", "description": "엔드투엔드 암호화 클라우드를 통해 Windows, macOS, iOS, Android 간 안전하게 동기화. 오프라인 우선, 온라인 시 동기화합니다." },
-        "df5": { "title": "내장 2FA", "description": "Google Authenticator와 같은 TOTP 2단계 인증을 통합. 앱 내에서 2FA 계정의 6자리 코드를 생성합니다." },
-        "df6": { "title": "유출 알림", "description": "Have I Been Pwned 데이터베이스에 대해 비밀번호를 자동 확인. 데이터 유출로 비밀번호가 유출된 경우 알림을 제공합니다." }
+        "df1": {
+          "title": "제로 지식",
+          "description": "Zidimi는 귀하의 비밀번호를 알지 못합니다. 데이터는 기기에서 암호화된 후 동기화되며 서버에는 암호문만 저장됩니다."
+        },
+        "df2": {
+          "title": "강력한 비밀번호 생성기",
+          "description": "NIST 준수 비밀번호 생성기. 무작위 비밀번호와 패스프레이즈를 지원. 길이, 문자, 혼동되는 문자 제외를 사용자 정의할 수 있습니다."
+        },
+        "df3": {
+          "title": "자동 입력",
+          "description": "브라우저 확장 프로그램이 한 번의 클릭으로 로그인을 자동 입력. 스마트 양식 감지, 다단계 로그인을 지원합니다."
+        },
+        "df4": {
+          "title": "기기 간 동기화",
+          "description": "엔드투엔드 암호화 클라우드를 통해 Windows, macOS, iOS, Android 간 안전하게 동기화. 오프라인 우선, 온라인 시 동기화합니다."
+        },
+        "df5": {
+          "title": "내장 2FA",
+          "description": "Google Authenticator와 같은 TOTP 2단계 인증을 통합. 앱 내에서 2FA 계정의 6자리 코드를 생성합니다."
+        },
+        "df6": {
+          "title": "유출 알림",
+          "description": "Have I Been Pwned 데이터베이스에 대해 비밀번호를 자동 확인. 데이터 유출로 비밀번호가 유출된 경우 알림을 제공합니다."
+        }
       },
       "backup": {
-        "df1": { "title": "자동 백업", "description": "일간, 주간, 월간 백업을 예약. 백그라운드에서 조용히 실행되어 작업을 방해하지 않습니다." },
-        "df2": { "title": "보안 클라우드", "description": "AES-256 엔드투엔드 암호화로 Zidimi 클라우드에 백업. 베트남에 서버를 두고 Decree 13/2023/NĐ-CP를 준수합니다." },
-        "df3": { "title": "버전 기록", "description": "여러 파일 버전을 저장. Free는 30일, Pro는 1년 이내의 어느 시점으로든 복원할 수 있습니다." },
-        "df4": { "title": "1-클릭 복원", "description": "복원할 버전을 선택하고 '복원'을 클릭. 복잡한 작업 없이 몇 분 만에 파일을 원래 위치로 되돌립니다." },
-        "df5": { "title": "시스템 백업", "description": "전체 OS, 앱, 설정, 드라이버를 포함한 시스템 이미지를 생성. 필요 시 Windows를 정확한 상태로 복원합니다." },
-        "df6": { "title": "엔드투엔드 암호화", "description": "데이터는 클라우드에 업로드되기 전 기기에서 암호화됩니다. Zidimi조차도 귀하의 파일을 볼 수 없습니다." }
+        "df1": {
+          "title": "자동 백업",
+          "description": "일간, 주간, 월간 백업을 예약. 백그라운드에서 조용히 실행되어 작업을 방해하지 않습니다."
+        },
+        "df2": {
+          "title": "보안 클라우드",
+          "description": "AES-256 엔드투엔드 암호화로 Zidimi 클라우드에 백업. 베트남에 서버를 두고 Decree 13/2023/NĐ-CP를 준수합니다."
+        },
+        "df3": {
+          "title": "버전 기록",
+          "description": "여러 파일 버전을 저장. Free는 30일, Pro는 1년 이내의 어느 시점으로든 복원할 수 있습니다."
+        },
+        "df4": {
+          "title": "1-클릭 복원",
+          "description": "복원할 버전을 선택하고 '복원'을 클릭. 복잡한 작업 없이 몇 분 만에 파일을 원래 위치로 되돌립니다."
+        },
+        "df5": {
+          "title": "시스템 백업",
+          "description": "전체 OS, 앱, 설정, 드라이버를 포함한 시스템 이미지를 생성. 필요 시 Windows를 정확한 상태로 복원합니다."
+        },
+        "df6": {
+          "title": "엔드투엔드 암호화",
+          "description": "데이터는 클라우드에 업로드되기 전 기기에서 암호화됩니다. Zidimi조차도 귀하의 파일을 볼 수 없습니다."
+        }
       },
       "uninstaller": {
-        "df1": { "title": "철저한 제거", "description": "AppData, ProgramData, 레지스트리, 임시 파일을 심층 스캔하여 응용 프로그램의 모든 흔적을 제거합니다." },
-        "df2": { "title": "일괄 제거", "description": "여러 앱을 선택하여 함께 제거. OEM 블로트웨어가 있는 새 PC를 정리하는 데 특히 유용합니다." },
-        "df3": { "title": "강제 제거", "description": "제어판에서 제거할 수 없는 고집스러운 앱을 강제 제거. 손상된 제거 도구, 제거 도구가 없는 앱에 대응합니다." },
-        "df4": { "title": "설치 모니터", "description": "새 앱 설치 시 시스템 변경 사항을 추적. 나중에 제거할 때 100% 흔적 제거를 보장합니다." },
-        "df5": { "title": "Windows 업데이트 제거", "description": "문제가 있는 Windows 업데이트를 제거하고 안정적인 버전으로 롤백. Windows Update와 Driver Update 모두를 지원합니다." },
-        "df6": { "title": "제거 전 백업", "description": "각 제거 전 복원 지점과 레지스트리 백업을 자동 생성. 문제 발생 시 쉽게 롤백할 수 있습니다." }
+        "df1": {
+          "title": "철저한 제거",
+          "description": "AppData, ProgramData, 레지스트리, 임시 파일을 심층 스캔하여 응용 프로그램의 모든 흔적을 제거합니다."
+        },
+        "df2": {
+          "title": "일괄 제거",
+          "description": "여러 앱을 선택하여 함께 제거. OEM 블로트웨어가 있는 새 PC를 정리하는 데 특히 유용합니다."
+        },
+        "df3": {
+          "title": "강제 제거",
+          "description": "제어판에서 제거할 수 없는 고집스러운 앱을 강제 제거. 손상된 제거 도구, 제거 도구가 없는 앱에 대응합니다."
+        },
+        "df4": {
+          "title": "설치 모니터",
+          "description": "새 앱 설치 시 시스템 변경 사항을 추적. 나중에 제거할 때 100% 흔적 제거를 보장합니다."
+        },
+        "df5": {
+          "title": "Windows 업데이트 제거",
+          "description": "문제가 있는 Windows 업데이트를 제거하고 안정적인 버전으로 롤백. Windows Update와 Driver Update 모두를 지원합니다."
+        },
+        "df6": {
+          "title": "제거 전 백업",
+          "description": "각 제거 전 복원 지점과 레지스트리 백업을 자동 생성. 문제 발생 시 쉽게 롤백할 수 있습니다."
+        }
+      },
+      "browser": {
+        "df1": {
+          "title": "Ultra-Fast Rendering",
+          "description": "Optimized engine loads web pages up to 3x faster."
+        },
+        "df2": {
+          "title": "Built-in Ad Blocker",
+          "description": "Stops annoying ads and pop-ups automatically."
+        },
+        "df3": {
+          "title": "Strict Privacy",
+          "description": "Blocks third-party trackers and fingerprinting scripts."
+        },
+        "df4": {
+          "title": "Low RAM Usage",
+          "description": "Uses up to 50% less memory than other major browsers."
+        },
+        "df5": {
+          "title": "Chromium Based",
+          "description": "Fully compatible with all Chrome web store extensions."
+        },
+        "df6": {
+          "title": "Cloud Sync",
+          "description": "Sync your bookmarks and passwords securely across devices."
+        }
       }
     },
     "faqs": {
@@ -450,16 +604,6 @@
         "a3": "네. Zidimi Cleaner는 각 정리 전 복원 지점을 자동 생성합니다. 기록 기능을 통해 30일 이내에 모든 작업을 실행 취소할 수 있습니다. 삭제된 파일은 압축되어 Windows 휴지통과 별도인 Zidimi의 휴지통에 저장됩니다.",
         "q4": "얼마나 자주 정리해야 하나요?",
         "a4": "주 1회 빠른 스캔과 월 1회 심층 스캔을 권장합니다. Zidimi Cleaner Pro는 자동 예약이 가능하여 예를 들어 매주 금요일 빠른 스캔, 매월 1일 심층 스캔을 실행하도록 설정할 수 있어 수동으로 기억할 필요가 없습니다."
-      },
-      "driver": {
-        "q1": "Zidimi 드라이버는 공식인가요?",
-        "a1": "네. Zidimi의 데이터베이스에 있는 모든 드라이버는 제조사 공식 서버(NVIDIA, AMD, Intel, Realtek 등)에서 직접 다운로드되며 Microsoft WHQL 디지털 서명되어 있습니다. 변형되거나 베타 드라이버는 배포하지 않습니다.",
-        "q2": "드라이버 업데이트는 위험한가요?",
-        "a2": "Zidimi Driver는 각 업데이트 전 항상 시스템 복원 지점을 생성하고 이전 드라이버를 백업합니다. 새 드라이버로 문제가 발생하면 한 번의 클릭으로 이전 버전으로 롤백할 수 있습니다. 업데이트 성공률은 99.7%입니다.",
-        "q3": "Zidimi Driver는 노트북을 지원하나요?",
-        "a3": "네, 노트북에 특히 좋습니다. 많은 노트북(Dell, HP, Lenovo, Asus, Acer)은 공개 드라이버와 다른 맞춤형 OEM 드라이버를 사용합니다. Zidimi는 노트북을 식별하고 올바른 OEM 드라이버를 다운로드하여 기능 키(Fn), 웹캠, 지문 인식, 오디오 카드가 모두 작동하도록 합니다.",
-        "q4": "새 드라이버는 얼마나 자주 업데이트되나요?",
-        "a4": "Zidimi의 드라이버 데이터베이스는 OEM에서 새로 출시된 드라이버로 매일 업데이트됩니다. 소프트웨어가 자동으로 확인하여 기기에 새 드라이버가 사용 가능해지면 알려줍니다. 자동 업데이트를 활성화하면 백그라운드에서 조용히 설치됩니다."
       },
       "privacy": {
         "q1": "Zidimi Privacy가 VPN을 대체할 수 있나요?",
@@ -500,6 +644,16 @@
         "a3": "네. Zidimi Uninstaller에는 블로트웨어 감지 기능이 있습니다. 사전 설치된 OEM 앱(McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery 등)을 자동으로 나열하고 한 번의 클릭으로 일괄 제거할 수 있습니다. 새 PC에는 평균 10-30개의 블로트웨어가 있으며 모두 제거하면 컴퓨터가 크게 빨라집니다.",
         "q4": "Windows Store(UWP) 앱을 제거할 수 있나요?",
         "a4": "네. Zidimi Uninstaller는 기존 Win32 데스크톱 앱과 Windows Store(UWP) 앱 모두의 제거를 지원합니다. 제어판에서 제거를 허용하지 않는 Windows 내장 앱(Cortana, Xbox, 메일, 캘린더 등)을 제거하는 데 특히 유용합니다."
+      },
+      "browser": {
+        "q1": "Is Zidimi Browser based on Chrome?",
+        "a1": "Zidimi Browser is built on the open-source Chromium project. This means it is fast, secure, and supports all Chrome extensions.",
+        "q2": "Can I install my Chrome extensions?",
+        "a2": "Yes! Zidimi Browser is fully compatible with the Chrome Web Store. You can install all your favorite extensions with a single click.",
+        "q3": "How does it use less RAM?",
+        "a3": "We've optimized the background processes and implemented aggressive tab sleeping for inactive tabs, reducing memory footprint by up to 50%.",
+        "q4": "Is the ad blocker free?",
+        "a4": "Yes, the ad blocker and tracking protection are built directly into the browser core and are completely free forever."
       }
     },
     "howItWorks": {
@@ -510,14 +664,6 @@
         "h2d": "카테고리별 정크 파일 상세 목록과 확보 가능한 공간을 표시합니다. 원하는 항목의 선택을 해제할 수 있습니다.",
         "h3t": "1-클릭 정리",
         "h3d": "'지금 정리'를 클릭하여 모두 제거. Zidimi가 복원 지점을 자동 생성하여 언제든 실행 취소할 수 있습니다."
-      },
-      "driver": {
-        "h1t": "드라이버 스캔",
-        "h1d": "모든 하드웨어 기기를 스캔하고 현재 드라이버 버전을 Zidimi의 최신 드라이버 데이터베이스와 비교합니다.",
-        "h2t": "업데이트 선택",
-        "h2d": "오래된 드라이버 목록을 새 버전 정보, 제조사 및 다운로드 크기와 함께 표시합니다.",
-        "h3t": "자동 설치",
-        "h3d": "Zidimi가 자동으로 다운로드, 이전 드라이버 백업, 새 드라이버 설치, 롤백용 복원 지점 생성을 수행합니다."
       },
       "privacy": {
         "h1t": "흔적 분석",
@@ -550,6 +696,14 @@
         "h2d": "하나 이상의 앱을 선택하여 제거. Zidimi가 공식 제거 도구를 먼저 실행한 후 남은 흔적을 심층 스캔합니다.",
         "h3t": "정리",
         "h3d": "남은 모든 정크 파일, 레지스트리, 바로 가기를 제거. 필요 시 롤백용 복원 지점을 생성합니다."
+      },
+      "browser": {
+        "h1t": "Download & Install",
+        "h1d": "Get the lightweight 85MB installer and set up Zidimi Browser in under 30 seconds.",
+        "h2t": "Import Your Data",
+        "h2d": "Easily import your bookmarks, passwords, and history from your old browser.",
+        "h3t": "Browse Securely",
+        "h3d": "Enjoy a faster, ad-free web experience with maximum privacy protection."
       }
     },
     "reqs": {
@@ -559,13 +713,6 @@
         "ram": "최소 1 GB(권장 2 GB)",
         "disk": "100 MB 여유 공간",
         "internet": "업데이트에 필요"
-      },
-      "driver": {
-        "os": "Windows 11/10/8.1/8/7(32-bit & 64-bit)",
-        "cpu": "Intel Pentium 1 GHz 이상 또는 동급",
-        "ram": "최소 1 GB",
-        "disk": "150 MB 여유 공간",
-        "internet": "드라이버 다운로드에 필요"
       },
       "privacy": {
         "os": "Windows 11/10/8.1/8/7(32-bit & 64-bit)",
@@ -594,13 +741,31 @@
         "ram": "최소 1 GB",
         "disk": "50 MB 여유 공간",
         "internet": "불필요"
+      },
+      "browser": {
+        "os": "Windows 11, 10, 8.1, 7",
+        "cpu": "1 GHz or faster",
+        "ram": "512 MB minimum",
+        "disk": "100 MB free space",
+        "internet": "Required for web browsing"
       }
     }
   },
   "Metadata": {
     "defaultTitle": "Zidimi — PC 최적화를 위한 개인 유틸리티 소프트웨어",
     "defaultDescription": "Zidimi는 PC 정리, 드라이버 업데이트, 개인정보 보호, 비밀번호 관리, 데이터 백업을 제공하는 대표적인 개인 유틸리티 소프트웨어 스위트입니다. 빠르고, 안전하며, 무료 다운로드.",
-    "defaultKeywords": ["Zidimi", "유틸리티 소프트웨어", "PC 최적화", "PC 정리", "드라이버 업데이터", "개인정보 보호", "비밀번호 관리자", "데이터 백업", "제거 도구", "무료 소프트웨어"],
+    "defaultKeywords": [
+      "Zidimi",
+      "유틸리티 소프트웨어",
+      "PC 최적화",
+      "PC 정리",
+      "드라이버 업데이터",
+      "개인정보 보호",
+      "비밀번호 관리자",
+      "데이터 백업",
+      "제거 도구",
+      "무료 소프트웨어"
+    ],
     "home": {
       "title": "Zidimi — PC 최적화를 위한 개인 유틸리티 소프트웨어",
       "description": "Zidimi는 PC 정리, 드라이버 업데이트, 개인정보 보호, 비밀번호 관리, 데이터 백업을 제공하는 대표적인 개인 유틸리티 소프트웨어 스위트입니다. 빠르고, 안전하며, 무료 다운로드."
@@ -609,10 +774,6 @@
       "cleaner": {
         "title": "Zidimi Cleaner — 정리 및 시스템 최적화",
         "description": "정크 파일, 레지스트리 오류, 브라우저 캐시를 한 번의 클릭으로 스캔하고 제거합니다. 수 기가바이트의 공간을 확보하고 컴퓨터를 즉시 가속화하세요."
-      },
-      "driver": {
-        "title": "Zidimi Driver — 자동 드라이버 업데이트",
-        "description": "오래된 드라이버를 자동으로 감지하고 500만 개 이상의 공식 드라이버 데이터베이스에서 업데이트합니다. 기기 문제를 해결하고 게임 및 그래픽 성능을 향상시킵니다."
       },
       "privacy": {
         "title": "Zidimi Privacy — 개인정보 보호",
@@ -629,6 +790,10 @@
       "uninstaller": {
         "title": "Zidimi Uninstaller — 완전한 제거 도구",
         "description": "고집스러운 소프트웨어를 남은 파일, 레지스트리 항목, 바로 가기와 함께 제거합니다. 일괄 제거 및 강제 제거를 지원합니다."
+      },
+      "browser": {
+        "title": "Zidimi Browser — Fast & Private Web Browser",
+        "description": "Browse the web safely with Zidimi Browser. Built-in ad blocker, tracking protection, and optimized for low RAM usage. Download free today."
       }
     },
     "notFound": "제품을 찾을 수 없음"

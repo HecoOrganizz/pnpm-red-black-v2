@@ -95,7 +95,9 @@ function ProductCard({
       <Link
         href={`/products/${product.slug}`}
         aria-label={`${t("card.viewDetail")} ${name}`}
-        className="flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-card p-6 shadow-soft transition-all duration-300 hover:-translate-y-1 hover:shadow-soft-lg hover:border-primary/30"
+        className="flex h-full flex-col overflow-hidden rounded-2xl border border-border 
+        bg-card p-6 shadow-soft transition-all duration-300 hover:-translate-y-1 
+        hover:shadow-soft-lg hover:border-primary/30"
       >
         <div
           className={cn(
@@ -130,11 +132,11 @@ function ProductCard({
           {description}
         </p>
 
-        <ul className="mt-4 space-y-2">
+        <ul className="mt-4 space-y-2 h-full">
           {features.map((f: string) => (
             <li
               key={f}
-              className="flex items-center gap-2 text-xs text-foreground/80"
+              className="flex items-start gap-2 text-xs text-foreground/80"
             >
               <span className="flex h-4 w-4 flex-shrink-0 items-center justify-center rounded-full bg-primary/10">
                 <svg

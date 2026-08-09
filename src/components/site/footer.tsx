@@ -7,7 +7,7 @@ import { Facebook, Twitter, Youtube, Github } from "lucide-react";
 const FOOTER_LINKS = {
   products: [
     { label: "cleaner", href: "/products/zidimi-cleaner" },
-    { label: "driver", href: "/products/zidimi-driver" },
+    { label: "browser", href: "/products/zidimi-browser" },
     { label: "privacy", href: "/products/zidimi-privacy" },
     { label: "password", href: "/products/zidimi-password" },
     { label: "backup", href: "/products/zidimi-backup" },
@@ -24,7 +24,7 @@ const FOOTER_LINKS = {
     { label: "support", href: "/#faq" },
     { label: "guides", href: "#" },
     { label: "blog", href: "#" },
-    { label: "driverCheck", href: "#" },
+    { label: "browserCheck", href: "#" },
     { label: "forum", href: "#" },
   ],
   legal: [
