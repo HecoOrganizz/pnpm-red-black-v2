@@ -16,7 +16,7 @@ import { Button } from "@/components/ui/button";
 const STATS = [
   { value: "15K+", key: "downloads" },
   { value: "4.8/5", key: "rating" },
-  { value: "180+", key: "countries" },
+  // { value: "180+", key: "countries" },
   { value: "99.9%", key: "uptime" },
 ] as const;
 
