@@ -57,7 +57,7 @@ export function Header() {
             <span className="font-display text-xl font-extrabold tracking-tight text-foreground md:text-2xl">
               Heco
             </span> */}
-            <img src="/heco-logo.png" alt="Heco" className="h-20 w-30" />
+            <img src="/zimidi-logo.png" alt="Zimidi" className="h-16 w-auto object-contain" />
           </Link>
 
           <nav

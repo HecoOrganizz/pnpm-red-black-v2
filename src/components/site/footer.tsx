@@ -98,7 +98,7 @@ export function Footer() {
               </span>
             </Link> */}
 
-            <img src="/heco-logo.png" alt="Heco" className="h-30 w-50" />
+            <img src="/zimidi-logo.png" alt="Zimidi" className="h-16 w-auto object-contain" />
 
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted-foreground">
               {t("brandDesc")}

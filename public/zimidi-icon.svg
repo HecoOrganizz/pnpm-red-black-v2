@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="zimidi-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EA0232"/>
+      <stop offset="1" stop-color="#803C38"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded square background -->
+  <rect width="64" height="64" rx="16" fill="url(#zimidi-grad)"/>
+  <!-- Letter "Z" -->
+  <path d="M18 18 L46 18 L18 46 L46 46" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Accent dot -->
+  <circle cx="48" cy="18" r="3" fill="#CE5564" opacity="0.95"/>
+</svg>
