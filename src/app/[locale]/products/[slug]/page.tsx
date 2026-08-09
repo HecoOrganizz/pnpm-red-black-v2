@@ -14,6 +14,7 @@ import {
 } from "@/components/site/product-detail-client";
 import { routing, type Locale } from "@/i18n/routing";
 import { SITE_URL } from "@/lib/site-config";
+import { OG_LOCALES, localizedAlternates, safeJsonLd } from "@/lib/seo-helpers";
 
 type Params = { params: Promise<{ locale: string; slug: string }> };
 
@@ -43,40 +44,19 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const path = `/products/${product.slug}`;
   const url = `${SITE_URL}/${typedLocale}${path}`;
 
-  const ogLocales: Record<Locale, string> = {
-    en: "en_US",
-    vi: "vi_VN",
-    fr: "fr_FR",
-    de: "de_DE",
-    it: "it_IT",
-    ru: "ru_RU",
-    zh: "zh_CN",
-    lo: "lo_LA",
-    ja: "ja_JP",
-    ko: "ko_KR",
-  };
-
   return {
     title,
     description,
     alternates: {
       canonical: url,
-      languages: {
-        ...Object.fromEntries(
-          routing.locales.map((item) => [
-            item,
-            `${SITE_URL}/${item}${path}`,
-          ])
-        ),
-        "x-default": `${SITE_URL}/${routing.defaultLocale}${path}`,
-      },
+      languages: localizedAlternates(path),
     },
     openGraph: {
       type: "website",
-      locale: ogLocales[typedLocale],
+      locale: OG_LOCALES[typedLocale],
       alternateLocale: routing.locales
         .filter((item) => item !== typedLocale)
-        .map((item) => ogLocales[item]),
+        .map((item) => OG_LOCALES[item]),
       url,
       siteName: "Heco",
       title,
@@ -177,8 +157,7 @@ export default async function ProductDetailPage({ params }: Params) {
     ],
   };
 
-  const safeJsonLd = (value: unknown) =>
-    JSON.stringify(value).replace(/</g, "\\u003c");
+
 
   return (
     <div className="flex min-h-screen flex-col bg-background">

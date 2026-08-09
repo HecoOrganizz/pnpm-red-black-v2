@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing, type Locale } from "@/i18n/routing";
 import { SITE_URL } from "@/lib/site-config";
+import { OG_LOCALES, localizedAlternates, safeJsonLd } from "@/lib/seo-helpers";
 import "../globals.css";
 
 const inter = Inter({
@@ -23,38 +24,9 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 
-const OG_LOCALES: Record<Locale, string> = {
-  en: "en_US",
-  vi: "vi_VN",
-  fr: "fr_FR",
-  de: "de_DE",
-  it: "it_IT",
-  ru: "ru_RU",
-  zh: "zh_CN",
-  lo: "lo_LA",
-  ja: "ja_JP",
-  ko: "ko_KR",
-};
-
 type Params = {
   params: Promise<{ locale: string }>;
 };
-
-function localizedAlternates(path = ""): Record<string, string> {
-  return {
-    ...Object.fromEntries(
-      routing.locales.map((locale) => [
-        locale,
-        `${SITE_URL}/${locale}${path}`,
-      ])
-    ),
-    "x-default": `${SITE_URL}/${routing.defaultLocale}${path}`,
-  };
-}
-
-function safeJsonLd(value: unknown): string {
-  return JSON.stringify(value).replace(/</g, "\\u003c");
-}
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));

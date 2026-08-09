@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useTranslations } from "next-intl";
-import { Link, usePathname, useRouter } from "@/i18n/routing";
+import { Link, usePathname, useRouter, type Locale } from "@/i18n/routing";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Download, ChevronDown, Globe, Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -172,7 +172,7 @@ function LanguageSwitcher() {
 
   const switchLocale = (newLocale: string) => {
     if (newLocale === locale) return;
-    router.replace(pathname, { locale: newLocale as "en" | "vi" });
+    router.replace(pathname, { locale: newLocale as Locale });
   };
 
   // Flag emojis cho từng ngôn ngữ
@@ -226,42 +226,5 @@ function LanguageSwitcher() {
         ))}
       </DropdownMenuContent>
     </DropdownMenu>
-  );
-}
-
-function LogoMark({ className }: { className?: string }) {
-  return (
-    <svg
-      className={className}
-      viewBox="0 0 64 64"
-      fill="none"
-      role="img"
-      aria-label="Heco logo"
-    >
-      <defs>
-        <linearGradient
-          id="heco-header-grad"
-          x1="0"
-          y1="0"
-          x2="64"
-          y2="64"
-          gradientUnits="userSpaceOnUse"
-        >
-          <stop stopColor="#EA0232" />
-          <stop offset="1" stopColor="#803C38" />
-        </linearGradient>
-      </defs>
-      <rect width="64" height="64" rx="16" fill="url(#heco-header-grad)" />
-      <path
-        d="M22 18 L22 46 M22 32 L42 32 M42 18 L42 46"
-        stroke="white"
-        strokeWidth="6"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <circle cx="22" cy="18" r="3.5" fill="white" />
-      <circle cx="42" cy="46" r="3.5" fill="white" />
-      <circle cx="48" cy="18" r="3" fill="#CE5564" opacity="0.95" />
-    </svg>
   );
 }

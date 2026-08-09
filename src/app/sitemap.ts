@@ -2,20 +2,9 @@ import type { MetadataRoute } from "next";
 import { PRODUCTS } from "@/data/products";
 import { routing } from "@/i18n/routing";
 import { SITE_URL } from "@/lib/site-config";
+import { localizedAlternates } from "@/lib/seo-helpers";
 
 const LAST_MEANINGFUL_UPDATE = new Date("2026-08-08T00:00:00+07:00");
-
-function localizedAlternates(path = ""): Record<string, string> {
-  return {
-    ...Object.fromEntries(
-      routing.locales.map((locale) => [
-        locale,
-        `${SITE_URL}/${locale}${path}`,
-      ])
-    ),
-    "x-default": `${SITE_URL}/${routing.defaultLocale}${path}`,
-  };
-}
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const homePages: MetadataRoute.Sitemap = routing.locales.map((locale) => ({
