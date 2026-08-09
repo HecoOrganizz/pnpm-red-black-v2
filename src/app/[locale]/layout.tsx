@@ -49,13 +49,13 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     metadataBase: new URL(SITE_URL),
     title: {
       default: title,
-      template: "%s | Zimidi",
+      template: "%s | Zidimi",
     },
     description,
-    applicationName: "Zimidi",
-    authors: [{ name: "Zimidi Team", url: SITE_URL }],
-    creator: "Zimidi Team",
-    publisher: "Zimidi",
+    applicationName: "Zidimi",
+    authors: [{ name: "Zidimi Team", url: SITE_URL }],
+    creator: "Zidimi Team",
+    publisher: "Zidimi",
     category: "Technology",
     alternates: {
       canonical: canonicalUrl,
@@ -68,7 +68,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
         .filter((item) => item !== typedLocale)
         .map((item) => OG_LOCALES[item]),
       url: canonicalUrl,
-      siteName: "Zimidi",
+      siteName: "Zidimi",
       title,
       description,
       images: [
@@ -76,7 +76,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
           url: "/og-image.png",
           width: 1200,
           height: 630,
-          alt: "Zimidi software utilities",
+          alt: "Zidimi software utilities",
           type: "image/png",
         },
       ],
@@ -100,12 +100,12 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     },
     manifest: "/manifest.webmanifest",
     icons: {
-      icon: "/zimidi-icon.svg",
-      apple: "/zimidi-icon.svg",
+      icon: "/zidimi-icon.svg",
+      apple: "/zidimi-icon.svg",
     },
     appleWebApp: {
       capable: true,
-      title: "Zimidi",
+      title: "Zidimi",
       statusBarStyle: "default",
     },
   };
@@ -142,9 +142,9 @@ export default async function LocaleLayout({
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": `${SITE_URL}/#organization`,
-    name: "Zimidi",
+    name: "Zidimi",
     url: SITE_URL,
-    logo: `${SITE_URL}/zimidi-icon.svg`,
+    logo: `${SITE_URL}/zidimi-icon.svg`,
   };
 
   const websiteSchema = {
@@ -152,7 +152,7 @@ export default async function LocaleLayout({
     "@type": "WebSite",
     "@id": `${SITE_URL}/#website`,
     url: SITE_URL,
-    name: "Zimidi",
+    name: "Zidimi",
     publisher: { "@id": `${SITE_URL}/#organization` },
     inLanguage: [...routing.locales],
   };

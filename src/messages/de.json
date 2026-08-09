@@ -20,7 +20,7 @@
     "title": "Optimieren Sie Ihren PC,",
     "titleHighlight": "schützen Sie Ihre Daten,",
     "titleEnd": "beschleunigen Sie Ihre Arbeit.",
-    "subtitle": "Zimidi ist eine All-in-One-Suite für persönliche Dienstprogramme: Datenmüll-Bereinigung, Treiber-Updates, Datenschutz, Passwortverwaltung und Datensicherung.",
+    "subtitle": "Zidimi ist eine All-in-One-Suite für persönliche Dienstprogramme: Datenmüll-Bereinigung, Treiber-Updates, Datenschutz, Passwortverwaltung und Datensicherung.",
     "subtitleHighlight": "Schneller, sicherer, kostenlos herunterladbar.",
     "trust": {
       "free": "Für immer kostenlos",
@@ -39,7 +39,7 @@
       "uptime": "Verfügbarkeit"
     },
     "dashboard": {
-      "title": "Zimidi Cleaner — System wird gescannt",
+      "title": "Zidimi Cleaner — System wird gescannt",
       "score": "Gut",
       "healthTitle": "Systemzustand: Gut",
       "healthDesc": "1.2 GB bereinigbare Datenmüll-Dateien gefunden.",
@@ -56,14 +56,14 @@
     }
   },
   "TrustStrip": {
-    "label": "Zimidi vorgestellt auf"
+    "label": "Zidimi vorgestellt auf"
   },
   "Products": {
-    "badge": "Zimidi-Produktsuite",
+    "badge": "Zidimi-Produktsuite",
     "title": "Eine Marke.",
     "titleHighlight": "Sechs Spitzenwerkzeuge.",
-    "subtitle": "Jedes Zimidi-Produkt ist darauf ausgelegt, ein spezifisches Computer-Optimierungsproblem zu lösen. Installieren Sie einzelne Produkte nach Bedarf oder laden Sie die vollständige Suite für ein umfassendes Erlebnis herunter — alles kostenlos.",
-    "cta": "Möchten Sie das komplette Paket? Holen Sie sich Zimidi All-in-One Suite.",
+    "subtitle": "Jedes Zidimi-Produkt ist darauf ausgelegt, ein spezifisches Computer-Optimierungsproblem zu lösen. Installieren Sie einzelne Produkte nach Bedarf oder laden Sie die vollständige Suite für ein umfassendes Erlebnis herunter — alles kostenlos.",
+    "cta": "Möchten Sie das komplette Paket? Holen Sie sich Zidimi All-in-One Suite.",
     "ctaButton": "Suite herunterladen — nur 64 MB",
     "card": {
       "downloadFree": "Kostenlos herunterladen",
@@ -72,39 +72,39 @@
     },
     "items": {
       "cleaner": {
-        "name": "Zimidi Cleaner",
+        "name": "Zidimi Cleaner",
         "tagline": "Bereinigung & Systemoptimierung",
         "description": "Scannen und entfernen Sie Datenmüll, Registry-Fehler und Browser-Cache mit einem Klick. Geben Sie Gigabyte an Speicherplatz frei und beschleunigen Sie Ihren Computer sofort.",
         "features": ["Tiefenanalyse mit 1 Klick", "Sichere Registry-Bereinigung", "Startbeschleuniger"],
         "badge": "Beliebteste"
       },
       "driver": {
-        "name": "Zimidi Driver",
+        "name": "Zidimi Driver",
         "tagline": "Automatische Treiber-Updates",
         "description": "Erkennt automatisch veraltete Treiber und aktualisiert sie aus einer Datenbank mit über 5 Millionen offiziellen Treibern. Beheben Sie Geräteprobleme, steigern Sie Spiel- und Grafikleistung.",
         "features": ["5M+ offizielle Treiber", "Backup vor dem Update", "Geplante Automatisierung"]
       },
       "privacy": {
-        "name": "Zimidi Privacy",
+        "name": "Zidimi Privacy",
         "tagline": "Datenschutz",
         "description": "Löschen Sie Browserverlauf, blockieren Sie Tracker, verschlüsseln Sie persönliche Dateien und verhindern Sie Spyware. Ihre Daten, Ihre Kontrolle.",
         "features": ["Tracker und Cookies blockieren", "AES-256-Dateiverschlüsselung", "Sichere permanente Löschung"],
         "badge": "Neu"
       },
       "password": {
-        "name": "Zimidi Password",
+        "name": "Zidimi Password",
         "tagline": "Sicherer Passwort-Manager",
         "description": "Speichern Sie Passwörter in einem Zero-Knowledge-verschlüsselten Tresor. Automatisches Ausfüllen von Logins, Generierung starker Passwörter und sichere Synchronisierung zwischen Geräten.",
         "features": ["Zero-Knowledge-Verschlüsselung", "Intelligentes Auto-Ausfüllen", "Geräteübergreifende Sync"]
       },
       "backup": {
-        "name": "Zimidi Backup",
+        "name": "Zidimi Backup",
         "tagline": "Daten sichern & wiederherstellen",
         "description": "Sichern Sie automatisch Dateien, Ordner und gesamte Systeme in die Cloud oder auf externe Laufwerke. Stellen Sie bei Katastrofen in wenigen Minuten schnell wieder her.",
         "features": ["Geplante Backups", "Cloud-Sync", "Wiederherstellung mit 1 Klick"]
       },
       "uninstaller": {
-        "name": "Zimidi Uninstaller",
+        "name": "Zidimi Uninstaller",
         "tagline": "Vollständiger Deinstaller",
         "description": "Entfernen Sie hartnäckige Software zusammen mit allen Restdateien, Registry-Einträgen und Verknüpfungen. Stapel-Deinstallation und erzwungene Deinstallation werden unterstützt.",
         "features": ["100 % vollständige Entfernung", "Stapelweise Deinstallation", "Erzwungene Deinstallation"]
@@ -112,27 +112,27 @@
     }
   },
   "Features": {
-    "badge": "Warum Zimidi wählen",
+    "badge": "Warum Zidimi wählen",
     "title": "Umfassende Optimierung,",
     "titleHighlight": "absolute Sicherheit",
     "titleEnd": ".",
-    "subtitle": "Zimidi ist nicht nur Software — wir bauen ein vertrauenswürdiges Dienstprogramm-Ökosystem. Jede Funktion ist auf Leistung, Sicherheit und Benutzererlebnis optimiert.",
+    "subtitle": "Zidimi ist nicht nur Software — wir bauen ein vertrauenswürdiges Dienstprogramm-Ökosystem. Jede Funktion ist auf Leistung, Sicherheit und Benutzererlebnis optimiert.",
     "items": {
       "speed": {
         "title": "PC-Geschwindigkeitsoptimierung",
-        "description": "Beschleunigen Sie den Systemstart, geben Sie RAM und CPU frei. Zimidi optimiert über 50 Systemparameter, damit Ihr Computer so flüssig läuft wie am ersten Tag."
+        "description": "Beschleunigen Sie den Systemstart, geben Sie RAM und CPU frei. Zidimi optimiert über 50 Systemparameter, damit Ihr Computer so flüssig läuft wie am ersten Tag."
       },
       "privacy": {
         "title": "Datenschutz",
-        "description": "Blockieren Sie Tracker, löschen Sie Browserverlauf, verschlüsseln Sie sensible Dateien. Zimidi entspricht der DSGVO und verkauft niemals Nutzerdaten an Dritte."
+        "description": "Blockieren Sie Tracker, löschen Sie Browserverlauf, verschlüsseln Sie sensible Dateien. Zidimi entspricht der DSGVO und verkauft niemals Nutzerdaten an Dritte."
       },
       "security": {
         "title": "Sicherheit auf Bankniveau",
-        "description": "AES-256-Verschlüsselung für alle Daten, Zwei-Faktor-Authentifizierung für Zimidi-Konten. Wir haben die Ernst & Young-Sicherheitsprüfung 2025 bestanden."
+        "description": "AES-256-Verschlüsselung für alle Daten, Zwei-Faktor-Authentifizierung für Zidimi-Konten. Wir haben die Ernst & Young-Sicherheitsprüfung 2025 bestanden."
       },
       "lightweight": {
         "title": "Ultra schnell, ultra leicht",
-        "description": "Installiert in unter 30 Sekunden, scannt in nur 8 Sekunden. Zimidi verbraucht im Hintergrund weniger als 1 % CPU."
+        "description": "Installiert in unter 30 Sekunden, scannt in nur 8 Sekunden. Zidimi verbraucht im Hintergrund weniger als 1 % CPU."
       },
       "autoupdate": {
         "title": "Automatische Updates",
@@ -140,11 +140,11 @@
       },
       "cloud": {
         "title": "Cloud-Synchronisierung",
-        "description": "Synchronisieren Sie Einstellungen, Verlauf und Backups zwischen Windows-Geräten. Melden Sie sich bei Ihrem Zimidi-Konto an und alles ist in Sekunden bereit."
+        "description": "Synchronisieren Sie Einstellungen, Verlauf und Backups zwischen Windows-Geräten. Melden Sie sich bei Ihrem Zidimi-Konto an und alles ist in Sekunden bereit."
       },
       "i18n": {
         "title": "Mehrsprachige Unterstützung",
-        "description": "Die Zimidi-Oberfläche ist in 24 Sprachen verfügbar, darunter Englisch, Vietnamesisch, Chinesisch, Japanisch, Französisch, Deutsch. Erkennt automatisch die Systemsprache."
+        "description": "Die Zidimi-Oberfläche ist in 24 Sprachen verfügbar, darunter Englisch, Vietnamesisch, Chinesisch, Japanisch, Französisch, Deutsch. Erkennt automatisch die Systemsprache."
       },
       "support": {
         "title": "24/7-Support",
@@ -155,38 +155,38 @@
   "Reviews": {
     "badge": "Community-Bewertungen",
     "title": "25 Millionen Nutzer",
-    "titleHighlight": "vertrauen Zimidi.",
-    "subtitle": "Wir sind stolz darauf, von Nutzern in Vietnam und weltweit geschätzt zu werden. Hier sind einige echte Bewertungen von Zimidi-Kunden.",
+    "titleHighlight": "vertrauen Zidimi.",
+    "subtitle": "Wir sind stolz darauf, von Nutzern in Vietnam und weltweit geschätzt zu werden. Hier sind einige echte Bewertungen von Zidimi-Kunden.",
     "items": {
       "r1": {
         "name": "Minh Tran",
         "role": "Freelance-Designer · Hanoi",
-        "text": "Nach der Nutzung von Zimidi Cleaner startet mein Computer viel schneller, von 45 Sekunden auf 18 Sekunden. Klares vietnamesisches Interface, einfach zu bedienen, keine nervige Werbung. Empfohlen!"
+        "text": "Nach der Nutzung von Zidimi Cleaner startet mein Computer viel schneller, von 45 Sekunden auf 18 Sekunden. Klares vietnamesisches Interface, einfach zu bedienen, keine nervige Werbung. Empfohlen!"
       },
       "r2": {
         "name": "Lan Pham",
         "role": "Leitender Buchhalter · Ho Chi Minh City",
-        "text": "Zimidi Password hat mir schon oft geholfen. Früher habe ich Passwörter in einem Notizbuch aufgeschrieben, jetzt ist alles mit AES-256 verschlüsselt und wird bei Bedarf automatisch ausgefüllt. Ich fühle mich beim Umgang mit Kundendaten viel sicherer."
+        "text": "Zidimi Password hat mir schon oft geholfen. Früher habe ich Passwörter in einem Notizbuch aufgeschrieben, jetzt ist alles mit AES-256 verschlüsselt und wird bei Bedarf automatisch ausgefüllt. Ich fühle mich beim Umgang mit Kundendaten viel sicherer."
       },
       "r3": {
         "name": "Hoang Nguyen",
         "role": "IT-Student · Da Nang",
-        "text": "Ich habe Zimidi Driver heruntergeladen, um Grafikkartenprobleme beim Spielen zu beheben. Treiber in nur 2 Minuten automatisch aktualisiert, Spiele laufen flüssig ohne Ruckeln. Kostenlos, aber in besserer Qualität als viele kostenpflichtige Software."
+        "text": "Ich habe Zidimi Driver heruntergeladen, um Grafikkartenprobleme beim Spielen zu beheben. Treiber in nur 2 Minuten automatisch aktualisiert, Spiele laufen flüssig ohne Ruckeln. Kostenlos, aber in besserer Qualität als viele kostenpflichtige Software."
       },
       "r4": {
         "name": "Mai Le",
         "role": "Marketing-Leiter · Binh Duong",
-        "text": "Zimidi Privacy blockiert Tracker sehr effektiv. Ich surfe täglich und habe eine deutliche Reduzierung gezielter Werbung festgestellt. Die Funktion zur permanenten Dateilöschung ist ebenfalls sehr nützlich für die Arbeit."
+        "text": "Zidimi Privacy blockiert Tracker sehr effektiv. Ich surfe täglich und habe eine deutliche Reduzierung gezielter Werbung festgestellt. Die Funktion zur permanenten Dateilöschung ist ebenfalls sehr nützlich für die Arbeit."
       },
       "r5": {
         "name": "Duc Anh Vu",
         "role": "IT-Leiter · Hai Phong",
-        "text": "Zimidi auf 50 Firmen-Computern bereitgestellt. Zentrale Dashboard-Verwaltung, automatische Updates, kein manueller Eingriff nötig. Spart unserem IT-Team enorme Zeit im Vergleich zur Nutzung separater Tools."
+        "text": "Zidimi auf 50 Firmen-Computern bereitgestellt. Zentrale Dashboard-Verwaltung, automatische Updates, kein manueller Eingriff nötig. Spart unserem IT-Team enorme Zeit im Vergleich zur Nutzung separater Tools."
       },
       "r6": {
         "name": "Huong Nguyen",
         "role": "Lehrerin · Can Tho",
-        "text": "Ich bin nicht technikversiert, aber Zimidi ist sehr einfach zu bedienen. Nur ein Klick und die Bereinigung ist erledigt. Automatisches Cloud-Backup bedeutet, dass ich keine Angst mehr habe, Unterrichtsmaterialien zu verlieren. Danke an das Zimidi-Team!"
+        "text": "Ich bin nicht technikversiert, aber Zidimi ist sehr einfach zu bedienen. Nur ein Klick und die Bereinigung ist erledigt. Automatisches Cloud-Backup bedeutet, dass ich keine Angst mehr habe, Unterrichtsmaterialien zu verlieren. Danke an das Zidimi-Team!"
       }
     },
     "awards": {
@@ -198,15 +198,15 @@
     }
   },
   "Pricing": {
-    "badge": "Zimidi-Preise",
+    "badge": "Zidimi-Preise",
     "title": "Kostenlos starten.",
     "titleHighlight": "Bei Bedarf upgraden.",
-    "subtitle": "Keine versteckten Kosten, keine automatische Verlängerung. Nutzen Sie Zimidi Kostenlos für immer oder upgraden Sie auf Pro/Business, um die volle Leistung freizuschalten.",
+    "subtitle": "Keine versteckten Kosten, keine automatische Verlängerung. Nutzen Sie Zidimi Kostenlos für immer oder upgraden Sie auf Pro/Business, um die volle Leistung freizuschalten.",
     "plans": {
       "free": {
         "name": "Kostenlos",
         "description": "Alle Grundfunktionen für die persönliche Nutzung zu Hause.",
-        "features": ["Alle 6 Zimidi-Produkte", "Manueller Scan & Bereinigung", "5 Treiber-Updates/Monat", "1 GB Cloud-Backup", "Community-Support"],
+        "features": ["Alle 6 Zidimi-Produkte", "Manueller Scan & Bereinigung", "5 Treiber-Updates/Monat", "1 GB Cloud-Backup", "Community-Support"],
         "cta": "Kostenlos herunterladen"
       },
       "pro": {
@@ -240,49 +240,49 @@
     "title": "Brauchen",
     "titleHighlight": "Sie weitere Hilfe",
     "titleEnd": "?",
-    "subtitle": "Dies sind die häufigsten Fragen von Zimidi-Nutzern. Wenn Sie die gesuchte Antwort nicht finden, ist unser Support-Team immer bereit zu helfen.",
+    "subtitle": "Dies sind die häufigsten Fragen von Zidimi-Nutzern. Wenn Sie die gesuchte Antwort nicht finden, ist unser Support-Team immer bereit zu helfen.",
     "items": {
       "q1": {
-        "q": "Ist Zimidi kostenlos?",
-        "a": "Ja. Alle 6 Zimidi-Produkte (Cleaner, Driver, Privacy, Password, Backup, Uninstaller) haben eine kostenlose Version mit allen Grundfunktionen, dauerhaft nutzbar. Die Pro-Version erweitert fortschrittliche Funktionen wie geplanten Auto-Scan, unbegrenzte Treiber-Updates und eine große Cloud-Backup-Kapazität zu einem vernünftigen Preis von $8.99/Jahr."
+        "q": "Ist Zidimi kostenlos?",
+        "a": "Ja. Alle 6 Zidimi-Produkte (Cleaner, Driver, Privacy, Password, Backup, Uninstaller) haben eine kostenlose Version mit allen Grundfunktionen, dauerhaft nutzbar. Die Pro-Version erweitert fortschrittliche Funktionen wie geplanten Auto-Scan, unbegrenzte Treiber-Updates und eine große Cloud-Backup-Kapazität zu einem vernünftigen Preis von $8.99/Jahr."
       },
       "q2": {
-        "q": "Ist die Zimidi-Software sicher? Enthält sie Viren oder Spyware?",
-        "a": "Absolut sicher. Alle Zimidi-Produkte sind mit Microsoft Authenticode-Zertifikaten digital signiert, werden vor jeder Veröffentlichung von VirusTotal auf Malware geprüft und entsprechen den DSGVO-Sicherheitsstandards. Wir haben auch die Ernst & Young-Sicherheitsprüfung im Jahr 2025 bestanden. Zimidi sammelt niemals persönliche Daten ohne Ihre ausdrückliche Zustimmung."
+        "q": "Ist die Zidimi-Software sicher? Enthält sie Viren oder Spyware?",
+        "a": "Absolut sicher. Alle Zidimi-Produkte sind mit Microsoft Authenticode-Zertifikaten digital signiert, werden vor jeder Veröffentlichung von VirusTotal auf Malware geprüft und entsprechen den DSGVO-Sicherheitsstandards. Wir haben auch die Ernst & Young-Sicherheitsprüfung im Jahr 2025 bestanden. Zidimi sammelt niemals persönliche Daten ohne Ihre ausdrückliche Zustimmung."
       },
       "q3": {
-        "q": "Welche Betriebssysteme unterstützt Zimidi? Welche Voraussetzungen gibt es?",
-        "a": "Zimidi unterstützt Windows 11, Windows 10, Windows 8.1, Windows 8 und Windows 7 (sowohl 32-Bit als auch 64-Bit). Mindestens 1GB RAM, 200MB freier Festplattenspeicher und eine Internetverbindung für Treiber-Updates erforderlich. Wir entwickeln auch eine macOS-Version, deren Launch für Q2 2027 geplant ist."
+        "q": "Welche Betriebssysteme unterstützt Zidimi? Welche Voraussetzungen gibt es?",
+        "a": "Zidimi unterstützt Windows 11, Windows 10, Windows 8.1, Windows 8 und Windows 7 (sowohl 32-Bit als auch 64-Bit). Mindestens 1GB RAM, 200MB freier Festplattenspeicher und eine Internetverbindung für Treiber-Updates erforderlich. Wir entwickeln auch eine macOS-Version, deren Launch für Q2 2027 geplant ist."
       },
       "q4": {
-        "q": "Wie deinstalliere ich die Zimidi-Software, wenn ich sie nicht mehr möchte?",
-        "a": "Gehen Sie einfach zu Systemsteuerung → Programme und Features (oder Einstellungen → Apps unter Windows 10/11), wählen Sie das Zimidi-Produkt, das Sie entfernen möchten, und klicken Sie auf Deinstallieren. Der Deinstallationsvorgang dauert weniger als 30 Sekunden und hinterlässt keine Datenmüll-Dateien, Registry-Einträge oder versteckte Dienste. Sie können auch Zimidi Uninstaller verwenden, um andere Zimidi-Produkte gründlich zu entfernen."
+        "q": "Wie deinstalliere ich die Zidimi-Software, wenn ich sie nicht mehr möchte?",
+        "a": "Gehen Sie einfach zu Systemsteuerung → Programme und Features (oder Einstellungen → Apps unter Windows 10/11), wählen Sie das Zidimi-Produkt, das Sie entfernen möchten, und klicken Sie auf Deinstallieren. Der Deinstallationsvorgang dauert weniger als 30 Sekunden und hinterlässt keine Datenmüll-Dateien, Registry-Einträge oder versteckte Dienste. Sie können auch Zidimi Uninstaller verwenden, um andere Zidimi-Produkte gründlich zu entfernen."
       },
       "q5": {
-        "q": "Kann ich Zimidi auf mehreren Computern verwenden?",
-        "a": "Die kostenlose Version hat kein Computer-Limit. Die Pro-Version erlaubt die gleichzeitige Aktivierung auf bis zu 3 Geräten mit einem Lizenzschlüssel. Die Business-Version kann innerhalb einer Organisation unbegrenzt bereitgestellt werden. Sie können Geräte jederzeit in Ihrem Zimidi-Konto verwalten und deaktivieren."
+        "q": "Kann ich Zidimi auf mehreren Computern verwenden?",
+        "a": "Die kostenlose Version hat kein Computer-Limit. Die Pro-Version erlaubt die gleichzeitige Aktivierung auf bis zu 3 Geräten mit einem Lizenzschlüssel. Die Business-Version kann innerhalb einer Organisation unbegrenzt bereitgestellt werden. Sie können Geräte jederzeit in Ihrem Zidimi-Konto verwalten und deaktivieren."
       },
       "q6": {
-        "q": "Unterstützt Zimidi meine Sprache? Wen kontaktiere ich bei Problemen?",
-        "a": "Ja, Zimidi unterstützt eine vollständige Benutzeroberfläche in 24 Sprachen, darunter Englisch, Vietnamesisch, Chinesisch, Japanisch, Französisch, Deutsch. Bei Problemen ist unser weltweites Support-Team rund um die Uhr über den In-App-Live-Chat, per E-Mail an support@zimidi.app oder per Hotline erreichbar. Durchschnittliche Reaktionszeit unter 2 Stunden während der Geschäftszeiten."
+        "q": "Unterstützt Zidimi meine Sprache? Wen kontaktiere ich bei Problemen?",
+        "a": "Ja, Zidimi unterstützt eine vollständige Benutzeroberfläche in 24 Sprachen, darunter Englisch, Vietnamesisch, Chinesisch, Japanisch, Französisch, Deutsch. Bei Problemen ist unser weltweites Support-Team rund um die Uhr über den In-App-Live-Chat, per E-Mail an support@zidimi.app oder per Hotline erreichbar. Durchschnittliche Reaktionszeit unter 2 Stunden während der Geschäftszeiten."
       },
       "q7": {
         "q": "Verlängert sich die Pro-Version automatisch? Kann ich jederzeit kündigen?",
-        "a": "Nein, Zimidi verlängert sich nie automatisch und speichert keine Kreditkartendaten. Wenn die Pro-Lizenz abläuft, wird Ihr Konto automatisch auf Kostenlos umgestellt und Sie können die Grundfunktionen weiter nutzen. Sie haben die volle Kontrolle darüber, ob Sie verlängern möchten. Wir bieten eine 30-tägige bedingungslose Geld-zurück-Garantie, wenn Sie nicht zufrieden sind."
+        "a": "Nein, Zidimi verlängert sich nie automatisch und speichert keine Kreditkartendaten. Wenn die Pro-Lizenz abläuft, wird Ihr Konto automatisch auf Kostenlos umgestellt und Sie können die Grundfunktionen weiter nutzen. Sie haben die volle Kontrolle darüber, ob Sie verlängern möchten. Wir bieten eine 30-tägige bedingungslose Geld-zurück-Garantie, wenn Sie nicht zufrieden sind."
       },
       "q8": {
-        "q": "Wo ist der sicherste Ort, um Zimidi herunterzuladen?",
-        "a": "Laden Sie Zimidi nur von der offiziellen Website zimidi.app, dem Microsoft Store oder offiziellen Vertriebspartnern herunter, die auf der Download-Seite aufgeführt sind. Vermeiden Sie Downloads von unbekannten Websites, da diese Malware bündeln können. Jedes offizielle Installationsprogramm hat eine digitale Microsoft Authenticode-Signatur, die Sie überprüfen können, indem Sie mit der rechten Maustaste auf die Datei klicken → Eigenschaften → Digitale Signaturen."
+        "q": "Wo ist der sicherste Ort, um Zidimi herunterzuladen?",
+        "a": "Laden Sie Zidimi nur von der offiziellen Website zidimi.app, dem Microsoft Store oder offiziellen Vertriebspartnern herunter, die auf der Download-Seite aufgeführt sind. Vermeiden Sie Downloads von unbekannten Websites, da diese Malware bündeln können. Jedes offizielle Installationsprogramm hat eine digitale Microsoft Authenticode-Signatur, die Sie überprüfen können, indem Sie mit der rechten Maustaste auf die Datei klicken → Eigenschaften → Digitale Signaturen."
       }
     },
     "contactTitle": "Sie haben die Antwort noch nicht gefunden?",
-    "contactDesc": "Das weltweite Zimidi-Support-Team steht Ihnen rund um die Uhr zur Verfügung.",
+    "contactDesc": "Das weltweite Zidimi-Support-Team steht Ihnen rund um die Uhr zur Verfügung.",
     "contactButton": "Support kontaktieren"
   },
   "DownloadCTA": {
     "badge": "Kostenloser Download · Keine Kreditkarte erforderlich",
     "title": "Beginnen Sie noch heute mit der Optimierung Ihres Computers.",
-    "subtitle": "Laden Sie die vollständige Zimidi-Suite mit nur 64 MB herunter. Installation in 30 Sekunden, sofort nutzbar, keine Registrierung erforderlich. Erleben Sie den Unterschied.",
+    "subtitle": "Laden Sie die vollständige Zidimi-Suite mit nur 64 MB herunter. Installation in 30 Sekunden, sofort nutzbar, keine Registrierung erforderlich. Erleben Sie den Unterschied.",
     "cta": {
       "windows": "Für Windows herunterladen",
       "viewProducts": "Einzelne Produkte anzeigen"
@@ -296,8 +296,8 @@
     "meta": "Version 2026.8.1 · Veröffentlicht am 07/08/2026 · Größe 64 MB · 32-Bit & 64-Bit unterstützt"
   },
   "Footer": {
-    "brandDesc": "Zimidi entwickelt die führende Suite persönlicher Dienstprogramme in Vietnam und hilft täglich Millionen von Nutzern, ihre Computer zu optimieren und zu schützen.",
-    "company": "Zimidi Vietnam Co., Ltd.",
+    "brandDesc": "Zidimi entwickelt die führende Suite persönlicher Dienstprogramme in Vietnam und hilft täglich Millionen von Nutzern, ihre Computer zu optimieren und zu schützen.",
+    "company": "Zidimi Vietnam Co., Ltd.",
     "address": "12. Etage, Sun Square Building, Hanoi",
     "phone": "1900-xxxx",
     "columns": {
@@ -329,7 +329,7 @@
       "audit": "Ernst & Young-Audit 2025",
       "iso": "ISO 27001:2022"
     },
-    "copyright": "© 2021–2026 Zimidi. Alle Rechte vorbehalten von Zimidi Vietnam Co., Ltd. Eingetragenes Unternehmen in Vietnam.",
+    "copyright": "© 2021–2026 Zidimi. Alle Rechte vorbehalten von Zidimi Vietnam Co., Ltd. Eingetragenes Unternehmen in Vietnam.",
     "madeWith": "Gemacht mit"
   },
   "ProductDetail": {
@@ -374,8 +374,8 @@
     "viewOther": "Andere Produkte anzeigen",
     "backToList": "Zurück zur Produktliste",
     "relatedBadge": "Mehr entdecken",
-    "relatedTitle": "Weitere Zimidi-Produkte",
-    "relatedSubtitle": "Kombinieren Sie Zimidi-Produkte für ein umfassendes Optimierungserlebnis für Ihren Computer.",
+    "relatedTitle": "Weitere Zidimi-Produkte",
+    "relatedSubtitle": "Kombinieren Sie Zidimi-Produkte für ein umfassendes Optimierungserlebnis für Ihren Computer.",
     "free": "Kostenlos",
     "quickFeatures": "Hauptmerkmale",
     "licenseFree": "Kostenlos",
@@ -383,12 +383,12 @@
     "notFound": "Produkt nicht gefunden",
     "back": "Zurück zur Startseite",
     "longDesc": {
-      "cleaner": "Zimidi Cleaner ist ein All-in-One-PC-Bereinigungstool, dem 12 Millionen Nutzer vertrauen. Mit einem speziell für Windows entwickelten Tiefenscan-Algorithmus kann Zimidi Cleaner über 50 verschiedene Arten von Datenmüll-Dateien erkennen — vom Browser-Cache und temporären Systemdateien bis hin zu Registry-Fehlern, die sich über Jahre der Nutzung ansammeln. Über die Bereinigung hinaus optimiert die Software auch den Systemstart, verwaltet Hintergrunddienste und plant automatische Wartungsaufgaben, um Ihren Computer in Spitzenform zu halten.",
-      "driver": "Zimidi Driver ist eine umfassende Treiberverwaltungslösung für Windows. Mit einer Datenbank von über 5 Millionen offiziellen Treibern von Herstellern wie NVIDIA, AMD, Intel, Realtek und Broadcom stellt Zimidi Driver sicher, dass Sie immer die neueste und kompatibelste Treiberversion haben. Die Software aktualisiert nicht nur Treiber, sondern erstellt auch Wiederherstellungspunkte vor jedem Update, sichert aktuelle Treiber für ein Rollback bei Bedarf und prüft wöchentlich automatisch auf Updates. Besonders nützlich für Gamer, die Grafiktreiber-Updates benötigen, um FPS zu steigern und Stottern zu beheben.",
-      "privacy": "Zimidi Privacy ist ein umfassendes Datenschutz-Toolkit für Windows. In einer Zeit, in der persönliche Daten zur Ware geworden sind, ermöglicht Zimidi Privacy Ihnen genau zu kontrollieren, welche Informationen geteilt werden und was privat bleibt. Die Software blockiert über 10.000 Tracker und Fingerprinting-Skripte von beliebten Websites, verschlüsselt sensible Dateien mit AES-256 (demselben Standard, der von Banken und Militär verwendet wird), löscht sensible Dateien dauerhaft, sodass sie von keiner Wiederherstellungssoftware wiederhergestellt werden können, und überwacht Anwendungszugriffsberechtigungen. Besonders nützlich für Nutzer, die besorgt über Datensicherheit sind.",
-      "password": "Zimidi Password ist ein Passwort-Manager der nächsten Generation mit Zero-Knowledge-Architektur. Im Gegensatz zu traditionellen Passwort-Managern speichert Zimidi Password niemals Ihre Passwörter auf Servern — alle Daten werden auf Ihrem Gerät verschlüsselt, bevor sie in die Cloud synchronisiert werden. Selbst Zimidi kann Ihre Passwörter nicht sehen. Die Software unterstützt intelligentes automatisches Ausfüllen von Logins in allen Browsern, generiert starke zufällige Passwörter nach NIST-Standards, synchronisiert sicher zwischen Windows, macOS, iOS und Android und integriert eine eingebaute Zwei-Faktor-Authentifizierung (2FA) für zusätzlichen Schutz wichtiger Konten.",
-      "backup": "Zimidi Backup ist eine umfassende Backup-Lösung, die sicherstellt, dass Sie sich nie Sorgen machen müssen, wichtige Daten zu verlieren. Ob Arbeitsdokumente, Familienfotos oder das gesamte Betriebssystem — Zimidi Backup kann sicher in verschlüsselte Cloud, externe Laufwerke, NAS oder Netzwerklaufwerke sichern. Die Software unterstützt geplante Backups (täglich, wöchentlich, monatlich), inkrementelle Backups zum Sparen von Platz und Zeit und speichert mehrere historische Versionen, sodass Sie zu jedem beliebigen Punkt in der Vergangenheit wiederherstellen können. Wenn Katastrophen eintreten, hilft die 1-Klick-Wiederherstellungsfunktion, Daten in Minuten statt Stunden wiederherzustellen.",
-      "uninstaller": "Zimidi Uninstaller ist der gründlichste Software-Deinstaller für Windows. Wenn Sie Anwendungen über die Standard-Systemsteuerung deinstallieren, bleiben oft viele Datenmüll-Dateien in AppData, ProgramData, Registry, temporären Dateien und Verknüpfungen zurück. Zimidi Uninstaller scannt das gesamte System tiefgehend, um jede Spur einer Anwendung zu finden und vollständig zu entfernen. Besonders nützlich für hartnäckige Apps, die nicht über die Systemsteuerung entfernt werden können (erzwungene Deinstallation), Software mit gebündelter Adware/Bloatware und wenn Sie Ihren PC vor der Neuinstallation von Windows bereinigen möchten. Unterstützt stapelweise Deinstallation mehrerer Apps gleichzeitig, um Zeit zu sparen."
+      "cleaner": "Zidimi Cleaner ist ein All-in-One-PC-Bereinigungstool, dem 12 Millionen Nutzer vertrauen. Mit einem speziell für Windows entwickelten Tiefenscan-Algorithmus kann Zidimi Cleaner über 50 verschiedene Arten von Datenmüll-Dateien erkennen — vom Browser-Cache und temporären Systemdateien bis hin zu Registry-Fehlern, die sich über Jahre der Nutzung ansammeln. Über die Bereinigung hinaus optimiert die Software auch den Systemstart, verwaltet Hintergrunddienste und plant automatische Wartungsaufgaben, um Ihren Computer in Spitzenform zu halten.",
+      "driver": "Zidimi Driver ist eine umfassende Treiberverwaltungslösung für Windows. Mit einer Datenbank von über 5 Millionen offiziellen Treibern von Herstellern wie NVIDIA, AMD, Intel, Realtek und Broadcom stellt Zidimi Driver sicher, dass Sie immer die neueste und kompatibelste Treiberversion haben. Die Software aktualisiert nicht nur Treiber, sondern erstellt auch Wiederherstellungspunkte vor jedem Update, sichert aktuelle Treiber für ein Rollback bei Bedarf und prüft wöchentlich automatisch auf Updates. Besonders nützlich für Gamer, die Grafiktreiber-Updates benötigen, um FPS zu steigern und Stottern zu beheben.",
+      "privacy": "Zidimi Privacy ist ein umfassendes Datenschutz-Toolkit für Windows. In einer Zeit, in der persönliche Daten zur Ware geworden sind, ermöglicht Zidimi Privacy Ihnen genau zu kontrollieren, welche Informationen geteilt werden und was privat bleibt. Die Software blockiert über 10.000 Tracker und Fingerprinting-Skripte von beliebten Websites, verschlüsselt sensible Dateien mit AES-256 (demselben Standard, der von Banken und Militär verwendet wird), löscht sensible Dateien dauerhaft, sodass sie von keiner Wiederherstellungssoftware wiederhergestellt werden können, und überwacht Anwendungszugriffsberechtigungen. Besonders nützlich für Nutzer, die besorgt über Datensicherheit sind.",
+      "password": "Zidimi Password ist ein Passwort-Manager der nächsten Generation mit Zero-Knowledge-Architektur. Im Gegensatz zu traditionellen Passwort-Managern speichert Zidimi Password niemals Ihre Passwörter auf Servern — alle Daten werden auf Ihrem Gerät verschlüsselt, bevor sie in die Cloud synchronisiert werden. Selbst Zidimi kann Ihre Passwörter nicht sehen. Die Software unterstützt intelligentes automatisches Ausfüllen von Logins in allen Browsern, generiert starke zufällige Passwörter nach NIST-Standards, synchronisiert sicher zwischen Windows, macOS, iOS und Android und integriert eine eingebaute Zwei-Faktor-Authentifizierung (2FA) für zusätzlichen Schutz wichtiger Konten.",
+      "backup": "Zidimi Backup ist eine umfassende Backup-Lösung, die sicherstellt, dass Sie sich nie Sorgen machen müssen, wichtige Daten zu verlieren. Ob Arbeitsdokumente, Familienfotos oder das gesamte Betriebssystem — Zidimi Backup kann sicher in verschlüsselte Cloud, externe Laufwerke, NAS oder Netzwerklaufwerke sichern. Die Software unterstützt geplante Backups (täglich, wöchentlich, monatlich), inkrementelle Backups zum Sparen von Platz und Zeit und speichert mehrere historische Versionen, sodass Sie zu jedem beliebigen Punkt in der Vergangenheit wiederherstellen können. Wenn Katastrophen eintreten, hilft die 1-Klick-Wiederherstellungsfunktion, Daten in Minuten statt Stunden wiederherzustellen.",
+      "uninstaller": "Zidimi Uninstaller ist der gründlichste Software-Deinstaller für Windows. Wenn Sie Anwendungen über die Standard-Systemsteuerung deinstallieren, bleiben oft viele Datenmüll-Dateien in AppData, ProgramData, Registry, temporären Dateien und Verknüpfungen zurück. Zidimi Uninstaller scannt das gesamte System tiefgehend, um jede Spur einer Anwendung zu finden und vollständig zu entfernen. Besonders nützlich für hartnäckige Apps, die nicht über die Systemsteuerung entfernt werden können (erzwungene Deinstallation), Software mit gebündelter Adware/Bloatware und wenn Sie Ihren PC vor der Neuinstallation von Windows bereinigen möchten. Unterstützt stapelweise Deinstallation mehrerer Apps gleichzeitig, um Zeit zu sparen."
     },
     "detailedFeatures": {
       "cleaner": {
@@ -416,7 +416,7 @@
         "df6": { "title": "Cookie-Kontrolle", "description": "Cookies pro Website kontrollieren. Whitelist für Sites mit Login-Bedarf, automatische Löschung von Drittanbieter-Tracking-Cookies." }
       },
       "password": {
-        "df1": { "title": "Zero-Knowledge", "description": "Zimidi kennt nie Ihre Passwörter. Daten werden auf dem Gerät vor der Sync verschlüsselt — der Server speichert nur Chiffretext." },
+        "df1": { "title": "Zero-Knowledge", "description": "Zidimi kennt nie Ihre Passwörter. Daten werden auf dem Gerät vor der Sync verschlüsselt — der Server speichert nur Chiffretext." },
         "df2": { "title": "Starker Passwort-Generator", "description": "NIST-konformer Passwort-Generator, unterstützt zufällige Passwörter und Passphrasen. Länge, Zeichen anpassen, mehrdeutige Zeichen ausschließen." },
         "df3": { "title": "Auto-Ausfüllen", "description": "Browser-Erweiterung füllt Logins mit einem Klick aus. Intelligente Formularerkennung, unterstützt mehrstufige Logins." },
         "df4": { "title": "Geräteübergreifende Sync", "description": "Sichere Sync zwischen Windows, macOS, iOS, Android über Ende-zu-Ende-verschlüsselte Cloud. Offline-first, synchronisiert bei Internet." },
@@ -425,11 +425,11 @@
       },
       "backup": {
         "df1": { "title": "Automatisches Backup", "description": "Tägliche, wöchentliche, monatliche Backups planen. Läuft lautlos im Hintergrund, ohne die Arbeit zu stören." },
-        "df2": { "title": "Sichere Cloud", "description": "Backup zur Zimidi-Cloud mit AES-256-Ende-zu-Ende-Verschlüsselung. Server in Vietnam, konform mit Dekret 13/2023/NĐ-CP." },
+        "df2": { "title": "Sichere Cloud", "description": "Backup zur Zidimi-Cloud mit AES-256-Ende-zu-Ende-Verschlüsselung. Server in Vietnam, konform mit Dekret 13/2023/NĐ-CP." },
         "df3": { "title": "Versionsverlauf", "description": "Mehrere Dateiversionen speichern — Wiederherstellung zu jedem Punkt innerhalb von 30 Tagen (Kostenlos) oder 1 Jahr (Pro)." },
         "df4": { "title": "1-Klick-Wiederherstellung", "description": "Version zur Wiederherstellung auswählen, auf Wiederherstellen klicken. Dateien kehren in Minuten an den Originalort zurück, keine komplexen Operationen." },
         "df5": { "title": "System-Backup", "description": "Systemabbild inklusive gesamtem BS, Apps, Einstellungen, Treibern erstellen. Windows bei Bedarf in exakten Zustand wiederherstellen." },
-        "df6": { "title": "Ende-zu-Ende-Verschlüsselung", "description": "Daten werden auf dem Gerät vor dem Upload in die Cloud verschlüsselt. Selbst Zimidi kann Ihre Dateien nicht einsehen." }
+        "df6": { "title": "Ende-zu-Ende-Verschlüsselung", "description": "Daten werden auf dem Gerät vor dem Upload in die Cloud verschlüsselt. Selbst Zidimi kann Ihre Dateien nicht einsehen." }
       },
       "uninstaller": {
         "df1": { "title": "Gründliche Entfernung", "description": "Tiefenscan von AppData, ProgramData, Registry, temporären Dateien, um jede Spur von Anwendungen zu entfernen." },
@@ -442,82 +442,82 @@
     },
     "faqs": {
       "cleaner": {
-        "q1": "Ist Zimidi Cleaner sicher für persönliche Daten?",
-        "a1": "Ja. Zimidi Cleaner löscht nur als sicher identifizierte System-Datenmüll-Dateien und Cache. Alle persönlichen Dateien (Dokumente, Fotos, Videos) in den Ordnern Dokumente, Bilder, Downloads sind geschützt. Zudem ermöglicht die Vorschau-Funktion, genau zu sehen, welche Dateien vor der Bestätigung gelöscht werden.",
+        "q1": "Ist Zidimi Cleaner sicher für persönliche Daten?",
+        "a1": "Ja. Zidimi Cleaner löscht nur als sicher identifizierte System-Datenmüll-Dateien und Cache. Alle persönlichen Dateien (Dokumente, Fotos, Videos) in den Ordnern Dokumente, Bilder, Downloads sind geschützt. Zudem ermöglicht die Vorschau-Funktion, genau zu sehen, welche Dateien vor der Bestätigung gelöscht werden.",
         "q2": "Wie lange dauert ein vollständiger Systemscan?",
         "a2": "Die Scandauer hängt von der Festplattengröße und der CPU-Geschwindigkeit ab. Im Durchschnitt dauert ein vollständiger Scan auf einem Computer mit 256GB SSD etwa 8-15 Sekunden. Mit 1TB HDD kann es 30-60 Sekunden dauern. Sie können den Computer während des Scans weiter nutzen.",
         "q3": "Kann ich nach der Bereinigung rückgängig machen?",
-        "a3": "Ja. Zimidi Cleaner erstellt vor jeder Bereinigung automatisch einen Wiederherstellungspunkt. Sie können alle Aktionen innerhalb von 30 Tagen über die Verlauf-Funktion rückgängig machen. Gelöschte Dateien werden komprimiert und im Zimidi-Papierkorb gespeichert, getrennt vom Windows-Papierkorb.",
+        "a3": "Ja. Zidimi Cleaner erstellt vor jeder Bereinigung automatisch einen Wiederherstellungspunkt. Sie können alle Aktionen innerhalb von 30 Tagen über die Verlauf-Funktion rückgängig machen. Gelöschte Dateien werden komprimiert und im Zidimi-Papierkorb gespeichert, getrennt vom Windows-Papierkorb.",
         "q4": "Wie oft sollte ich bereinigen?",
-        "a4": "Wir empfehlen wöchentlichen Schnellscan und monatlichen Tiefenscan. Zimidi Cleaner Pro kann automatisch planen — z. B. Schnellscan jeden Freitag, Tiefenscan am 1. jedes Monats — sodass Sie nicht manuell daran denken müssen."
+        "a4": "Wir empfehlen wöchentlichen Schnellscan und monatlichen Tiefenscan. Zidimi Cleaner Pro kann automatisch planen — z. B. Schnellscan jeden Freitag, Tiefenscan am 1. jedes Monats — sodass Sie nicht manuell daran denken müssen."
       },
       "driver": {
-        "q1": "Sind Zimidi-Treiber offiziell?",
-        "a1": "Ja. Alle Treiber in der Zimidi-Datenbank werden direkt von den offiziellen Servern der Hersteller (NVIDIA, AMD, Intel, Realtek usw.) heruntergeladen und sind digital von Microsoft WHQL signiert. Wir verteilen niemals modifizierte oder Beta-Treiber.",
+        "q1": "Sind Zidimi-Treiber offiziell?",
+        "a1": "Ja. Alle Treiber in der Zidimi-Datenbank werden direkt von den offiziellen Servern der Hersteller (NVIDIA, AMD, Intel, Realtek usw.) heruntergeladen und sind digital von Microsoft WHQL signiert. Wir verteilen niemals modifizierte oder Beta-Treiber.",
         "q2": "Ist das Aktualisieren von Treibern gefährlich?",
-        "a2": "Zimidi Driver erstellt vor jedem Update immer einen Systemwiederherstellungspunkt und sichert alte Treiber. Wenn ein neuer Treiber Probleme verursacht, können Sie mit einem Klick zur vorherigen Version zurückkehren. Die Update-Erfolgsquote liegt bei 99,7 %.",
-        "q3": "Unterstützt Zimidi Driver Laptops?",
-        "a3": "Ja, besonders gut für Laptops geeignet. Viele Laptops (Dell, HP, Lenovo, Asus, Acer) haben angepasste OEM-Treiber, die sich von öffentlichen Treibern unterscheiden. Zimidi identifiziert Ihren Laptop und lädt den korrekten OEM-Treiber herunter, sodass Funktionstasten (Fn), Webcam, Fingerabdruck, Soundkarte alle funktionieren.",
+        "a2": "Zidimi Driver erstellt vor jedem Update immer einen Systemwiederherstellungspunkt und sichert alte Treiber. Wenn ein neuer Treiber Probleme verursacht, können Sie mit einem Klick zur vorherigen Version zurückkehren. Die Update-Erfolgsquote liegt bei 99,7 %.",
+        "q3": "Unterstützt Zidimi Driver Laptops?",
+        "a3": "Ja, besonders gut für Laptops geeignet. Viele Laptops (Dell, HP, Lenovo, Asus, Acer) haben angepasste OEM-Treiber, die sich von öffentlichen Treibern unterscheiden. Zidimi identifiziert Ihren Laptop und lädt den korrekten OEM-Treiber herunter, sodass Funktionstasten (Fn), Webcam, Fingerabdruck, Soundkarte alle funktionieren.",
         "q4": "Wie oft werden neue Treiber aktualisiert?",
-        "a4": "Die Zimidi-Treiberdatenbank wird täglich mit neu veröffentlichten Treibern von OEMs aktualisiert. Die Software prüft automatisch und benachrichtigt Sie, wenn neue Treiber für Ihre Geräte verfügbar sind. Sie können Auto-Update für stille Hintergrundinstallation aktivieren."
+        "a4": "Die Zidimi-Treiberdatenbank wird täglich mit neu veröffentlichten Treibern von OEMs aktualisiert. Die Software prüft automatisch und benachrichtigt Sie, wenn neue Treiber für Ihre Geräte verfügbar sind. Sie können Auto-Update für stille Hintergrundinstallation aktivieren."
       },
       "privacy": {
-        "q1": "Kann Zimidi Privacy ein VPN ersetzen?",
-        "a1": "Nicht vollständig. Zimidi Privacy konzentriert sich auf den Schutz lokaler Spuren auf Ihrem Computer, während VPN Netzwerkverbindungen verschlüsselt. Wir empfehlen die Nutzung beider: Zimidi Privacy zum Bereinigen von Spuren und Verschlüsseln von Dateien, VPN zum Verbergen der IP beim Surfen. Zimidi Privacy hat eine leichte IP-Verbergungsfunktion, ersetzt aber kein dediziertes VPN.",
+        "q1": "Kann Zidimi Privacy ein VPN ersetzen?",
+        "a1": "Nicht vollständig. Zidimi Privacy konzentriert sich auf den Schutz lokaler Spuren auf Ihrem Computer, während VPN Netzwerkverbindungen verschlüsselt. Wir empfehlen die Nutzung beider: Zidimi Privacy zum Bereinigen von Spuren und Verschlüsseln von Dateien, VPN zum Verbergen der IP beim Surfen. Zidimi Privacy hat eine leichte IP-Verbergungsfunktion, ersetzt aber kein dediziertes VPN.",
         "q2": "Können verschlüsselte Dateien geknackt werden?",
-        "a2": "Nicht mit aktueller Technologie. Zimidi verwendet AES-256 — den Verschlüsselungsstandard, der von der NSA für streng geheime Dokumente zugelassen ist. Das Brute-Force-Knacken einer AES-256-Datei dauert mit dem schnellsten Supercomputer heute etwa 10^50 Jahre. Am wichtigsten ist Ihr Passwort: Ein zufälliges Passwort mit 12+ Zeichen ist praktisch unknackbar.",
+        "a2": "Nicht mit aktueller Technologie. Zidimi verwendet AES-256 — den Verschlüsselungsstandard, der von der NSA für streng geheime Dokumente zugelassen ist. Das Brute-Force-Knacken einer AES-256-Datei dauert mit dem schnellsten Supercomputer heute etwa 10^50 Jahre. Am wichtigsten ist Ihr Passwort: Ein zufälliges Passwort mit 12+ Zeichen ist praktisch unknackbar.",
         "q3": "Wie unterscheidet sich permanente Löschung von Shift+Entf?",
-        "a3": "Shift+Entf entfernt nur Dateiverweise; die tatsächlichen Daten bleiben auf der Festplatte und können von Wiederherstellungssoftware wiederhergestellt werden. Zimidi Privacy löscht permanent, indem es zufällige Daten mehrmals auf den Speicherbereich schreibt (US DoD 5220.22-M-Standard), was sicherstellt, dass keine Wiederherstellung mit irgendeiner Methode möglich ist.",
+        "a3": "Shift+Entf entfernt nur Dateiverweise; die tatsächlichen Daten bleiben auf der Festplatte und können von Wiederherstellungssoftware wiederhergestellt werden. Zidimi Privacy löscht permanent, indem es zufällige Daten mehrmals auf den Speicherbereich schreibt (US DoD 5220.22-M-Standard), was sicherstellt, dass keine Wiederherstellung mit irgendeiner Methode möglich ist.",
         "q4": "Welche Browser werden unterstützt?",
-        "a4": "Zimidi Privacy unterstützt vollständig Chrome, Edge, Firefox, Brave, Opera und Vivaldi. Erkennt installierte Browser automatisch und bereinigt Verlauf, Cookies, Cache, Download-Verlauf, Formulardaten, gespeicherte Passwörter (optional). Whitelist für Sites mit Login-Bedarf einrichtbar."
+        "a4": "Zidimi Privacy unterstützt vollständig Chrome, Edge, Firefox, Brave, Opera und Vivaldi. Erkennt installierte Browser automatisch und bereinigt Verlauf, Cookies, Cache, Download-Verlauf, Formulardaten, gespeicherte Passwörter (optional). Whitelist für Sites mit Login-Bedarf einrichtbar."
       },
       "password": {
         "q1": "Was bedeutet Zero-Knowledge?",
-        "a1": "Zero-Knowledge ist eine Architektur, bei der Zimidi nie Ihr Master-Passwort kennt. Das Passwort wird verwendet, um Daten auf Ihrem Gerät zu verschlüsseln, bevor sie verschlüsselt in die Cloud synchronisiert werden. Selbst wenn Zimidis Server gehackt würden, würden Angreifer nur verschlüsselte Daten sehen, die nicht entschlüsselt werden können.",
+        "a1": "Zero-Knowledge ist eine Architektur, bei der Zidimi nie Ihr Master-Passwort kennt. Das Passwort wird verwendet, um Daten auf Ihrem Gerät zu verschlüsseln, bevor sie verschlüsselt in die Cloud synchronisiert werden. Selbst wenn Zidimis Server gehackt würden, würden Angreifer nur verschlüsselte Daten sehen, die nicht entschlüsselt werden können.",
         "q2": "Wenn ich mein Master-Passwort vergesse, kann es wiederhergestellt werden?",
-        "a2": "Nein. Aufgrund der Zero-Knowledge-Architektur hat Zimidi keine Möglichkeit, Ihr Master-Passwort wiederherzustellen. Dies ist ein notwendiger Sicherheits-Kompromiss. Empfehlung: Notieren Sie Ihr Master-Passwort auf Papier und verwahren Sie es in einem Safe, oder verwenden Sie eine leicht zu merkende Passphrase aus 4-5 zufälligen Wörtern wie 'katze-gelb-baum-buch-rot'.",
+        "a2": "Nein. Aufgrund der Zero-Knowledge-Architektur hat Zidimi keine Möglichkeit, Ihr Master-Passwort wiederherzustellen. Dies ist ein notwendiger Sicherheits-Kompromiss. Empfehlung: Notieren Sie Ihr Master-Passwort auf Papier und verwahren Sie es in einem Safe, oder verwenden Sie eine leicht zu merkende Passphrase aus 4-5 zufälligen Wörtern wie 'katze-gelb-baum-buch-rot'.",
         "q3": "Wie funktioniert die Sync zwischen Windows und Telefon?",
-        "a3": "Laden Sie die Zimidi Password-App auf iOS/Android herunter, melden Sie sich mit demselben Zimidi-Konto an. Daten werden automatisch über eine Ende-zu-Ende-verschlüsselte Cloud synchronisiert. Alle Änderungen auf Windows erscheinen innerhalb von Sekunden auf dem Telefon. Offline nutzbar und Auto-Sync bei Internet.",
+        "a3": "Laden Sie die Zidimi Password-App auf iOS/Android herunter, melden Sie sich mit demselben Zidimi-Konto an. Daten werden automatisch über eine Ende-zu-Ende-verschlüsselte Cloud synchronisiert. Alle Änderungen auf Windows erscheinen innerhalb von Sekunden auf dem Telefon. Offline nutzbar und Auto-Sync bei Internet.",
         "q4": "Gibt es eine Browser-Erweiterung?",
-        "a4": "Ja. Zimidi Password hat offizielle Erweiterungen für Chrome, Edge, Firefox, Brave, Opera. Die Erweiterung füllt Logins automatisch aus, wenn Sie Login-Seiten besuchen, generiert starke Passwörter bei der Erstellung neuer Konten und speichert automatisch. Die Erweiterung kommuniziert mit der Desktop-App über lokale Verschlüsselung, keine Internetdaten gesendet."
+        "a4": "Ja. Zidimi Password hat offizielle Erweiterungen für Chrome, Edge, Firefox, Brave, Opera. Die Erweiterung füllt Logins automatisch aus, wenn Sie Login-Seiten besuchen, generiert starke Passwörter bei der Erstellung neuer Konten und speichert automatisch. Die Erweiterung kommuniziert mit der Desktop-App über lokale Verschlüsselung, keine Internetdaten gesendet."
       },
       "backup": {
-        "q1": "Wie viel Cloud-Speicher hat Zimidi Backup?",
+        "q1": "Wie viel Cloud-Speicher hat Zidimi Backup?",
         "a1": "Die kostenlose Version hat 1 GB kostenlosen Cloud-Speicher für immer — ausreichend für wichtige Textdokumente. Die Pro-Version erweitert auf 100 GB, Business auf 1 TB/Team. Sie können auch Cloud-Backup + externes Laufwerk kombinieren, um beides zu nutzen.",
         "q2": "Vollständiges oder inkrementelles Backup?",
-        "a2": "Zimidi Backup unterstützt alle drei Modi: Vollständig (komplettes Backup), Inkrementell (nur seit dem letzten Backup geänderte Dateien) und Differenziell (seit dem letzten Vollbackup geänderte Dateien). Standardmäßig wird Inkrementell verwendet, um Platz und Zeit zu sparen. Wir empfehlen monatliches Vollbackup + tägliches inkrementelles.",
+        "a2": "Zidimi Backup unterstützt alle drei Modi: Vollständig (komplettes Backup), Inkrementell (nur seit dem letzten Backup geänderte Dateien) und Differenziell (seit dem letzten Vollbackup geänderte Dateien). Standardmäßig wird Inkrementell verwendet, um Platz und Zeit zu sparen. Wir empfehlen monatliches Vollbackup + tägliches inkrementelles.",
         "q3": "Wiederherstellen, wenn Windows nicht bootet?",
-        "a3": "Zimidi Backup enthält Bootable Rescue Media — Sie können einen bootfähigen Windows PE USB-Stick erstellen, von USB booten, wenn Windows kaputt ist, und das System aus dem Backup wiederherstellen. Sehr nützlich bei Ransomware, BSOD oder Festplattenfehlern. Diese Funktion ist in der kostenlosen Version enthalten.",
+        "a3": "Zidimi Backup enthält Bootable Rescue Media — Sie können einen bootfähigen Windows PE USB-Stick erstellen, von USB booten, wenn Windows kaputt ist, und das System aus dem Backup wiederherstellen. Sehr nützlich bei Ransomware, BSOD oder Festplattenfehlern. Diese Funktion ist in der kostenlosen Version enthalten.",
         "q4": "Unterstützt es Office 365 / Google Drive Backup?",
-        "a4": "Ja. Zimidi Backup Pro kann E-Mails, Dateien und Kalender aus Office 365, Google Workspace, OneDrive, Google Drive und Dropbox sichern. Stellt sicher, dass Ihre Cloud-Daten auch anderswo gesichert sind, falls Ihr Account gehackt oder gesperrt wird."
+        "a4": "Ja. Zidimi Backup Pro kann E-Mails, Dateien und Kalender aus Office 365, Google Workspace, OneDrive, Google Drive und Dropbox sichern. Stellt sicher, dass Ihre Cloud-Daten auch anderswo gesichert sind, falls Ihr Account gehackt oder gesperrt wird."
       },
       "uninstaller": {
         "q1": "Wie unterscheidet es sich von Systemsteuerung > Programme und Features?",
-        "a1": "Die Standard-Systemsteuerung führt nur den Deinstaller der App aus und lässt oft viele Datenmüll-Dateien in AppData, ProgramData, Registry, temporären Dateien, Verknüpfungen zurück. Zimidi Uninstaller scannt nach der Deinstallation das gesamte System tiefgehend, findet und entfernt alle Spuren. Befreit im Durchschnitt 50-200 MB zusätzlichen Datenmüll pro App im Vergleich zur Deinstallation über die Systemsteuerung.",
+        "a1": "Die Standard-Systemsteuerung führt nur den Deinstaller der App aus und lässt oft viele Datenmüll-Dateien in AppData, ProgramData, Registry, temporären Dateien, Verknüpfungen zurück. Zidimi Uninstaller scannt nach der Deinstallation das gesamte System tiefgehend, findet und entfernt alle Spuren. Befreit im Durchschnitt 50-200 MB zusätzlichen Datenmüll pro App im Vergleich zur Deinstallation über die Systemsteuerung.",
         "q2": "Wie funktioniert die erzwungene Deinstallation?",
-        "a2": "Wenn der Deinstaller einer App kaputt ist oder die App keinen Deinstaller hat, analysiert Zimidi die Installationsdatei, findet alle installierten Dateispeicherorte, erstellte Registry-Schlüssel, registrierte Dienste und entfernt dann alles manuell. Wirksam bei 95 % der hartnäckigen Apps. Vor der erzwungenen Deinstallation erstellt Zimidi immer einen Wiederherstellungspunkt für ein Rollback.",
+        "a2": "Wenn der Deinstaller einer App kaputt ist oder die App keinen Deinstaller hat, analysiert Zidimi die Installationsdatei, findet alle installierten Dateispeicherorte, erstellte Registry-Schlüssel, registrierte Dienste und entfernt dann alles manuell. Wirksam bei 95 % der hartnäckigen Apps. Vor der erzwungenen Deinstallation erstellt Zidimi immer einen Wiederherstellungspunkt für ein Rollback.",
         "q3": "Kann es OEM-Bloatware entfernen?",
-        "a3": "Ja. Zimidi Uninstaller hat Bloatware-Erkennung — vorinstallierte OEM-Apps (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery usw.). Listet automatisch auf und ermöglicht Stapelentfernung mit einem Klick. Ein neuer PC hat durchschnittlich 10-30 Bloatware; das Entfernen aller beschleunigt den Computer erheblich.",
+        "a3": "Ja. Zidimi Uninstaller hat Bloatware-Erkennung — vorinstallierte OEM-Apps (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery usw.). Listet automatisch auf und ermöglicht Stapelentfernung mit einem Klick. Ein neuer PC hat durchschnittlich 10-30 Bloatware; das Entfernen aller beschleunigt den Computer erheblich.",
         "q4": "Kann es Windows Store (UWP)-Apps deinstallieren?",
-        "a4": "Ja. Zimidi Uninstaller unterstützt die Deinstallation sowohl traditioneller Win32-Desktop-Apps als auch Windows Store (UWP)-Apps. Besonders nützlich zum Entfernen integrierter Windows-Apps, die die Systemsteuerung nicht deinstallieren lässt (Cortana, Xbox, Mail, Kalender usw.)."
+        "a4": "Ja. Zidimi Uninstaller unterstützt die Deinstallation sowohl traditioneller Win32-Desktop-Apps als auch Windows Store (UWP)-Apps. Besonders nützlich zum Entfernen integrierter Windows-Apps, die die Systemsteuerung nicht deinstallieren lässt (Cortana, Xbox, Mail, Kalender usw.)."
       }
     },
     "howItWorks": {
       "cleaner": {
         "h1t": "System scannen",
-        "h1d": "Zimidi analysiert die gesamte Festplatte, Registry, den Browser-Cache und Dienste, um sicher entfernbare Datenmüll-Dateien zu finden.",
+        "h1d": "Zidimi analysiert die gesamte Festplatte, Registry, den Browser-Cache und Dienste, um sicher entfernbare Datenmüll-Dateien zu finden.",
         "h2t": "Ergebnisse ansehen",
         "h2d": "Zeigt detaillierte Liste der Datenmüll-Dateien nach Kategorie mit zurückgewinnbarem Speicherplatz an. Sie können jedes Element abwählen.",
         "h3t": "1-Klick-Bereinigung",
-        "h3d": "Klicken Sie auf 'Jetzt bereinigen', um alles zu entfernen. Zimidi erstellt automatisch einen Wiederherstellungspunkt, sodass Sie jederzeit rückgängig machen können."
+        "h3d": "Klicken Sie auf 'Jetzt bereinigen', um alles zu entfernen. Zidimi erstellt automatisch einen Wiederherstellungspunkt, sodass Sie jederzeit rückgängig machen können."
       },
       "driver": {
         "h1t": "Treiber scannen",
-        "h1d": "Alle Hardwaregeräte scannen, aktuelle Treiberversionen mit der neuesten Zimidi-Treiberdatenbank vergleichen.",
+        "h1d": "Alle Hardwaregeräte scannen, aktuelle Treiberversionen mit der neuesten Zidimi-Treiberdatenbank vergleichen.",
         "h2t": "Updates wählen",
         "h2d": "Zeigt Liste veralteter Treiber mit neuer Versionsinfo, Hersteller und Download-Größe an.",
         "h3t": "Auto-Installation",
-        "h3d": "Zimidi lädt automatisch herunter, sichert alte Treiber, installiert neue, erstellt Wiederherstellungspunkt für Rollback."
+        "h3d": "Zidimi lädt automatisch herunter, sichert alte Treiber, installiert neue, erstellt Wiederherstellungspunkt für Rollback."
       },
       "privacy": {
         "h1t": "Spuren analysieren",
@@ -529,25 +529,25 @@
       },
       "password": {
         "h1t": "Tresor erstellen",
-        "h1d": "Erstellen Sie ein starkes Master-Passwort — der einzige Schlüssel zum Entsperren Ihres Passwort-Tresors. Zimidi speichert dieses nie.",
+        "h1d": "Erstellen Sie ein starkes Master-Passwort — der einzige Schlüssel zum Entsperren Ihres Passwort-Tresors. Zidimi speichert dieses nie.",
         "h2t": "Importieren & generieren",
         "h2d": "Vorhandene Passwörter aus dem Browser importieren oder Passwort-Generator für starke zufällige Passwörter pro Konto verwenden.",
         "h3t": "Auto-Ausfüllen",
-        "h3d": "Beim Besuch von Login-Seiten füllt Zimidi die Anmeldedaten automatisch aus. Sichere Sync zwischen Windows, macOS, iOS, Android."
+        "h3d": "Beim Besuch von Login-Seiten füllt Zidimi die Anmeldedaten automatisch aus. Sichere Sync zwischen Windows, macOS, iOS, Android."
       },
       "backup": {
         "h1t": "Daten auswählen",
         "h1d": "Dateien, Ordner oder das gesamte System (Systemabbild) zum Backup auswählen. Vorlagen für Dokumente, Fotos usw. verfügbar.",
         "h2t": "Ziel wählen",
-        "h2d": "Backup zur Zimidi-Cloud, externem Laufwerk, NAS oder mehrere kombinieren. Jedes Ziel kann einen eigenen Zeitplan haben.",
+        "h2d": "Backup zur Zidimi-Cloud, externem Laufwerk, NAS oder mehrere kombinieren. Jedes Ziel kann einen eigenen Zeitplan haben.",
         "h3t": "Bei Bedarf wiederherstellen",
         "h3d": "Wenn Katastrophen eintreten, Version zur Wiederherstellung auswählen und auf Wiederherstellen klicken. Dateien kehren in Minuten an den Originalort zurück."
       },
       "uninstaller": {
         "h1t": "Installierte Apps scannen",
-        "h1d": "Zimidi scannt alle Win32-, UWP-, Windows Store-Apps. Zeigt Größe, Installationsdatum, Nutzungshäufigkeit an.",
+        "h1d": "Zidimi scannt alle Win32-, UWP-, Windows Store-Apps. Zeigt Größe, Installationsdatum, Nutzungshäufigkeit an.",
         "h2t": "Deinstallieren",
-        "h2d": "Eine oder mehrere Apps zum Entfernen auswählen. Zimidi führt zuerst den offiziellen Deinstaller aus, scannt dann tief nach Resten.",
+        "h2d": "Eine oder mehrere Apps zum Entfernen auswählen. Zidimi führt zuerst den offiziellen Deinstaller aus, scannt dann tief nach Resten.",
         "h3t": "Aufräumen",
         "h3d": "Alle restlichen Datenmüll-Dateien, Registry, Verknüpfungen entfernen. Erstellt Wiederherstellungspunkt für Rollback bei Bedarf."
       }
@@ -598,36 +598,36 @@
     }
   },
   "Metadata": {
-    "defaultTitle": "Zimidi — Persönliche Dienstprogramme für die PC-Optimierung",
-    "defaultDescription": "Zimidi ist eine führende Suite persönlicher Dienstprogramme: PC-Bereinigung, Treiber-Updates, Datenschutz, Passwortverwaltung und Datensicherung. Schnell, sicher, kostenloser Download.",
-    "defaultKeywords": ["Zimidi", "Dienstprogramme", "PC-Optimierung", "PC-Bereinigung", "Treiber-Updater", "Datenschutz", "Passwort-Manager", "Datensicherung", "Deinstaller", "kostenlose Software"],
+    "defaultTitle": "Zidimi — Persönliche Dienstprogramme für die PC-Optimierung",
+    "defaultDescription": "Zidimi ist eine führende Suite persönlicher Dienstprogramme: PC-Bereinigung, Treiber-Updates, Datenschutz, Passwortverwaltung und Datensicherung. Schnell, sicher, kostenloser Download.",
+    "defaultKeywords": ["Zidimi", "Dienstprogramme", "PC-Optimierung", "PC-Bereinigung", "Treiber-Updater", "Datenschutz", "Passwort-Manager", "Datensicherung", "Deinstaller", "kostenlose Software"],
     "home": {
-      "title": "Zimidi — Persönliche Dienstprogramme für die PC-Optimierung",
-      "description": "Zimidi ist eine führende Suite persönlicher Dienstprogramme: PC-Bereinigung, Treiber-Updates, Datenschutz, Passwortverwaltung und Datensicherung. Schnell, sicher, kostenloser Download."
+      "title": "Zidimi — Persönliche Dienstprogramme für die PC-Optimierung",
+      "description": "Zidimi ist eine führende Suite persönlicher Dienstprogramme: PC-Bereinigung, Treiber-Updates, Datenschutz, Passwortverwaltung und Datensicherung. Schnell, sicher, kostenloser Download."
     },
     "products": {
       "cleaner": {
-        "title": "Zimidi Cleaner — Bereinigung & Systemoptimierung",
+        "title": "Zidimi Cleaner — Bereinigung & Systemoptimierung",
         "description": "Scannen und entfernen Sie Datenmüll, Registry-Fehler und Browser-Cache mit einem Klick. Geben Sie Gigabyte an Speicherplatz frei und beschleunigen Sie Ihren Computer sofort."
       },
       "driver": {
-        "title": "Zimidi Driver — Automatische Treiber-Updates",
+        "title": "Zidimi Driver — Automatische Treiber-Updates",
         "description": "Erkennt automatisch veraltete Treiber und aktualisiert sie aus einer Datenbank mit über 5 Millionen offiziellen Treibern. Beheben Sie Geräteprobleme, steigern Sie Spiel- und Grafikleistung."
       },
       "privacy": {
-        "title": "Zimidi Privacy — Datenschutz",
+        "title": "Zidimi Privacy — Datenschutz",
         "description": "Löschen Sie Browserverlauf, blockieren Sie Tracker, verschlüsseln Sie persönliche Dateien und verhindern Sie Spyware. Ihre Daten, Ihre Kontrolle."
       },
       "password": {
-        "title": "Zimidi Password — Sicherer Passwort-Manager",
+        "title": "Zidimi Password — Sicherer Passwort-Manager",
         "description": "Speichern Sie Passwörter in einem Zero-Knowledge-verschlüsselten Tresor. Automatisches Ausfüllen von Logins, Generierung starker Passwörter und sichere Synchronisierung zwischen Geräten."
       },
       "backup": {
-        "title": "Zimidi Backup — Daten sichern & wiederherstellen",
+        "title": "Zidimi Backup — Daten sichern & wiederherstellen",
         "description": "Sichern Sie automatisch Dateien, Ordner und gesamte Systeme in die Cloud oder auf externe Laufwerke. Stellen Sie bei Katastrofen in wenigen Minuten schnell wieder her."
       },
       "uninstaller": {
-        "title": "Zimidi Uninstaller — Vollständiger Deinstaller",
+        "title": "Zidimi Uninstaller — Vollständiger Deinstaller",
         "description": "Entfernen Sie hartnäckige Software zusammen mit allen Restdateien, Registry-Einträgen und Verknüpfungen. Stapel-Deinstallation und erzwungene Deinstallation werden unterstützt."
       }
     },

@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Zimidi — Personal Utility Software",
-  "short_name": "Zimidi",
+  "name": "Zidimi — Personal Utility Software",
+  "short_name": "Zidimi",
   "description": "Personal utility software for PC cleanup, driver management, privacy, passwords, backups, and uninstalling applications.",
   "start_url": "/en",
   "scope": "/",
@@ -18,7 +18,7 @@
   ],
   "icons": [
     {
-      "src": "/zimidi-icon.svg",
+      "src": "/zidimi-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

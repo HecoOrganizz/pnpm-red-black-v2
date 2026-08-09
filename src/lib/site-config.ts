@@ -4,7 +4,7 @@
  * 1. process.env.NEXT_PUBLIC_SITE_URL
  * 2. process.env.VERCEL_PROJECT_PRODUCTION_URL (Vercel production domain)
  * 3. process.env.VERCEL_URL (Vercel preview deployment URL)
- * 4. Fallback: "https://zimidi-software.vercel.app"
+ * 4. Fallback: "https://zidimi-software.vercel.app"
  */
 function getSiteUrl(): string {
   const envUrl =
@@ -13,7 +13,7 @@ function getSiteUrl(): string {
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
       : null) ||
     (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : null) ||
-    "https://zimidi-software.vercel.app";
+    "https://zidimi-software.vercel.app";
 
   return envUrl.replace(/\/$/, "");
 }
