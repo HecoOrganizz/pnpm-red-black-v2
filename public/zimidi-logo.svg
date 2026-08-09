@@ -5,9 +5,10 @@
       <stop offset="1" stop-color="#803C38"/>
     </linearGradient>
   </defs>
-  <!-- Solid emblem mark -->
+  <!-- Emblem Badge -->
   <rect width="40" height="40" rx="10" fill="url(#zimidi-logo-grad)"/>
+  <!-- Continuous solid Z ribbon in emblem -->
   <path d="M12 12 H28 C29 12 30 13 29 14.5 L15 28 H27 C28.5 28 29 29 29 30 C29 31 28 31.5 27 31.5 H13 C12 31.5 11 30.5 12 29 L26 15 H14 C12.5 15 12 13.5 12 12 Z" fill="white"/>
   <!-- Wordmark -->
-  <text x="52" y="27" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-size="22" font-weight="800" fill="#121012" letter-spacing="-0.5">Zimidi</text>
+  <text x="52" y="27" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-size="22" font-weight="800" fill="currentColor" letter-spacing="-0.5">Zimidi</text>
 </svg>

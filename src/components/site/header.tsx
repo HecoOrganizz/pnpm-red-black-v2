@@ -57,7 +57,7 @@ export function Header() {
             <span className="font-display text-xl font-extrabold tracking-tight text-foreground md:text-2xl">
               Zimidi
             </span> */}
-            <img src="/zimidi-logo.png" alt="Zimidi" className="h-16 w-auto object-contain" />
+            <img src="/zimidi-logo.png" alt="Zimidi" className="h-10 md:h-12 w-auto object-contain" />
           </Link>
 
           <nav
