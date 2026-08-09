@@ -25,7 +25,7 @@ export default async function Home({ params }: Params) {
         <Products />
         <Features />
         <Reviews />
-        <Pricing />
+        {/* <Pricing /> */}
         <FAQ />
         <DownloadCTA />
       </main>
