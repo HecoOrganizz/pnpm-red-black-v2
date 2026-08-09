@@ -342,7 +342,7 @@
     "meta": "Version 2026.8.1 · Released 07/08/2026 · Size 64 MB · 32-bit & 64-bit supported"
   },
   "Footer": {
-    "brandDesc": "Zidimi develops Vietnam's leading personal utility software suite, helping millions of users optimize and protect their computers every day.",
+    "brandDesc": "Zidimi provides utility software designed to help users improve basic performance and security on their computers.",
     "company": "Zidimi Vietnam Co., Ltd.",
     "address": "Floor 12, Sun Square Building, Hanoi",
     "phone": "1900-xxxx",
@@ -429,7 +429,7 @@
     "notFound": "Product not found",
     "back": "Back to home",
     "longDesc": {
-      "cleaner": "Zidimi Cleaner is an all-in-one PC cleanup tool trusted by 12 million users. With a deep scan algorithm developed specifically for Windows, Zidimi Cleaner can detect over 50 different types of junk files — from browser cache and temporary system files to registry errors accumulated over years of use. Beyond cleaning, the software also optimizes startup, manages background services, and schedules automatic maintenance to keep your computer in peak condition.",
+      "cleaner": "Zidimi Cleaner helps remove unnecessary files and perform basic maintenance to improve system responsiveness. It can scan for temporary files and browser cache, manage startup items, and schedule routine maintenance; results vary by system.",
       "privacy": "Zidimi Privacy is a comprehensive privacy protection toolkit for Windows. In an era where personal data has become a commodity, Zidimi Privacy lets you control exactly what information is shared and what stays private. The software blocks over 10,000 trackers and fingerprinting scripts from popular websites, encrypts sensitive files with AES-256 (the same standard used by banks and military), permanently deletes sensitive files so they cannot be recovered by any recovery software, and monitors application access permissions. Especially useful for users concerned about data safety.",
       "password": "Zidimi Password is a next-generation password manager with zero-knowledge architecture. Unlike traditional password managers, Zidimi Password never stores your passwords on servers — all data is encrypted on your device before syncing to the cloud. Even Zidimi cannot see your passwords. The software supports smart auto-fill logins across all browsers, generates strong random passwords following NIST standards, syncs safely between Windows, macOS, iOS, and Android, and integrates built-in two-factor authentication (2FA) for additional protection of important accounts.",
       "backup": "Zidimi Backup is a comprehensive backup solution that ensures you never have to worry about losing important data. Whether it's work documents, family photos, or the entire operating system, Zidimi Backup can safely back up to encrypted cloud, external drives, NAS, or network drives. The software supports scheduled backups (daily, weekly, monthly), incremental backups to save space and time, and stores multiple historical versions so you can restore to any point in the past. When disaster strikes, the 1-click restore feature helps you recover data in minutes rather than hours.",

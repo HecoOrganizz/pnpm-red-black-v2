@@ -86,7 +86,7 @@
         "name": "Zidimi Privacy",
         "tagline": "Protection de la vie privée",
         "description": "Effacez l'historique de navigation, bloquez les traqueurs, chiffrez vos fichiers personnels et prévenez les logiciels espions. Vos données, votre contrôle.",
-        "features": [
+          "cleaner": "Zidimi Cleaner aide à supprimer les fichiers inutiles et à effectuer des opérations de maintenance de base pour améliorer la réactivité du système. Il peut analyser les fichiers temporaires et le cache du navigateur, gérer les éléments de démarrage et planifier des maintenances régulières ; les résultats varient selon le système.",
           "Blocage des traqueurs et cookies",
           "Chiffrement de fichiers AES-256",
           "Suppression permanente sécurisée"
@@ -342,7 +342,7 @@
     "meta": "Version 2026.8.1 · Publiée le 07/08/2026 · Taille 64 MB · 32 bits et 64 bits pris en charge"
   },
   "Footer": {
-    "brandDesc": "Zidimi développe la suite de logiciels utilitaires personnels leader au Vietnam, aidant chaque jour des millions d'utilisateurs à optimiser et protéger leurs ordinateurs.",
+    "brandDesc": "Zidimi propose des logiciels utilitaires visant à aider les utilisateurs à améliorer les performances et la sécurité de base de leurs ordinateurs.",
     "company": "Zidimi Vietnam Co., Ltd.",
     "address": "12e étage, immeuble Sun Square, Hanoi",
     "phone": "1900-xxxx",
@@ -429,7 +429,7 @@
     "notFound": "Produit introuvable",
     "back": "Retour à l'accueil",
     "longDesc": {
-      "cleaner": "Zidimi Cleaner est un outil de nettoyage PC tout-en-un approuvé par 12 millions d'utilisateurs. Grâce à un algorithme d'analyse approfondie développé spécifiquement pour Windows, Zidimi Cleaner peut détecter plus de 50 types différents de fichiers indésirables — du cache du navigateur et des fichiers système temporaires aux erreurs de registre accumulées au fil des années d'utilisation. Au-delà du nettoyage, le logiciel optimise également le démarrage, gère les services en arrière-plan et planifie une maintenance automatique pour maintenir votre ordinateur en parfait état.",
+      "cleaner": "Zidimi Cleaner aide à supprimer les fichiers inutiles et à effectuer des opérations de maintenance de base pour améliorer la réactivité du système. Il peut analyser les fichiers temporaires et le cache du navigateur, gérer les éléments de démarrage et planifier des maintenances régulières ; les résultats varient selon le système.",
       "privacy": "Zidimi Privacy est une boîte à outils complète de protection de la vie privée pour Windows. À une époque où les données personnelles sont devenues une marchandise, Zidimi Privacy vous permet de contrôler exactement quelles informations sont partagées et ce qui reste privé. Le logiciel bloque plus de 10 000 traqueurs et scripts d'empreinte digitale des sites web populaires, chiffre les fichiers sensibles avec AES-256 (le même standard utilisé par les banques et l'armée), supprime définitivement les fichiers sensibles afin qu'ils ne puissent être récupérés par aucun logiciel de récupération, et surveille les autorisations d'accès des applications. Particulièrement utile pour les utilisateurs soucieux de la sécurité de leurs données.",
       "password": "Zidimi Password est un gestionnaire de mots de passe de nouvelle génération à architecture à connaissance nulle. Contrairement aux gestionnaires de mots de passe traditionnels, Zidimi Password ne stocke jamais vos mots de passe sur des serveurs — toutes les données sont chiffrées sur votre appareil avant d'être synchronisées vers le cloud. Même Zidimi ne peut pas voir vos mots de passe. Le logiciel prend en charge le remplissage automatique intelligent des connexions dans tous les navigateurs, génère des mots de passe aléatoires forts conformes aux normes NIST, se synchronise en toute sécurité entre Windows, macOS, iOS et Android, et intègre une authentification à deux facteurs (2FA) pour une protection supplémentaire des comptes importants.",
       "backup": "Zidimi Backup est une solution de sauvegarde complète qui vous assure de ne jamais avoir à vous soucier de perdre des données importantes. Qu'il s'agisse de documents de travail, de photos de famille ou du système d'exploitation entier, Zidimi Backup peut sauvegarder en toute sécurité vers le cloud chiffré, des disques externes, NAS ou lecteurs réseau. Le logiciel prend en charge les sauvegardes planifiées (quotidienne, hebdomadaire, mensuelle), les sauvegardes incrémentielles pour économiser de l'espace et du temps, et stocke plusieurs versions historiques afin que vous puissiez restaurer à n'importe quel point dans le passé. En cas de sinistre, la fonction de restauration en 1 clic vous aide à récupérer vos données en minutes plutôt qu'en heures.",

@@ -18,7 +18,7 @@ const FOOTER_LINKS = {
     { label: "careers", href: "#" },
     { label: "press", href: "#" },
     { label: "partners", href: "#" },
-    { label: "contact", href: "mailto:hello@zidimi.app" },
+    { label: "contact", href: "mailto:zidimi.outshoot829@passfwd.com" },
   ],
   resources: [
     { label: "support", href: "/#faq" },
@@ -38,9 +38,9 @@ const FOOTER_LINKS = {
 
 const SOCIAL_LINKS = [
   { label: "Facebook", href: "https://facebook.com/zidimiapp", icon: Facebook },
-  { label: "Twitter / X", href: "https://twitter.com/zidimiapp", icon: Twitter },
-  { label: "YouTube", href: "https://youtube.com/@zidimiapp", icon: Youtube },
-  { label: "GitHub", href: "https://github.com/zidimiapp", icon: Github },
+  // { label: "Twitter / X", href: "https://twitter.com/zidimiapp", icon: Twitter },
+  // { label: "YouTube", href: "https://youtube.com/@zidimiapp", icon: Youtube },
+  { label: "GitHub", href: "https://github.com/zidimi-software", icon: Github },
 ];
 
 export function Footer() {

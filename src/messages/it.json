@@ -86,7 +86,7 @@
         "name": "Zidimi Privacy",
         "tagline": "Protezione della privacy",
         "description": "Cancella la cronologia di navigazione, blocca i tracker, crittografa i file personali e previeni lo spyware. I tuoi dati, sotto il tuo controllo.",
-        "features": [
+          "cleaner": "Zidimi Cleaner aiuta a rimuovere file non necessari ed eseguire operazioni di manutenzione di base per migliorare la reattività del sistema. Può cercare file temporanei e cache del browser, gestire gli elementi di avvio e programmare manutenzioni periodiche; i risultati variano in base al sistema.",
           "Blocca tracker e cookie",
           "Crittografia file AES-256",
           "Cancellazione permanente sicura"
@@ -342,7 +342,7 @@
     "meta": "Versione 2026.8.1 · Rilasciata 07/08/2026 · Dimensione 64 MB · 32-bit e 64-bit supportati"
   },
   "Footer": {
-    "brandDesc": "Zidimi sviluppa la suite di software di utilità personale leader in Vietnam, aiutando milioni di utenti a ottimizzare e proteggere i propri computer ogni giorno.",
+    "brandDesc": "Zidimi offre software utility progettati per aiutare gli utenti a migliorare le prestazioni e la sicurezza di base dei loro computer.",
     "company": "Zidimi Vietnam Co., Ltd.",
     "address": "Piano 12, Sun Square Building, Hanoi",
     "phone": "1900-xxxx",
@@ -429,7 +429,7 @@
     "notFound": "Prodotto non trovato",
     "back": "Torna alla home",
     "longDesc": {
-      "cleaner": "Zidimi Cleaner è uno strumento di pulizia PC tutto-in-uno affidato da 12 milioni di utenti. Con un algoritmo di scansione profonda sviluppato specificamente per Windows, Zidimi Cleaner può rilevare oltre 50 diversi tipi di file spazzatura — dalla cache del browser e dai file di sistema temporanei agli errori di registro accumulati in anni di utilizzo. Oltre alla pulizia, il software ottimizza anche l'avvio, gestisce i servizi in background e pianifica la manutenzione automatica per mantenere il computer in perfette condizioni.",
+      "cleaner": "Zidimi Cleaner aiuta a rimuovere file non necessari ed eseguire operazioni di manutenzione di base per migliorare la reattività del sistema. Può cercare file temporanei e cache del browser, gestire gli elementi di avvio e programmare manutenzioni periodiche; i risultati variano in base al sistema.",
       "privacy": "Zidimi Privacy è un toolkit completo di protezione della privacy per Windows. In un'era in cui i dati personali sono diventati merce, Zidimi Privacy ti permette di controllare esattamente quali informazioni condividere e quali mantenere private. Il software blocca oltre 10.000 tracker e script di fingerprinting dai siti web più popolari, crittografa i file sensibili con AES-256 (lo stesso standard usato da banche ed esercito), elimina definitivamente i file sensibili in modo che non possano essere recuperati da alcun software di recupero e monitora le autorizzazioni di accesso delle applicazioni. Particolarmente utile per gli utenti preoccupati della sicurezza dei dati.",
       "password": "Zidimi Password è un gestore di password di nuova generazione con architettura a conoscenza zero. A differenza dei gestori di password tradizionali, Zidimi Password non memorizza mai le tue password sui server — tutti i dati sono crittografati sul tuo dispositivo prima di sincronizzarsi sul cloud. Nemmeno Zidimi può vedere le tue password. Il software supporta la compilazione automatica intelligente dei login in tutti i browser, genera password casuali robuste secondo gli standard NIST, si sincronizza in modo sicuro tra Windows, macOS, iOS e Android e integra l'autenticazione a due fattori (2FA) integrata per una protezione aggiuntiva degli account importanti.",
       "backup": "Zidimi Backup è una soluzione di backup completa che ti assicura di non dover mai temere la perdita di dati importanti. Che si tratti di documenti di lavoro, foto di famiglia o dell'intero sistema operativo, Zidimi Backup può eseguire il backup sicuro su cloud crittografato, unità esterne, NAS o unità di rete. Il software supporta backup pianificati (giornalieri, settimanali, mensili), backup incrementali per risparmiare spazio e tempo e conserva più versioni storiche così puoi ripristinare qualsiasi punto del passato. In caso di emergenza, la funzione di ripristino in 1 clic ti aiuta a recuperare i dati in minuti anziché in ore.",

@@ -140,7 +140,7 @@
     "badge": "Warum Zidimi wählen",
     "title": "Umfassende Optimierung,",
     "titleHighlight": "absolute Sicherheit",
-    "titleEnd": ".",
+            "cleaner": "Zidimi Cleaner hilft, unnötige Dateien zu entfernen und grundlegende Wartungsaufgaben durchzuführen, um die Systemreaktionsfähigkeit zu verbessern. Es kann temporäre Dateien und Browser-Cache scannen, Autostart‑Einträge verwalten und regelmäßige Wartungen planen; Ergebnisse können je nach System variieren.",
     "subtitle": "Zidimi ist nicht nur Software — wir bauen ein vertrauenswürdiges Dienstprogramm-Ökosystem. Jede Funktion ist auf Leistung, Sicherheit und Benutzererlebnis optimiert.",
     "items": {
       "speed": {
@@ -342,7 +342,7 @@
     "meta": "Version 2026.8.1 · Veröffentlicht am 07/08/2026 · Größe 64 MB · 32-Bit & 64-Bit unterstützt"
   },
   "Footer": {
-    "brandDesc": "Zidimi entwickelt die führende Suite persönlicher Dienstprogramme in Vietnam und hilft täglich Millionen von Nutzern, ihre Computer zu optimieren und zu schützen.",
+    "brandDesc": "Zidimi bietet Dienstprogramme, die Nutzern helfen, die grundlegende Leistung und Sicherheit ihrer Computer zu verbessern.",
     "company": "Zidimi Vietnam Co., Ltd.",
     "address": "12. Etage, Sun Square Building, Hanoi",
     "phone": "1900-xxxx",
@@ -429,7 +429,7 @@
     "notFound": "Produkt nicht gefunden",
     "back": "Zurück zur Startseite",
     "longDesc": {
-      "cleaner": "Zidimi Cleaner ist ein All-in-One-PC-Bereinigungstool, dem 12 Millionen Nutzer vertrauen. Mit einem speziell für Windows entwickelten Tiefenscan-Algorithmus kann Zidimi Cleaner über 50 verschiedene Arten von Datenmüll-Dateien erkennen — vom Browser-Cache und temporären Systemdateien bis hin zu Registry-Fehlern, die sich über Jahre der Nutzung ansammeln. Über die Bereinigung hinaus optimiert die Software auch den Systemstart, verwaltet Hintergrunddienste und plant automatische Wartungsaufgaben, um Ihren Computer in Spitzenform zu halten.",
+      "cleaner": "Zidimi Cleaner hilft, unnötige Dateien zu entfernen und grundlegende Wartungsaufgaben durchzuführen, um die Systemreaktionsfähigkeit zu verbessern. Es kann temporäre Dateien und Browser-Cache scannen, Autostart‑Einträge verwalten und regelmäßige Wartungen planen; Ergebnisse können je nach System variieren.",
       "privacy": "Zidimi Privacy ist ein umfassendes Datenschutz-Toolkit für Windows. In einer Zeit, in der persönliche Daten zur Ware geworden sind, ermöglicht Zidimi Privacy Ihnen genau zu kontrollieren, welche Informationen geteilt werden und was privat bleibt. Die Software blockiert über 10.000 Tracker und Fingerprinting-Skripte von beliebten Websites, verschlüsselt sensible Dateien mit AES-256 (demselben Standard, der von Banken und Militär verwendet wird), löscht sensible Dateien dauerhaft, sodass sie von keiner Wiederherstellungssoftware wiederhergestellt werden können, und überwacht Anwendungszugriffsberechtigungen. Besonders nützlich für Nutzer, die besorgt über Datensicherheit sind.",
       "password": "Zidimi Password ist ein Passwort-Manager der nächsten Generation mit Zero-Knowledge-Architektur. Im Gegensatz zu traditionellen Passwort-Managern speichert Zidimi Password niemals Ihre Passwörter auf Servern — alle Daten werden auf Ihrem Gerät verschlüsselt, bevor sie in die Cloud synchronisiert werden. Selbst Zidimi kann Ihre Passwörter nicht sehen. Die Software unterstützt intelligentes automatisches Ausfüllen von Logins in allen Browsern, generiert starke zufällige Passwörter nach NIST-Standards, synchronisiert sicher zwischen Windows, macOS, iOS und Android und integriert eine eingebaute Zwei-Faktor-Authentifizierung (2FA) für zusätzlichen Schutz wichtiger Konten.",
       "backup": "Zidimi Backup ist eine umfassende Backup-Lösung, die sicherstellt, dass Sie sich nie Sorgen machen müssen, wichtige Daten zu verlieren. Ob Arbeitsdokumente, Familienfotos oder das gesamte Betriebssystem — Zidimi Backup kann sicher in verschlüsselte Cloud, externe Laufwerke, NAS oder Netzwerklaufwerke sichern. Die Software unterstützt geplante Backups (täglich, wöchentlich, monatlich), inkrementelle Backups zum Sparen von Platz und Zeit und speichert mehrere historische Versionen, sodass Sie zu jedem beliebigen Punkt in der Vergangenheit wiederherstellen können. Wenn Katastrophen eintreten, hilft die 1-Klick-Wiederherstellungsfunktion, Daten in Minuten statt Stunden wiederherzustellen.",
