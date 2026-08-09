@@ -100,12 +100,8 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     },
     manifest: "/manifest.webmanifest",
     icons: {
-      icon: [
-        { url: "/favicon.ico", sizes: "any" },
-        { url: "/zimidi-icon.svg", type: "image/svg+xml" },
-        { url: "/zimidi-icon-512.png", type: "image/png", sizes: "512x512" },
-      ],
-      apple: [{ url: "/apple-icon.png", sizes: "180x180" }],
+      icon: "/zimidi-icon.svg",
+      apple: "/zimidi-icon.svg",
     },
     appleWebApp: {
       capable: true,
@@ -148,7 +144,7 @@ export default async function LocaleLayout({
     "@id": `${SITE_URL}/#organization`,
     name: "Zimidi",
     url: SITE_URL,
-    logo: `${SITE_URL}/zimidi-icon-512.png`,
+    logo: `${SITE_URL}/zimidi-icon.svg`,
   };
 
   const websiteSchema = {

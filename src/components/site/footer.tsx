@@ -98,7 +98,7 @@ export function Footer() {
               </span>
             </Link> */}
 
-            <img src="/zimidi-logo.png" alt="Zimidi" className="h-10 md:h-12 w-auto object-contain" />
+            <img src="/zimidi-logo.svg" alt="Zimidi" className="h-10 md:h-12 w-auto object-contain" />
 
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted-foreground">
               {t("brandDesc")}
