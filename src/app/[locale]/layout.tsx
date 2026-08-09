@@ -49,13 +49,13 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     metadataBase: new URL(SITE_URL),
     title: {
       default: title,
-      template: "%s | Heco",
+      template: "%s | Zimidi",
     },
     description,
-    applicationName: "Heco",
-    authors: [{ name: "Heco Team", url: SITE_URL }],
-    creator: "Heco Team",
-    publisher: "Heco",
+    applicationName: "Zimidi",
+    authors: [{ name: "Zimidi Team", url: SITE_URL }],
+    creator: "Zimidi Team",
+    publisher: "Zimidi",
     category: "Technology",
     alternates: {
       canonical: canonicalUrl,
@@ -68,7 +68,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
         .filter((item) => item !== typedLocale)
         .map((item) => OG_LOCALES[item]),
       url: canonicalUrl,
-      siteName: "Heco",
+      siteName: "Zimidi",
       title,
       description,
       images: [
@@ -76,7 +76,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
           url: "/og-image.png",
           width: 1200,
           height: 630,
-          alt: "Heco software utilities",
+          alt: "Zimidi software utilities",
           type: "image/png",
         },
       ],
@@ -109,7 +109,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
     },
     appleWebApp: {
       capable: true,
-      title: "Heco",
+      title: "Zimidi",
       statusBarStyle: "default",
     },
   };
@@ -146,7 +146,7 @@ export default async function LocaleLayout({
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": `${SITE_URL}/#organization`,
-    name: "Heco",
+    name: "Zimidi",
     url: SITE_URL,
     logo: `${SITE_URL}/zimidi-icon-512.png`,
   };
@@ -156,7 +156,7 @@ export default async function LocaleLayout({
     "@type": "WebSite",
     "@id": `${SITE_URL}/#website`,
     url: SITE_URL,
-    name: "Heco",
+    name: "Zimidi",
     publisher: { "@id": `${SITE_URL}/#organization` },
     inLanguage: [...routing.locales],
   };

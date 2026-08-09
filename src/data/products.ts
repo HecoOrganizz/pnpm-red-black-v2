@@ -61,7 +61,7 @@ export type Product = {
 
 export const PRODUCTS: Product[] = [
   {
-    slug: "heco-cleaner",
+    slug: "zimidi-cleaner",
     i18nKey: "Products.items.cleaner",
     icon: Trash2,
     gradient: "from-[#EA0232] to-[#CE5564]",
@@ -99,7 +99,7 @@ export const PRODUCTS: Product[] = [
     ],
   },
   {
-    slug: "heco-driver",
+    slug: "zimidi-driver",
     i18nKey: "Products.items.driver",
     icon: Cpu,
     gradient: "from-[#EA0232] to-[#803C38]",
@@ -137,7 +137,7 @@ export const PRODUCTS: Product[] = [
     ],
   },
   {
-    slug: "heco-privacy",
+    slug: "zimidi-privacy",
     i18nKey: "Products.items.privacy",
     icon: ShieldCheck,
     gradient: "from-[#CE5564] to-[#EA0232]",
@@ -175,7 +175,7 @@ export const PRODUCTS: Product[] = [
     ],
   },
   {
-    slug: "heco-password",
+    slug: "zimidi-password",
     i18nKey: "Products.items.password",
     icon: KeyRound,
     gradient: "from-[#803C38] to-[#EA0232]",
@@ -213,7 +213,7 @@ export const PRODUCTS: Product[] = [
     ],
   },
   {
-    slug: "heco-backup",
+    slug: "zimidi-backup",
     i18nKey: "Products.items.backup",
     icon: DatabaseBackup,
     gradient: "from-[#CE5564] to-[#803C38]",
@@ -251,7 +251,7 @@ export const PRODUCTS: Product[] = [
     ],
   },
   {
-    slug: "heco-uninstaller",
+    slug: "zimidi-uninstaller",
     i18nKey: "Products.items.uninstaller",
     icon: PackageX,
     gradient: "from-[#EA0232] to-[#2C2B2C]",

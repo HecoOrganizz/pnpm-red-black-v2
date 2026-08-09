@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Heco — Personal Utility Software",
-  "short_name": "Heco",
+  "name": "Zimidi — Personal Utility Software",
+  "short_name": "Zimidi",
   "description": "Personal utility software for PC cleanup, driver management, privacy, passwords, backups, and uninstalling applications.",
   "start_url": "/en",
   "scope": "/",

@@ -6,19 +6,19 @@ import { Facebook, Twitter, Youtube, Github } from "lucide-react";
 
 const FOOTER_LINKS = {
   products: [
-    { label: "cleaner", href: "/products/heco-cleaner" },
-    { label: "driver", href: "/products/heco-driver" },
-    { label: "privacy", href: "/products/heco-privacy" },
-    { label: "password", href: "/products/heco-password" },
-    { label: "backup", href: "/products/heco-backup" },
-    { label: "uninstaller", href: "/products/heco-uninstaller" },
+    { label: "cleaner", href: "/products/zimidi-cleaner" },
+    { label: "driver", href: "/products/zimidi-driver" },
+    { label: "privacy", href: "/products/zimidi-privacy" },
+    { label: "password", href: "/products/zimidi-password" },
+    { label: "backup", href: "/products/zimidi-backup" },
+    { label: "uninstaller", href: "/products/zimidi-uninstaller" },
   ],
   company: [
     { label: "about", href: "#" },
     { label: "careers", href: "#" },
     { label: "press", href: "#" },
     { label: "partners", href: "#" },
-    { label: "contact", href: "mailto:hello@heco.app" },
+    { label: "contact", href: "mailto:hello@zimidi.app" },
   ],
   resources: [
     { label: "support", href: "/#faq" },
@@ -37,10 +37,10 @@ const FOOTER_LINKS = {
 } as const;
 
 const SOCIAL_LINKS = [
-  { label: "Facebook", href: "https://facebook.com/hecoapp", icon: Facebook },
-  { label: "Twitter / X", href: "https://twitter.com/hecoapp", icon: Twitter },
-  { label: "YouTube", href: "https://youtube.com/@hecoapp", icon: Youtube },
-  { label: "GitHub", href: "https://github.com/hecoapp", icon: Github },
+  { label: "Facebook", href: "https://facebook.com/zimidiapp", icon: Facebook },
+  { label: "Twitter / X", href: "https://twitter.com/zimidiapp", icon: Twitter },
+  { label: "YouTube", href: "https://youtube.com/@zimidiapp", icon: Youtube },
+  { label: "GitHub", href: "https://github.com/zimidiapp", icon: Github },
 ];
 
 export function Footer() {
@@ -58,7 +58,7 @@ export function Footer() {
 
             {/* <Link
               href="/"
-              aria-label="Heco"
+              aria-label="Zimidi"
               className="inline-flex items-center gap-2"
             >
               <svg
@@ -66,11 +66,11 @@ export function Footer() {
                 viewBox="0 0 64 64"
                 fill="none"
                 role="img"
-                aria-label="Heco logo"
+                aria-label="Zimidi logo"
               >
                 <defs>
                   <linearGradient
-                    id="heco-footer-grad"
+                    id="zimidi-footer-grad"
                     x1="0"
                     y1="0"
                     x2="64"
@@ -81,7 +81,7 @@ export function Footer() {
                     <stop offset="1" stopColor="#803C38" />
                   </linearGradient>
                 </defs>
-                <rect width="64" height="64" rx="16" fill="url(#heco-footer-grad)" />
+                <rect width="64" height="64" rx="16" fill="url(#zimidi-footer-grad)" />
                 <path
                   d="M22 18 L22 46 M22 32 L42 32 M42 18 L42 46"
                   stroke="white"
@@ -94,7 +94,7 @@ export function Footer() {
                 <circle cx="48" cy="18" r="3" fill="#CE5564" opacity="0.95" />
               </svg>
               <span className="font-display text-xl font-extrabold text-foreground">
-                Heco
+                Zimidi
               </span>
             </Link> */}
 
@@ -109,10 +109,10 @@ export function Footer() {
               <div>{t("address")}</div>
               <div>
                 <a
-                  href="mailto:support@heco.app"
+                  href="mailto:support@zimidi.app"
                   className="text-primary hover:underline"
                 >
-                  support@heco.app
+                  support@zimidi.app
                 </a>
 
               </div>
@@ -125,7 +125,7 @@ export function Footer() {
                   href={social.href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label={`Heco ${social.label}`}
+                  aria-label={`Zimidi ${social.label}`}
                   className="flex h-9 w-9 items-center justify-center rounded-lg border border-border bg-background text-muted-foreground transition-all hover:border-primary/30 hover:bg-primary/5 hover:text-primary"
                 >
                   <social.icon className="h-4 w-4" aria-hidden="true" />

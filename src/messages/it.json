@@ -20,7 +20,7 @@
     "title": "Ottimizza il tuo PC,",
     "titleHighlight": "proteggi i tuoi dati,",
     "titleEnd": "accelera il tuo lavoro.",
-    "subtitle": "Heco è una suite di utilità personali completa: pulizia file spazzatura, aggiornamento driver, protezione privacy, gestione password e backup dei dati.",
+    "subtitle": "Zimidi è una suite di utilità personali completa: pulizia file spazzatura, aggiornamento driver, protezione privacy, gestione password e backup dei dati.",
     "subtitleHighlight": "Più veloce, più sicuro, gratuito da scaricare.",
     "trust": {
       "free": "Gratis per sempre",
@@ -39,7 +39,7 @@
       "uptime": "Disponibilità"
     },
     "dashboard": {
-      "title": "Heco Cleaner — Scansione del sistema",
+      "title": "Zimidi Cleaner — Scansione del sistema",
       "score": "Buono",
       "healthTitle": "Salute del sistema: Buona",
       "healthDesc": "Trovati 1,2 GB di file spazzatura che possono essere puliti.",
@@ -56,14 +56,14 @@
     }
   },
   "TrustStrip": {
-    "label": "Heco presentato su"
+    "label": "Zimidi presentato su"
   },
   "Products": {
-    "badge": "Suite di prodotti Heco",
+    "badge": "Suite di prodotti Zimidi",
     "title": "Un marchio.",
     "titleHighlight": "Sei strumenti di alto livello.",
-    "subtitle": "Ogni prodotto Heco è progettato per risolvere uno specifico problema di ottimizzazione del computer. Installa singolarmente all'occorrenza o scarica la suite completa per un'esperienza totale — tutto gratis.",
-    "cta": "Vuoi il pacchetto completo? Ottieni Heco All-in-One Suite.",
+    "subtitle": "Ogni prodotto Zimidi è progettato per risolvere uno specifico problema di ottimizzazione del computer. Installa singolarmente all'occorrenza o scarica la suite completa per un'esperienza totale — tutto gratis.",
+    "cta": "Vuoi il pacchetto completo? Ottieni Zimidi All-in-One Suite.",
     "ctaButton": "Scarica la suite — solo 64 MB",
     "card": {
       "downloadFree": "Scarica gratis",
@@ -72,39 +72,39 @@
     },
     "items": {
       "cleaner": {
-        "name": "Heco Cleaner",
+        "name": "Zimidi Cleaner",
         "tagline": "Pulizia e ottimizzazione del sistema",
         "description": "Scansiona e rimuovi file spazzatura, errori di registro e cache del browser in un clic. Libera gigabyte di spazio e velocizza istantaneamente il tuo computer.",
         "features": ["Scansione profonda in 1 clic", "Pulizia sicura del registro", "Acceleratore di avvio"],
         "badge": "Più popolare"
       },
       "driver": {
-        "name": "Heco Driver",
+        "name": "Zimidi Driver",
         "tagline": "Aggiornamento automatico dei driver",
         "description": "Rileva automaticamente i driver obsoleti e aggiornali da un database di oltre 5 milioni di driver ufficiali. Risolvi i problemi dei dispositivi, potenzia le prestazioni di gioco e grafica.",
         "features": ["5M+ driver ufficiali", "Backup pre-aggiornamento", "Automazione pianificata"]
       },
       "privacy": {
-        "name": "Heco Privacy",
+        "name": "Zimidi Privacy",
         "tagline": "Protezione della privacy",
         "description": "Cancella la cronologia di navigazione, blocca i tracker, crittografa i file personali e previeni lo spyware. I tuoi dati, sotto il tuo controllo.",
         "features": ["Blocca tracker e cookie", "Crittografia file AES-256", "Cancellazione permanente sicura"],
         "badge": "Novità"
       },
       "password": {
-        "name": "Heco Password",
+        "name": "Zimidi Password",
         "tagline": "Gestore di password sicuro",
         "description": "Conserva le password in un caveau crittografato a conoscenza zero. Compilazione automatica dei login, generazione di password robuste e sincronizzazione sicura tra dispositivi.",
         "features": ["Crittografia a conoscenza zero", "Compilazione automatica intelligente", "Sincronizzazione tra dispositivi"]
       },
       "backup": {
-        "name": "Heco Backup",
+        "name": "Zimidi Backup",
         "tagline": "Backup e ripristino dati",
         "description": "Esegui automaticamente il backup di file, cartelle e interi sistemi sul cloud o su unità esterne. Ripristina rapidamente in minuti in caso di emergenza.",
         "features": ["Backup pianificati", "Sincronizzazione cloud", "Ripristino in 1 clic"]
       },
       "uninstaller": {
-        "name": "Heco Uninstaller",
+        "name": "Zimidi Uninstaller",
         "tagline": "Disinstallatore completo",
         "description": "Rimuovi software ostinati insieme a tutti i file residui, voci di registro e collegamenti. Supporta disinstallazione batch e disinstallazione forzata.",
         "features": ["Rimozione completa al 100%", "Disinstallazione batch", "Disinstallazione forzata"]
@@ -112,27 +112,27 @@
     }
   },
   "Features": {
-    "badge": "Perché scegliere Heco",
+    "badge": "Perché scegliere Zimidi",
     "title": "Ottimizzazione completa,",
     "titleHighlight": "sicurezza assoluta",
     "titleEnd": ".",
-    "subtitle": "Heco non è solo software — costruiamo un ecosistema di utilità affidabile. Ogni funzione è ottimizzata per prestazioni, sicurezza ed esperienza utente.",
+    "subtitle": "Zimidi non è solo software — costruiamo un ecosistema di utilità affidabile. Ogni funzione è ottimizzata per prestazioni, sicurezza ed esperienza utente.",
     "items": {
       "speed": {
         "title": "Ottimizzazione velocità PC",
-        "description": "Velocizza l'avvio, libera RAM e CPU. Heco ottimizza oltre 50 parametri di sistema in modo che il tuo computer funzioni fluido come il giorno in cui lo hai comprato."
+        "description": "Velocizza l'avvio, libera RAM e CPU. Zimidi ottimizza oltre 50 parametri di sistema in modo che il tuo computer funzioni fluido come il giorno in cui lo hai comprato."
       },
       "privacy": {
         "title": "Protezione della privacy",
-        "description": "Blocca i tracker, cancella la cronologia di navigazione, crittografa i file sensibili. Heco è conforme al GDPR e non vende mai i dati utente a terzi."
+        "description": "Blocca i tracker, cancella la cronologia di navigazione, crittografa i file sensibili. Zimidi è conforme al GDPR e non vende mai i dati utente a terzi."
       },
       "security": {
         "title": "Sicurezza di livello bancario",
-        "description": "Crittografia AES-256 per tutti i dati, autenticazione a due fattori per gli account Heco. Abbiamo superato l'audit di sicurezza Ernst & Young nel 2025."
+        "description": "Crittografia AES-256 per tutti i dati, autenticazione a due fattori per gli account Zimidi. Abbiamo superato l'audit di sicurezza Ernst & Young nel 2025."
       },
       "lightweight": {
         "title": "Ultraveloce, ultraleggero",
-        "description": "Si installa in meno di 30 secondi, scansiona in soli 8 secondi. Heco usa meno dell'1% di CPU durante l'esecuzione in background."
+        "description": "Si installa in meno di 30 secondi, scansiona in soli 8 secondi. Zimidi usa meno dell'1% di CPU durante l'esecuzione in background."
       },
       "autoupdate": {
         "title": "Aggiornamenti automatici",
@@ -140,11 +140,11 @@
       },
       "cloud": {
         "title": "Sincronizzazione cloud",
-        "description": "Sincronizza impostazioni, cronologia e backup tra dispositivi Windows. Accedi al tuo Account Heco e tutto è pronto in pochi secondi."
+        "description": "Sincronizza impostazioni, cronologia e backup tra dispositivi Windows. Accedi al tuo Account Zimidi e tutto è pronto in pochi secondi."
       },
       "i18n": {
         "title": "Supporto multilingua",
-        "description": "L'interfaccia Heco è disponibile in 24 lingue, tra cui inglese, vietnamita, cinese, giapponese, francese, tedesco. Rileva automaticamente la lingua di sistema."
+        "description": "L'interfaccia Zimidi è disponibile in 24 lingue, tra cui inglese, vietnamita, cinese, giapponese, francese, tedesco. Rileva automaticamente la lingua di sistema."
       },
       "support": {
         "title": "Supporto 24/7",
@@ -155,38 +155,38 @@
   "Reviews": {
     "badge": "Recensioni della community",
     "title": "25 milioni di utenti",
-    "titleHighlight": "si fidano di Heco.",
-    "subtitle": "Siamo orgogliosi di essere amati dagli utenti in Vietnam e nel mondo. Ecco alcune recensioni reali dei clienti Heco.",
+    "titleHighlight": "si fidano di Zimidi.",
+    "subtitle": "Siamo orgogliosi di essere amati dagli utenti in Vietnam e nel mondo. Ecco alcune recensioni reali dei clienti Zimidi.",
     "items": {
       "r1": {
         "name": "Minh Tran",
         "role": "Designer freelance · Hanoi",
-        "text": "Dopo aver usato Heco Cleaner, il mio computer si avvia molto più velocemente, da 45 secondi a 18 secondi. Interfaccia vietnamita chiara, facile da usare, senza pubblicità fastidiose. Consigliato!"
+        "text": "Dopo aver usato Zimidi Cleaner, il mio computer si avvia molto più velocemente, da 45 secondi a 18 secondi. Interfaccia vietnamita chiara, facile da usare, senza pubblicità fastidiose. Consigliato!"
       },
       "r2": {
         "name": "Lan Pham",
         "role": "Contabile capo · Ho Chi Minh City",
-        "text": "Heco Password mi ha salvato molte volte. Prima tenevo le password su un taccuino, ora tutto è crittografato con AES-256 e si compila automaticamente quando serve. Mi sento molto più sicura a lavorare con i dati dei clienti."
+        "text": "Zimidi Password mi ha salvato molte volte. Prima tenevo le password su un taccuino, ora tutto è crittografato con AES-256 e si compila automaticamente quando serve. Mi sento molto più sicura a lavorare con i dati dei clienti."
       },
       "r3": {
         "name": "Hoang Nguyen",
         "role": "Studente di informatica · Da Nang",
-        "text": "Ho scaricato Heco Driver per risolvere problemi della scheda grafica durante il gaming. Aggiornato i driver in soli 2 minuti, i giochi girano fluidi senza lag. Gratis ma di qualità superiore rispetto a molti software a pagamento."
+        "text": "Ho scaricato Zimidi Driver per risolvere problemi della scheda grafica durante il gaming. Aggiornato i driver in soli 2 minuti, i giochi girano fluidi senza lag. Gratis ma di qualità superiore rispetto a molti software a pagamento."
       },
       "r4": {
         "name": "Mai Le",
         "role": "Responsabile marketing · Binh Duong",
-        "text": "Heco Privacy blocca i tracker in modo molto efficace. Navigo ogni giorno e ho notato una netta riduzione delle pubblicità mirate. Anche la funzione di cancellazione permanente dei file è molto utile per il lavoro."
+        "text": "Zimidi Privacy blocca i tracker in modo molto efficace. Navigo ogni giorno e ho notato una netta riduzione delle pubblicità mirate. Anche la funzione di cancellazione permanente dei file è molto utile per il lavoro."
       },
       "r5": {
         "name": "Duc Anh Vu",
         "role": "Responsabile IT · Hai Phong",
-        "text": "Ho distribuito Heco su 50 computer aziendali. Gestione centralizzata tramite dashboard, aggiornamenti automatici, nessun intervento manuale necessario. Risparmia un sacco di tempo al nostro team IT rispetto all'uso di strumenti separati."
+        "text": "Ho distribuito Zimidi su 50 computer aziendali. Gestione centralizzata tramite dashboard, aggiornamenti automatici, nessun intervento manuale necessario. Risparmia un sacco di tempo al nostro team IT rispetto all'uso di strumenti separati."
       },
       "r6": {
         "name": "Huong Nguyen",
         "role": "Insegnante · Can Tho",
-        "text": "Non sono un'esperta di tecnologia ma Heco è facilissimo da usare. Un solo clic e la pulizia è fatta. Il backup automatico sul cloud mi fa non temere più di perdere il materiale delle lezioni. Grazie al team Heco!"
+        "text": "Non sono un'esperta di tecnologia ma Zimidi è facilissimo da usare. Un solo clic e la pulizia è fatta. Il backup automatico sul cloud mi fa non temere più di perdere il materiale delle lezioni. Grazie al team Zimidi!"
       }
     },
     "awards": {
@@ -198,15 +198,15 @@
     }
   },
   "Pricing": {
-    "badge": "Prezzi Heco",
+    "badge": "Prezzi Zimidi",
     "title": "Inizia gratis.",
     "titleHighlight": "Passa a Pro quando vuoi.",
-    "subtitle": "Nessun costo nascosto, nessun rinnovo automatico. Usa Heco Free per sempre oppure passa a Pro/Business per sbloccare tutte le potenzialità.",
+    "subtitle": "Nessun costo nascosto, nessun rinnovo automatico. Usa Zimidi Free per sempre oppure passa a Pro/Business per sbloccare tutte le potenzialità.",
     "plans": {
       "free": {
         "name": "Free",
         "description": "Tutte le funzioni base per uso domestico personale.",
-        "features": ["Tutti i 6 prodotti Heco", "Scansione e pulizia manuale", "5 aggiornamenti driver/mese", "1 GB di backup cloud", "Supporto community"],
+        "features": ["Tutti i 6 prodotti Zimidi", "Scansione e pulizia manuale", "5 aggiornamenti driver/mese", "1 GB di backup cloud", "Supporto community"],
         "cta": "Scarica gratis"
       },
       "pro": {
@@ -240,49 +240,49 @@
     "title": "Hai bisogno di",
     "titleHighlight": "maggiore supporto",
     "titleEnd": "?",
-    "subtitle": "Queste sono le domande più comuni degli utenti Heco. Se non trovi la risposta che cerchi, il nostro team di supporto è sempre pronto ad aiutarti.",
+    "subtitle": "Queste sono le domande più comuni degli utenti Zimidi. Se non trovi la risposta che cerchi, il nostro team di supporto è sempre pronto ad aiutarti.",
     "items": {
       "q1": {
-        "q": "Heco è gratis?",
-        "a": "Sì. Tutti e 6 i prodotti Heco (Cleaner, Driver, Privacy, Password, Backup, Uninstaller) hanno una versione gratuita con tutte le funzioni base, utilizzabile per sempre. La versione Pro estende funzioni avanzate come scansione automatica pianificata, aggiornamenti driver illimitati e grande capacità di backup cloud al prezzo ragionevole di $8,99/anno."
+        "q": "Zimidi è gratis?",
+        "a": "Sì. Tutti e 6 i prodotti Zimidi (Cleaner, Driver, Privacy, Password, Backup, Uninstaller) hanno una versione gratuita con tutte le funzioni base, utilizzabile per sempre. La versione Pro estende funzioni avanzate come scansione automatica pianificata, aggiornamenti driver illimitati e grande capacità di backup cloud al prezzo ragionevole di $8,99/anno."
       },
       "q2": {
-        "q": "Il software Heco è sicuro? Contiene virus o spyware?",
-        "a": "Assolutamente sicuro. Tutti i prodotti Heco sono firmati digitalmente con certificati Microsoft Authenticode, scansionati per malware da VirusTotal prima di ogni rilascio e conformi agli standard di sicurezza GDPR. Abbiamo inoltre superato l'audit di sicurezza Ernst & Young nel 2025. Heco non raccoglie mai dati personali senza il tuo consenso esplicito."
+        "q": "Il software Zimidi è sicuro? Contiene virus o spyware?",
+        "a": "Assolutamente sicuro. Tutti i prodotti Zimidi sono firmati digitalmente con certificati Microsoft Authenticode, scansionati per malware da VirusTotal prima di ogni rilascio e conformi agli standard di sicurezza GDPR. Abbiamo inoltre superato l'audit di sicurezza Ernst & Young nel 2025. Zimidi non raccoglie mai dati personali senza il tuo consenso esplicito."
       },
       "q3": {
-        "q": "Quali sistemi operativi supporta Heco? Quali sono i requisiti?",
-        "a": "Heco supporta Windows 11, Windows 10, Windows 8.1, Windows 8 e Windows 7 (sia 32-bit che 64-bit). Richiede un minimo di 1 GB di RAM, 200 MB di spazio libero su disco e connessione Internet per gli aggiornamenti dei driver. Stiamo anche sviluppando una versione macOS, con lancio previsto nel Q2 2027."
+        "q": "Quali sistemi operativi supporta Zimidi? Quali sono i requisiti?",
+        "a": "Zimidi supporta Windows 11, Windows 10, Windows 8.1, Windows 8 e Windows 7 (sia 32-bit che 64-bit). Richiede un minimo di 1 GB di RAM, 200 MB di spazio libero su disco e connessione Internet per gli aggiornamenti dei driver. Stiamo anche sviluppando una versione macOS, con lancio previsto nel Q2 2027."
       },
       "q4": {
-        "q": "Come disinstallo il software Heco se non lo voglio più?",
-        "a": "Vai semplicemente su Pannello di controllo → Programmi e funzionalità (o Impostazioni → App su Windows 10/11), seleziona il prodotto Heco che vuoi rimuovere e clicca Disinstalla. Il processo di disinstallazione richiede meno di 30 secondi, senza lasciare file spazzatura, voci di registro o servizi nascosti. Puoi anche usare Heco Uninstaller per rimuovere accuratamente altri prodotti Heco."
+        "q": "Come disinstallo il software Zimidi se non lo voglio più?",
+        "a": "Vai semplicemente su Pannello di controllo → Programmi e funzionalità (o Impostazioni → App su Windows 10/11), seleziona il prodotto Zimidi che vuoi rimuovere e clicca Disinstalla. Il processo di disinstallazione richiede meno di 30 secondi, senza lasciare file spazzatura, voci di registro o servizi nascosti. Puoi anche usare Zimidi Uninstaller per rimuovere accuratamente altri prodotti Zimidi."
       },
       "q5": {
-        "q": "Posso usare Heco su più computer?",
-        "a": "La versione Free non ha limiti di computer. La versione Pro consente l'attivazione su fino a 3 dispositivi contemporaneamente con una sola chiave di licenza. La versione Business può essere distribuita senza limiti all'interno di un'organizzazione. Puoi gestire e disattivare i dispositivi in qualsiasi momento dal tuo Account Heco."
+        "q": "Posso usare Zimidi su più computer?",
+        "a": "La versione Free non ha limiti di computer. La versione Pro consente l'attivazione su fino a 3 dispositivi contemporaneamente con una sola chiave di licenza. La versione Business può essere distribuita senza limiti all'interno di un'organizzazione. Puoi gestire e disattivare i dispositivi in qualsiasi momento dal tuo Account Zimidi."
       },
       "q6": {
-        "q": "Heco supporta la mia lingua? Chi contatto per problemi?",
-        "a": "Sì, Heco supporta l'interfaccia completa in 24 lingue tra cui inglese, vietnamita, cinese, giapponese, francese, tedesco. In caso di problemi, il nostro team di supporto globale è disponibile 24/7 tramite chat live in-app, email support@heco.app o hotline. Tempo medio di risposta inferiore a 2 ore durante l'orario di lavoro."
+        "q": "Zimidi supporta la mia lingua? Chi contatto per problemi?",
+        "a": "Sì, Zimidi supporta l'interfaccia completa in 24 lingue tra cui inglese, vietnamita, cinese, giapponese, francese, tedesco. In caso di problemi, il nostro team di supporto globale è disponibile 24/7 tramite chat live in-app, email support@zimidi.app o hotline. Tempo medio di risposta inferiore a 2 ore durante l'orario di lavoro."
       },
       "q7": {
         "q": "La versione Pro si rinnova automaticamente? Posso cancellare in qualsiasi momento?",
-        "a": "No, Heco non si rinnova mai automaticamente e non memorizza la tua carta di credito. Quando la licenza Pro scade, il tuo account passa automaticamente a Free e puoi continuare a usare le funzioni base. Hai il pieno controllo sul rinnovare o meno. Offriamo una garanzia di rimborso incondizionato di 30 giorni se non sei soddisfatto."
+        "a": "No, Zimidi non si rinnova mai automaticamente e non memorizza la tua carta di credito. Quando la licenza Pro scade, il tuo account passa automaticamente a Free e puoi continuare a usare le funzioni base. Hai il pieno controllo sul rinnovare o meno. Offriamo una garanzia di rimborso incondizionato di 30 giorni se non sei soddisfatto."
       },
       "q8": {
-        "q": "Qual è il posto più sicuro per scaricare Heco?",
-        "a": "Scarica Heco solo dal sito ufficiale heco.app, da Microsoft Store o dai partner di distribuzione ufficiali elencati nella pagina di download. Evita di scaricare da siti sconosciuti perché potrebbero includere malware. Ogni installer ufficiale ha una firma digitale Microsoft Authenticode, che puoi verificare facendo clic destro sul file → Proprietà → Firme digitali."
+        "q": "Qual è il posto più sicuro per scaricare Zimidi?",
+        "a": "Scarica Zimidi solo dal sito ufficiale zimidi.app, da Microsoft Store o dai partner di distribuzione ufficiali elencati nella pagina di download. Evita di scaricare da siti sconosciuti perché potrebbero includere malware. Ogni installer ufficiale ha una firma digitale Microsoft Authenticode, che puoi verificare facendo clic destro sul file → Proprietà → Firme digitali."
       }
     },
     "contactTitle": "Non hai ancora trovato la risposta?",
-    "contactDesc": "Il team di supporto globale di Heco è disponibile 24/7 per aiutarti.",
+    "contactDesc": "Il team di supporto globale di Zimidi è disponibile 24/7 per aiutarti.",
     "contactButton": "Contatta il supporto"
   },
   "DownloadCTA": {
     "badge": "Download gratuito · Nessuna carta di credito richiesta",
     "title": "Inizia a ottimizzare il tuo computer oggi.",
-    "subtitle": "Scarica la Heco Suite completa di soli 64 MB. Installazione in 30 secondi, utilizzo immediato, nessuna registrazione richiesta. Scopri la differenza.",
+    "subtitle": "Scarica la Zimidi Suite completa di soli 64 MB. Installazione in 30 secondi, utilizzo immediato, nessuna registrazione richiesta. Scopri la differenza.",
     "cta": {
       "windows": "Scarica per Windows",
       "viewProducts": "Vedi i singoli prodotti"
@@ -296,8 +296,8 @@
     "meta": "Versione 2026.8.1 · Rilasciata 07/08/2026 · Dimensione 64 MB · 32-bit e 64-bit supportati"
   },
   "Footer": {
-    "brandDesc": "Heco sviluppa la suite di software di utilità personale leader in Vietnam, aiutando milioni di utenti a ottimizzare e proteggere i propri computer ogni giorno.",
-    "company": "Heco Vietnam Co., Ltd.",
+    "brandDesc": "Zimidi sviluppa la suite di software di utilità personale leader in Vietnam, aiutando milioni di utenti a ottimizzare e proteggere i propri computer ogni giorno.",
+    "company": "Zimidi Vietnam Co., Ltd.",
     "address": "Piano 12, Sun Square Building, Hanoi",
     "phone": "1900-xxxx",
     "columns": {
@@ -329,7 +329,7 @@
       "audit": "Audit Ernst & Young 2025",
       "iso": "ISO 27001:2022"
     },
-    "copyright": "© 2021–2026 Heco. Tutti i diritti riservati da Heco Vietnam Co., Ltd. Azienda registrata in Vietnam.",
+    "copyright": "© 2021–2026 Zimidi. Tutti i diritti riservati da Zimidi Vietnam Co., Ltd. Azienda registrata in Vietnam.",
     "madeWith": "Realizzato con"
   },
   "ProductDetail": {
@@ -374,8 +374,8 @@
     "viewOther": "Vedi altri prodotti",
     "backToList": "Torna alla lista prodotti",
     "relatedBadge": "Esplora di più",
-    "relatedTitle": "Altri prodotti Heco",
-    "relatedSubtitle": "Combina i prodotti Heco per un'esperienza di ottimizzazione completa per il tuo computer.",
+    "relatedTitle": "Altri prodotti Zimidi",
+    "relatedSubtitle": "Combina i prodotti Zimidi per un'esperienza di ottimizzazione completa per il tuo computer.",
     "free": "Gratis",
     "quickFeatures": "Punti chiave",
     "licenseFree": "Gratis",
@@ -383,12 +383,12 @@
     "notFound": "Prodotto non trovato",
     "back": "Torna alla home",
     "longDesc": {
-      "cleaner": "Heco Cleaner è uno strumento di pulizia PC tutto-in-uno affidato da 12 milioni di utenti. Con un algoritmo di scansione profonda sviluppato specificamente per Windows, Heco Cleaner può rilevare oltre 50 diversi tipi di file spazzatura — dalla cache del browser e dai file di sistema temporanei agli errori di registro accumulati in anni di utilizzo. Oltre alla pulizia, il software ottimizza anche l'avvio, gestisce i servizi in background e pianifica la manutenzione automatica per mantenere il computer in perfette condizioni.",
-      "driver": "Heco Driver è una soluzione completa di gestione driver per Windows. Con un database di oltre 5 milioni di driver ufficiali da produttori come NVIDIA, AMD, Intel, Realtek e Broadcom, Heco Driver ti assicura sempre l'ultima e più compatibile versione dei driver. Il software non solo aggiorna i driver ma crea anche punti di ripristino prima di ogni aggiornamento, esegue il backup dei driver correnti per il rollback quando serve e controlla automaticamente gli aggiornamenti settimanalmente. Particolarmente utile per i gamer che necessitano di aggiornamenti dei driver grafici per aumentare gli FPS e risolvere lo stuttering.",
-      "privacy": "Heco Privacy è un toolkit completo di protezione della privacy per Windows. In un'era in cui i dati personali sono diventati merce, Heco Privacy ti permette di controllare esattamente quali informazioni condividere e quali mantenere private. Il software blocca oltre 10.000 tracker e script di fingerprinting dai siti web più popolari, crittografa i file sensibili con AES-256 (lo stesso standard usato da banche ed esercito), elimina definitivamente i file sensibili in modo che non possano essere recuperati da alcun software di recupero e monitora le autorizzazioni di accesso delle applicazioni. Particolarmente utile per gli utenti preoccupati della sicurezza dei dati.",
-      "password": "Heco Password è un gestore di password di nuova generazione con architettura a conoscenza zero. A differenza dei gestori di password tradizionali, Heco Password non memorizza mai le tue password sui server — tutti i dati sono crittografati sul tuo dispositivo prima di sincronizzarsi sul cloud. Nemmeno Heco può vedere le tue password. Il software supporta la compilazione automatica intelligente dei login in tutti i browser, genera password casuali robuste secondo gli standard NIST, si sincronizza in modo sicuro tra Windows, macOS, iOS e Android e integra l'autenticazione a due fattori (2FA) integrata per una protezione aggiuntiva degli account importanti.",
-      "backup": "Heco Backup è una soluzione di backup completa che ti assicura di non dover mai temere la perdita di dati importanti. Che si tratti di documenti di lavoro, foto di famiglia o dell'intero sistema operativo, Heco Backup può eseguire il backup sicuro su cloud crittografato, unità esterne, NAS o unità di rete. Il software supporta backup pianificati (giornalieri, settimanali, mensili), backup incrementali per risparmiare spazio e tempo e conserva più versioni storiche così puoi ripristinare qualsiasi punto del passato. In caso di emergenza, la funzione di ripristino in 1 clic ti aiuta a recuperare i dati in minuti anziché in ore.",
-      "uninstaller": "Heco Uninstaller è il disinstallatore di software più completo per Windows. Quando disinstalli le app tramite il Pannello di controllo predefinito, spesso restano molti file spazzatura in AppData, ProgramData, registro, file temporanei e collegamenti. Heco Uninstaller esegue una scansione profonda dell'intero sistema per trovare e rimuovere completamente ogni traccia di un'applicazione. Particolarmente utile per app ostinate che non possono essere rimosse tramite Pannello di controllo (disinstallazione forzata), software in bundle con adware/bloatware e quando vuoi pulire il PC prima di reinstallare Windows. Supporta la disinstallazione batch di più app contemporaneamente per risparmiare tempo."
+      "cleaner": "Zimidi Cleaner è uno strumento di pulizia PC tutto-in-uno affidato da 12 milioni di utenti. Con un algoritmo di scansione profonda sviluppato specificamente per Windows, Zimidi Cleaner può rilevare oltre 50 diversi tipi di file spazzatura — dalla cache del browser e dai file di sistema temporanei agli errori di registro accumulati in anni di utilizzo. Oltre alla pulizia, il software ottimizza anche l'avvio, gestisce i servizi in background e pianifica la manutenzione automatica per mantenere il computer in perfette condizioni.",
+      "driver": "Zimidi Driver è una soluzione completa di gestione driver per Windows. Con un database di oltre 5 milioni di driver ufficiali da produttori come NVIDIA, AMD, Intel, Realtek e Broadcom, Zimidi Driver ti assicura sempre l'ultima e più compatibile versione dei driver. Il software non solo aggiorna i driver ma crea anche punti di ripristino prima di ogni aggiornamento, esegue il backup dei driver correnti per il rollback quando serve e controlla automaticamente gli aggiornamenti settimanalmente. Particolarmente utile per i gamer che necessitano di aggiornamenti dei driver grafici per aumentare gli FPS e risolvere lo stuttering.",
+      "privacy": "Zimidi Privacy è un toolkit completo di protezione della privacy per Windows. In un'era in cui i dati personali sono diventati merce, Zimidi Privacy ti permette di controllare esattamente quali informazioni condividere e quali mantenere private. Il software blocca oltre 10.000 tracker e script di fingerprinting dai siti web più popolari, crittografa i file sensibili con AES-256 (lo stesso standard usato da banche ed esercito), elimina definitivamente i file sensibili in modo che non possano essere recuperati da alcun software di recupero e monitora le autorizzazioni di accesso delle applicazioni. Particolarmente utile per gli utenti preoccupati della sicurezza dei dati.",
+      "password": "Zimidi Password è un gestore di password di nuova generazione con architettura a conoscenza zero. A differenza dei gestori di password tradizionali, Zimidi Password non memorizza mai le tue password sui server — tutti i dati sono crittografati sul tuo dispositivo prima di sincronizzarsi sul cloud. Nemmeno Zimidi può vedere le tue password. Il software supporta la compilazione automatica intelligente dei login in tutti i browser, genera password casuali robuste secondo gli standard NIST, si sincronizza in modo sicuro tra Windows, macOS, iOS e Android e integra l'autenticazione a due fattori (2FA) integrata per una protezione aggiuntiva degli account importanti.",
+      "backup": "Zimidi Backup è una soluzione di backup completa che ti assicura di non dover mai temere la perdita di dati importanti. Che si tratti di documenti di lavoro, foto di famiglia o dell'intero sistema operativo, Zimidi Backup può eseguire il backup sicuro su cloud crittografato, unità esterne, NAS o unità di rete. Il software supporta backup pianificati (giornalieri, settimanali, mensili), backup incrementali per risparmiare spazio e tempo e conserva più versioni storiche così puoi ripristinare qualsiasi punto del passato. In caso di emergenza, la funzione di ripristino in 1 clic ti aiuta a recuperare i dati in minuti anziché in ore.",
+      "uninstaller": "Zimidi Uninstaller è il disinstallatore di software più completo per Windows. Quando disinstalli le app tramite il Pannello di controllo predefinito, spesso restano molti file spazzatura in AppData, ProgramData, registro, file temporanei e collegamenti. Zimidi Uninstaller esegue una scansione profonda dell'intero sistema per trovare e rimuovere completamente ogni traccia di un'applicazione. Particolarmente utile per app ostinate che non possono essere rimosse tramite Pannello di controllo (disinstallazione forzata), software in bundle con adware/bloatware e quando vuoi pulire il PC prima di reinstallare Windows. Supporta la disinstallazione batch di più app contemporaneamente per risparmiare tempo."
     },
     "detailedFeatures": {
       "cleaner": {
@@ -416,7 +416,7 @@
         "df6": { "title": "Controllo cookie", "description": "Controlla i cookie per ogni sito. Whitelist dei siti che richiedono login, eliminazione automatica dei cookie di tracciamento di terze parti." }
       },
       "password": {
-        "df1": { "title": "Conoscenza zero", "description": "Heco non conosce mai le tue password. Dati crittografati sul dispositivo prima della sincronizzazione — il server conserva solo testo cifrato." },
+        "df1": { "title": "Conoscenza zero", "description": "Zimidi non conosce mai le tue password. Dati crittografati sul dispositivo prima della sincronizzazione — il server conserva solo testo cifrato." },
         "df2": { "title": "Generatore di password robuste", "description": "Generatore di password conforme NIST, supporta password casuali e passphrase. Personalizza lunghezza, caratteri, esclusione caratteri ambigui." },
         "df3": { "title": "Compilazione automatica", "description": "L'estensione del browser compila i login in un clic. Rilevazione intelligente dei moduli, supporta login multi-step." },
         "df4": { "title": "Sincronizzazione tra dispositivi", "description": "Sincronizzazione sicura tra Windows, macOS, iOS, Android tramite cloud crittografato end-to-end. Offline-first, sincronizza quando online." },
@@ -425,11 +425,11 @@
       },
       "backup": {
         "df1": { "title": "Backup automatico", "description": "Pianifica backup giornalieri, settimanali, mensili. Esegue silenziosamente in background senza interrompere il lavoro." },
-        "df2": { "title": "Cloud sicuro", "description": "Backup su cloud Heco con crittografia end-to-end AES-256. Server in Vietnam, conforme al Decreto 13/2023/NĐ-CP." },
+        "df2": { "title": "Cloud sicuro", "description": "Backup su cloud Zimidi con crittografia end-to-end AES-256. Server in Vietnam, conforme al Decreto 13/2023/NĐ-CP." },
         "df3": { "title": "Cronologia versioni", "description": "Conserva più versioni dei file — ripristina a qualsiasi punto entro 30 giorni (Free) o 1 anno (Pro)." },
         "df4": { "title": "Ripristino in 1 clic", "description": "Seleziona la versione da ripristinare, clicca Ripristina. I file tornano nella posizione originale in minuti, senza operazioni complesse." },
         "df5": { "title": "Backup di sistema", "description": "Crea un'immagine di sistema inclusi OS, app, impostazioni, driver. Ripristina Windows allo stato esatto quando serve." },
-        "df6": { "title": "Crittografia end-to-end", "description": "Dati crittografati sul dispositivo prima del caricamento sul cloud. Nemmeno Heco può vedere i tuoi file." }
+        "df6": { "title": "Crittografia end-to-end", "description": "Dati crittografati sul dispositivo prima del caricamento sul cloud. Nemmeno Zimidi può vedere i tuoi file." }
       },
       "uninstaller": {
         "df1": { "title": "Rimozione completa", "description": "Scansione profonda di AppData, ProgramData, registro, file temporanei per rimuovere ogni traccia delle applicazioni." },
@@ -442,82 +442,82 @@
     },
     "faqs": {
       "cleaner": {
-        "q1": "Heco Cleaner è sicuro per i dati personali?",
-        "a1": "Sì. Heco Cleaner elimina solo file spazzatura di sistema e cache identificati come sicuri. Tutti i file personali (documenti, foto, video) nelle cartelle Documenti, Immagini, Download sono protetti. Inoltre, la funzione Anteprima ti permette di vedere esattamente quali file saranno eliminati prima di confermare.",
+        "q1": "Zimidi Cleaner è sicuro per i dati personali?",
+        "a1": "Sì. Zimidi Cleaner elimina solo file spazzatura di sistema e cache identificati come sicuri. Tutti i file personali (documenti, foto, video) nelle cartelle Documenti, Immagini, Download sono protetti. Inoltre, la funzione Anteprima ti permette di vedere esattamente quali file saranno eliminati prima di confermare.",
         "q2": "Quanto dura una scansione completa del sistema?",
         "a2": "Il tempo di scansione dipende dalla dimensione del disco e dalla velocità della CPU. In media, un computer con SSD da 256 GB richiede circa 8-15 secondi per una scansione completa. Con HDD da 1 TB possono volerci 30-60 secondi. Puoi continuare a usare il computer durante la scansione.",
         "q3": "Posso annullare dopo la pulizia?",
-        "a3": "Sì. Heco Cleaner crea automaticamente un punto di ripristino prima di ogni pulizia. Puoi annullare tutte le azioni entro 30 giorni tramite la funzione Storico. I file eliminati sono compressi e conservati nel Cestino di Heco, separato dal Cestino di Windows.",
+        "a3": "Sì. Zimidi Cleaner crea automaticamente un punto di ripristino prima di ogni pulizia. Puoi annullare tutte le azioni entro 30 giorni tramite la funzione Storico. I file eliminati sono compressi e conservati nel Cestino di Zimidi, separato dal Cestino di Windows.",
         "q4": "Quanto spesso dovrei pulire?",
-        "a4": "Consigliamo Quick Scan settimanale e Deep Scan mensile. Heco Cleaner Pro può pianificare automaticamente — ad es. Quick Scan ogni venerdì, Deep Scan il 1° di ogni mese — così non devi ricordartene manualmente."
+        "a4": "Consigliamo Quick Scan settimanale e Deep Scan mensile. Zimidi Cleaner Pro può pianificare automaticamente — ad es. Quick Scan ogni venerdì, Deep Scan il 1° di ogni mese — così non devi ricordartene manualmente."
       },
       "driver": {
-        "q1": "I driver Heco sono ufficiali?",
-        "a1": "Sì. Tutti i driver nel database di Heco sono scaricati direttamente dai server ufficiali dei produttori (NVIDIA, AMD, Intel, Realtek, ecc.) e sono firmati digitalmente Microsoft WHQL. Non distribuiamo mai driver modificati o beta.",
+        "q1": "I driver Zimidi sono ufficiali?",
+        "a1": "Sì. Tutti i driver nel database di Zimidi sono scaricati direttamente dai server ufficiali dei produttori (NVIDIA, AMD, Intel, Realtek, ecc.) e sono firmati digitalmente Microsoft WHQL. Non distribuiamo mai driver modificati o beta.",
         "q2": "Aggiornare i driver è pericoloso?",
-        "a2": "Heco Driver crea sempre un punto di ripristino di sistema ed esegue il backup dei vecchi driver prima di ogni aggiornamento. Se un nuovo driver causa problemi, puoi tornare alla versione precedente con un clic. Il tasso di successo degli aggiornamenti è del 99,7%.",
-        "q3": "Heco Driver supporta i portatili?",
-        "a3": "Sì, particolarmente indicato per i portatili. Molti portatili (Dell, HP, Lenovo, Asus, Acer) hanno driver OEM personalizzati diversi dai driver pubblici. Heco identifica il tuo portatile e scarica il driver OEM corretto, assicurando il funzionamento di tasti funzione (Fn), webcam, impronte, scheda audio.",
+        "a2": "Zimidi Driver crea sempre un punto di ripristino di sistema ed esegue il backup dei vecchi driver prima di ogni aggiornamento. Se un nuovo driver causa problemi, puoi tornare alla versione precedente con un clic. Il tasso di successo degli aggiornamenti è del 99,7%.",
+        "q3": "Zimidi Driver supporta i portatili?",
+        "a3": "Sì, particolarmente indicato per i portatili. Molti portatili (Dell, HP, Lenovo, Asus, Acer) hanno driver OEM personalizzati diversi dai driver pubblici. Zimidi identifica il tuo portatile e scarica il driver OEM corretto, assicurando il funzionamento di tasti funzione (Fn), webcam, impronte, scheda audio.",
         "q4": "Con quale frequenza vengono aggiornati i nuovi driver?",
-        "a4": "Il database dei driver di Heco è aggiornato quotidianamente con i nuovi driver rilasciati dagli OEM. Il software controllerà automaticamente e ti notificherà quando sono disponibili nuovi driver per i tuoi dispositivi. Puoi abilitare Auto-Update per l'installazione silenziosa in background."
+        "a4": "Il database dei driver di Zimidi è aggiornato quotidianamente con i nuovi driver rilasciati dagli OEM. Il software controllerà automaticamente e ti notificherà quando sono disponibili nuovi driver per i tuoi dispositivi. Puoi abilitare Auto-Update per l'installazione silenziosa in background."
       },
       "privacy": {
-        "q1": "Heco Privacy può sostituire una VPN?",
-        "a1": "Non del tutto. Heco Privacy si concentra sulla protezione delle tracce locali sul tuo computer, mentre la VPN crittografa le connessioni di rete. Consigliamo di usare entrambi: Heco Privacy per pulire tracce e crittografare file, VPN per nascondere l'IP durante la navigazione. Heco Privacy ha una funzione leggera di mascheramento IP ma non sostituisce una VPN dedicata.",
+        "q1": "Zimidi Privacy può sostituire una VPN?",
+        "a1": "Non del tutto. Zimidi Privacy si concentra sulla protezione delle tracce locali sul tuo computer, mentre la VPN crittografa le connessioni di rete. Consigliamo di usare entrambi: Zimidi Privacy per pulire tracce e crittografare file, VPN per nascondere l'IP durante la navigazione. Zimidi Privacy ha una funzione leggera di mascheramento IP ma non sostituisce una VPN dedicata.",
         "q2": "I file crittografati possono essere decifrati?",
-        "a2": "Non con la tecnologia attuale. Heco usa AES-256 — lo standard di crittografia approvato dalla NSA per documenti top secret. Forzare un file AES-256 richiede circa 10^50 anni con il supercomputer più veloce oggi. La cosa più importante è la tua password: una password casuale di 12+ caratteri è praticamente indécifrabile.",
+        "a2": "Non con la tecnologia attuale. Zimidi usa AES-256 — lo standard di crittografia approvato dalla NSA per documenti top secret. Forzare un file AES-256 richiede circa 10^50 anni con il supercomputer più veloce oggi. La cosa più importante è la tua password: una password casuale di 12+ caratteri è praticamente indécifrabile.",
         "q3": "In cosa l'eliminazione permanente differisce da Shift+Canc?",
-        "a3": "Shift+Canc rimuove solo i riferimenti ai file; i dati effettivi restano sul disco e possono essere recuperati da software di recupero. Heco Privacy elimina permanentemente sovrascrivendo dati casuali sull'area di archiviazione più volte (standard US DoD 5220.22-M), assicurando che nessun recupero sia possibile con alcun metodo.",
+        "a3": "Shift+Canc rimuove solo i riferimenti ai file; i dati effettivi restano sul disco e possono essere recuperati da software di recupero. Zimidi Privacy elimina permanentemente sovrascrivendo dati casuali sull'area di archiviazione più volte (standard US DoD 5220.22-M), assicurando che nessun recupero sia possibile con alcun metodo.",
         "q4": "Quali browser sono supportati?",
-        "a4": "Heco Privacy supporta pienamente Chrome, Edge, Firefox, Brave, Opera e Vivaldi. Rileva automaticamente i browser installati e pulisce cronologia, cookie, cache, cronologia download, dati dei moduli, password salvate (opzionale). Puoi impostare whitelist per i siti che richiedono di restare loggati."
+        "a4": "Zimidi Privacy supporta pienamente Chrome, Edge, Firefox, Brave, Opera e Vivaldi. Rileva automaticamente i browser installati e pulisce cronologia, cookie, cache, cronologia download, dati dei moduli, password salvate (opzionale). Puoi impostare whitelist per i siti che richiedono di restare loggati."
       },
       "password": {
         "q1": "Cosa significa conoscenza zero?",
-        "a1": "La conoscenza zero è un'architettura in cui Heco non conosce mai la tua master password. La password viene usata per crittografare i dati sul tuo dispositivo prima di sincronizzarli sul cloud come crittografati. Anche se i server di Heco fossero hackerati, gli attaccanti vedrebbero solo dati crittografati che non possono essere decifrati.",
+        "a1": "La conoscenza zero è un'architettura in cui Zimidi non conosce mai la tua master password. La password viene usata per crittografare i dati sul tuo dispositivo prima di sincronizzarli sul cloud come crittografati. Anche se i server di Zimidi fossero hackerati, gli attaccanti vedrebbero solo dati crittografati che non possono essere decifrati.",
         "q2": "Se dimentico la mia master password, può essere recuperata?",
-        "a2": "No. A causa dell'architettura a conoscenza zero, Heco non ha modo di recuperare la tua master password. Questo è un necessario compromesso di sicurezza. Consiglio: scrivi la tua master password su carta e conservala in una cassaforte, oppure usa una passphrase facile da ricordare di 4-5 parole casuali come 'gatto-giallo-albero-libro-rosso'.",
+        "a2": "No. A causa dell'architettura a conoscenza zero, Zimidi non ha modo di recuperare la tua master password. Questo è un necessario compromesso di sicurezza. Consiglio: scrivi la tua master password su carta e conservala in una cassaforte, oppure usa una passphrase facile da ricordare di 4-5 parole casuali come 'gatto-giallo-albero-libro-rosso'.",
         "q3": "Come funziona la sincronizzazione tra Windows e telefono?",
-        "a3": "Scarica l'app Heco Password su iOS/Android, accedi con lo stesso Account Heco. I dati si sincronizzeranno automaticamente tramite cloud crittografato end-to-end. Tutte le modifiche su Windows appaiono sul telefono entro pochi secondi. Puoi usarla offline e sincronizzare automaticamente quando online.",
+        "a3": "Scarica l'app Zimidi Password su iOS/Android, accedi con lo stesso Account Zimidi. I dati si sincronizzeranno automaticamente tramite cloud crittografato end-to-end. Tutte le modifiche su Windows appaiono sul telefono entro pochi secondi. Puoi usarla offline e sincronizzare automaticamente quando online.",
         "q4": "C'è un'estensione per browser?",
-        "a4": "Sì. Heco Password ha estensioni ufficiali per Chrome, Edge, Firefox, Brave, Opera. L'estensione compila automaticamente i login quando visiti le pagine di accesso, genera password robuste quando ti registri a nuovi account e salva automaticamente. L'estensione comunica con l'app desktop tramite crittografia locale, nessun dato inviato su Internet."
+        "a4": "Sì. Zimidi Password ha estensioni ufficiali per Chrome, Edge, Firefox, Brave, Opera. L'estensione compila automaticamente i login quando visiti le pagine di accesso, genera password robuste quando ti registri a nuovi account e salva automaticamente. L'estensione comunica con l'app desktop tramite crittografia locale, nessun dato inviato su Internet."
       },
       "backup": {
-        "q1": "Quanto spazio di archiviazione cloud ha Heco Backup?",
+        "q1": "Quanto spazio di archiviazione cloud ha Zimidi Backup?",
         "a1": "La versione Free ha 1 GB di cloud gratis per sempre — sufficiente per documenti di testo importanti. La versione Pro si espande a 100 GB, Business a 1 TB/team. Puoi anche combinare backup cloud + unità esterna per sfruttare entrambi.",
         "q2": "Backup completo o incrementale?",
-        "a2": "Heco Backup supporta tutte e tre le modalità: Completo (backup completo), Incrementale (solo i file modificati dall'ultimo backup) e Differenziale (file modificati dall'ultimo backup completo). La modalità predefinita usa Incrementale per risparmiare spazio e tempo. Consigliamo backup Completo mensile + Incrementale giornaliero.",
+        "a2": "Zimidi Backup supporta tutte e tre le modalità: Completo (backup completo), Incrementale (solo i file modificati dall'ultimo backup) e Differenziale (file modificati dall'ultimo backup completo). La modalità predefinita usa Incrementale per risparmiare spazio e tempo. Consigliamo backup Completo mensile + Incrementale giornaliero.",
         "q3": "Ripristinare quando Windows non si avvia?",
-        "a3": "Heco Backup include Bootable Rescue Media — puoi creare una USB avviabile Windows PE, avviare da USB quando Windows è danneggiato e ripristinare il sistema dal backup. Molto utile in caso di ransomware, BSOD o errori del disco. Questa funzione è inclusa nella versione Free.",
+        "a3": "Zimidi Backup include Bootable Rescue Media — puoi creare una USB avviabile Windows PE, avviare da USB quando Windows è danneggiato e ripristinare il sistema dal backup. Molto utile in caso di ransomware, BSOD o errori del disco. Questa funzione è inclusa nella versione Free.",
         "q4": "Supporta il backup di Office 365 / Google Drive?",
-        "a4": "Sì. Heco Backup Pro può fare backup di email, file e calendario da Office 365, Google Workspace, OneDrive, Google Drive e Dropbox. Assicura che anche i tuoi dati cloud siano salvati altrove, in caso il tuo account venga hackerato o bloccato."
+        "a4": "Sì. Zimidi Backup Pro può fare backup di email, file e calendario da Office 365, Google Workspace, OneDrive, Google Drive e Dropbox. Assicura che anche i tuoi dati cloud siano salvati altrove, in caso il tuo account venga hackerato o bloccato."
       },
       "uninstaller": {
         "q1": "In cosa differisce da Pannello di controllo > Programmi e funzionalità?",
-        "a1": "Il Pannello di controllo predefinito esegue solo il disinstallatore dell'app, spesso lasciando molti file spazzatura in AppData, ProgramData, registro, file temporanei, collegamenti. Heco Uninstaller esegue una scansione profonda dell'intero sistema dopo la disinstallazione, trovando e rimuovendo tutte le tracce. In media libera 50-200 MB di file spazzatura extra per app rispetto alla disinstallazione da Pannello di controllo.",
+        "a1": "Il Pannello di controllo predefinito esegue solo il disinstallatore dell'app, spesso lasciando molti file spazzatura in AppData, ProgramData, registro, file temporanei, collegamenti. Zimidi Uninstaller esegue una scansione profonda dell'intero sistema dopo la disinstallazione, trovando e rimuovendo tutte le tracce. In media libera 50-200 MB di file spazzatura extra per app rispetto alla disinstallazione da Pannello di controllo.",
         "q2": "Come funziona la disinstallazione forzata?",
-        "a2": "Quando il disinstallatore di un'app è rotto o l'app non ha disinstallatore, Heco analizza il file di installazione, trova tutte le posizioni dei file installati, le chiavi di registro create, i servizi registrati, quindi rimuove tutto manualmente. Efficace per il 95% delle app ostinate. Prima della disinstallazione forzata, Heco crea sempre un punto di ripristino per il rollback.",
+        "a2": "Quando il disinstallatore di un'app è rotto o l'app non ha disinstallatore, Zimidi analizza il file di installazione, trova tutte le posizioni dei file installati, le chiavi di registro create, i servizi registrati, quindi rimuove tutto manualmente. Efficace per il 95% delle app ostinate. Prima della disinstallazione forzata, Zimidi crea sempre un punto di ripristino per il rollback.",
         "q3": "Può rimuovere bloatware OEM?",
-        "a3": "Sì. Heco Uninstaller ha il rilevamento bloatware — app OEM preinstallate (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery, ecc.). Elenca automaticamente e permette la rimozione batch in un clic. In media un nuovo PC ha 10-30 bloatware; rimuoverli tutti velocizza significativamente il computer.",
+        "a3": "Sì. Zimidi Uninstaller ha il rilevamento bloatware — app OEM preinstallate (McAfee Trial, WildTangent, Lenovo App, Dell Digital Delivery, ecc.). Elenca automaticamente e permette la rimozione batch in un clic. In media un nuovo PC ha 10-30 bloatware; rimuoverli tutti velocizza significativamente il computer.",
         "q4": "Può disinstallare app di Windows Store (UWP)?",
-        "a4": "Sì. Heco Uninstaller supporta la disinstallazione sia delle app desktop Win32 tradizionali che delle app di Windows Store (UWP). Particolarmente utile per rimuovere app Windows integrate che il Pannello di controllo non permette di disinstallare (Cortana, Xbox, Mail, Calendario, ecc.)."
+        "a4": "Sì. Zimidi Uninstaller supporta la disinstallazione sia delle app desktop Win32 tradizionali che delle app di Windows Store (UWP). Particolarmente utile per rimuovere app Windows integrate che il Pannello di controllo non permette di disinstallare (Cortana, Xbox, Mail, Calendario, ecc.)."
       }
     },
     "howItWorks": {
       "cleaner": {
         "h1t": "Scansiona il sistema",
-        "h1d": "Heco analizza l'intero disco, registro, cache del browser e servizi per trovare file spazzatura rimovibili in modo sicuro.",
+        "h1d": "Zimidi analizza l'intero disco, registro, cache del browser e servizi per trovare file spazzatura rimovibili in modo sicuro.",
         "h2t": "Visualizza i risultati",
         "h2d": "Mostra una lista dettagliata dei file spazzatura per categoria, con spazio recuperabile. Puoi deselezionare qualsiasi elemento.",
         "h3t": "Pulizia in 1 clic",
-        "h3d": "Clicca 'Pulisci ora' per rimuovere tutto. Heco crea automaticamente un punto di ripristino così puoi annullare in qualsiasi momento."
+        "h3d": "Clicca 'Pulisci ora' per rimuovere tutto. Zimidi crea automaticamente un punto di ripristino così puoi annullare in qualsiasi momento."
       },
       "driver": {
         "h1t": "Scansiona i driver",
-        "h1d": "Scansiona tutti i dispositivi hardware, confronta le versioni dei driver correnti con l'ultimo database driver di Heco.",
+        "h1d": "Scansiona tutti i dispositivi hardware, confronta le versioni dei driver correnti con l'ultimo database driver di Zimidi.",
         "h2t": "Scegli gli aggiornamenti",
         "h2d": "Mostra la lista dei driver obsoleti con info sulla nuova versione, produttore e dimensione del download.",
         "h3t": "Installazione automatica",
-        "h3d": "Heco scarica automaticamente, esegue il backup dei vecchi driver, installa i nuovi, crea un punto di ripristino per il rollback."
+        "h3d": "Zimidi scarica automaticamente, esegue il backup dei vecchi driver, installa i nuovi, crea un punto di ripristino per il rollback."
       },
       "privacy": {
         "h1t": "Analizza le tracce",
@@ -529,25 +529,25 @@
       },
       "password": {
         "h1t": "Crea il caveau",
-        "h1d": "Crea una master password robusta — l'unica chiave per sbloccare il tuo caveau delle password. Heco non la memorizza mai.",
+        "h1d": "Crea una master password robusta — l'unica chiave per sbloccare il tuo caveau delle password. Zimidi non la memorizza mai.",
         "h2t": "Importa e genera",
         "h2d": "Importa le password esistenti dal browser, oppure usa il Generatore di password per password casuali robuste per ogni account.",
         "h3t": "Compilazione automatica",
-        "h3d": "Quando visiti le pagine di login, Heco compila automaticamente le credenziali. Si sincronizza in modo sicuro tra Windows, macOS, iOS, Android."
+        "h3d": "Quando visiti le pagine di login, Zimidi compila automaticamente le credenziali. Si sincronizza in modo sicuro tra Windows, macOS, iOS, Android."
       },
       "backup": {
         "h1t": "Seleziona i dati",
         "h1d": "Scegli file, cartelle o intero sistema (immagine di sistema) da backup. Modelli disponibili per Documenti, Foto, ecc.",
         "h2t": "Scegli la destinazione",
-        "h2d": "Backup su cloud Heco, unità esterna, NAS, oppure combina più destinazioni. Ogni destinazione può avere la propria pianificazione.",
+        "h2d": "Backup su cloud Zimidi, unità esterna, NAS, oppure combina più destinazioni. Ogni destinazione può avere la propria pianificazione.",
         "h3t": "Ripristina quando serve",
         "h3d": "In caso di emergenza, seleziona la versione da ripristinare e clicca Ripristina. I file tornano nella posizione originale in minuti."
       },
       "uninstaller": {
         "h1t": "Scansiona le app installate",
-        "h1d": "Heco scansiona tutte le app Win32, UWP, Windows Store. Mostra con dimensione, data di installazione, frequenza di utilizzo.",
+        "h1d": "Zimidi scansiona tutte le app Win32, UWP, Windows Store. Mostra con dimensione, data di installazione, frequenza di utilizzo.",
         "h2t": "Disinstalla",
-        "h2d": "Seleziona una o più app da rimuovere. Heco esegue prima il disinstallatore ufficiale, poi fa scansione profonda per i residui.",
+        "h2d": "Seleziona una o più app da rimuovere. Zimidi esegue prima il disinstallatore ufficiale, poi fa scansione profonda per i residui.",
         "h3t": "Pulisci",
         "h3d": "Rimuovi tutti i file spazzatura residui, registro, collegamenti. Crea un punto di ripristino per il rollback se necessario."
       }
@@ -598,36 +598,36 @@
     }
   },
   "Metadata": {
-    "defaultTitle": "Heco — Software di utilità personale per ottimizzazione PC",
-    "defaultDescription": "Heco è una suite di software di utilità personale leader: pulizia PC, aggiornamento driver, protezione privacy, gestione password e backup dei dati. Veloce, sicuro, download gratuito.",
-    "defaultKeywords": ["Heco", "software di utilità", "ottimizzazione PC", "pulizia PC", "aggiornamento driver", "protezione privacy", "gestore password", "backup dati", "disinstallatore", "software gratuito"],
+    "defaultTitle": "Zimidi — Software di utilità personale per ottimizzazione PC",
+    "defaultDescription": "Zimidi è una suite di software di utilità personale leader: pulizia PC, aggiornamento driver, protezione privacy, gestione password e backup dei dati. Veloce, sicuro, download gratuito.",
+    "defaultKeywords": ["Zimidi", "software di utilità", "ottimizzazione PC", "pulizia PC", "aggiornamento driver", "protezione privacy", "gestore password", "backup dati", "disinstallatore", "software gratuito"],
     "home": {
-      "title": "Heco — Software di utilità personale per ottimizzazione PC",
-      "description": "Heco è una suite di software di utilità personale leader: pulizia PC, aggiornamento driver, protezione privacy, gestione password e backup dei dati. Veloce, sicuro, download gratuito."
+      "title": "Zimidi — Software di utilità personale per ottimizzazione PC",
+      "description": "Zimidi è una suite di software di utilità personale leader: pulizia PC, aggiornamento driver, protezione privacy, gestione password e backup dei dati. Veloce, sicuro, download gratuito."
     },
     "products": {
       "cleaner": {
-        "title": "Heco Cleaner — Pulizia e ottimizzazione del sistema",
+        "title": "Zimidi Cleaner — Pulizia e ottimizzazione del sistema",
         "description": "Scansiona e rimuovi file spazzatura, errori di registro e cache del browser in un clic. Libera gigabyte di spazio e velocizza istantaneamente il tuo computer."
       },
       "driver": {
-        "title": "Heco Driver — Aggiornamento automatico dei driver",
+        "title": "Zimidi Driver — Aggiornamento automatico dei driver",
         "description": "Rileva automaticamente i driver obsoleti e aggiornali da un database di oltre 5 milioni di driver ufficiali. Risolvi i problemi dei dispositivi, potenzia le prestazioni di gioco e grafica."
       },
       "privacy": {
-        "title": "Heco Privacy — Protezione della privacy",
+        "title": "Zimidi Privacy — Protezione della privacy",
         "description": "Cancella la cronologia di navigazione, blocca i tracker, crittografa i file personali e previeni lo spyware. I tuoi dati, sotto il tuo controllo."
       },
       "password": {
-        "title": "Heco Password — Gestore di password sicuro",
+        "title": "Zimidi Password — Gestore di password sicuro",
         "description": "Conserva le password in un caveau crittografato a conoscenza zero. Compilazione automatica dei login, generazione di password robuste e sincronizzazione sicura tra dispositivi."
       },
       "backup": {
-        "title": "Heco Backup — Backup e ripristino dati",
+        "title": "Zimidi Backup — Backup e ripristino dati",
         "description": "Esegui automaticamente il backup di file, cartelle e interi sistemi sul cloud o su unità esterne. Ripristina rapidamente in minuti in caso di emergenza."
       },
       "uninstaller": {
-        "title": "Heco Uninstaller — Disinstallatore completo",
+        "title": "Zimidi Uninstaller — Disinstallatore completo",
         "description": "Rimuovi software ostinati insieme a tutti i file residui, voci di registro e collegamenti. Supporta disinstallazione batch e disinstallazione forzata."
       }
     },

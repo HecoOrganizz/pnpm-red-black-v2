@@ -50,12 +50,12 @@ export function Header() {
         <div className="flex h-16 items-center justify-between md:h-20">
           <Link
             href="/"
-            aria-label="Heco home"
+            aria-label="Zimidi home"
             className="flex items-center gap-2 transition-opacity hover:opacity-90"
           >
             {/* <LogoMark className="h-9 w-9 md:h-10 md:w-10" />
             <span className="font-display text-xl font-extrabold tracking-tight text-foreground md:text-2xl">
-              Heco
+              Zimidi
             </span> */}
             <img src="/zimidi-logo.png" alt="Zimidi" className="h-16 w-auto object-contain" />
           </Link>

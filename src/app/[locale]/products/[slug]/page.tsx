@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
         .filter((item) => item !== typedLocale)
         .map((item) => OG_LOCALES[item]),
       url,
-      siteName: "Heco",
+      siteName: "Zimidi",
       title,
       description,
       images: [

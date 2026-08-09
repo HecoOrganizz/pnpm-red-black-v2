@@ -83,7 +83,7 @@ export function FAQ() {
             </p>
           </div>
           <a
-            href="mailto:support@heco.app"
+            href="mailto:support@zimidi.app"
             className="inline-flex h-11 items-center justify-center rounded-xl bg-primary px-5 text-sm font-semibold text-primary-foreground shadow-soft transition-all hover:bg-[#CF002B]"
           >
             {t("contactButton")}
