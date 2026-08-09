@@ -18,7 +18,7 @@ export function TrustStrip() {
   return (
     <section
       aria-label={t("label")}
-      className="border-y border-border bg-background py-10"
+      className="border-y border-border bg-background mt-10 py-5"
     >
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <p className="mb-6 text-center text-xs font-semibold uppercase tracking-widest text-muted-foreground">

@@ -16,7 +16,7 @@ export function Products() {
     <section
       id="products"
       aria-labelledby="products-heading"
-      className="relative scroll-mt-20 bg-background py-20 sm:py-28"
+      className="relative scroll-mt-20 bg-background py-10 sm:py-28 border-y mt-10"
     >
       <div className="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
@@ -24,7 +24,7 @@ export function Products() {
             variant="secondary"
             className="mb-4 gap-1.5 rounded-full border-primary/20 bg-primary/5 px-3 py-1 text-xs font-medium text-primary"
           >
-            <Sparkles className="h-3 w-3" />
+            {/* <Sparkles className="h-3 w-3" /> */}
             {t("badge")}
           </Badge>
           <h2

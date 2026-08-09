@@ -21,7 +21,7 @@ export default async function Home({ params }: Params) {
       <Header />
       <main id="main" className="flex-grow overflow-x-hidden">
         <Hero />
-        <TrustStrip />
+        {/* <TrustStrip /> */}
         <Products />
         <Features />
         <Reviews />

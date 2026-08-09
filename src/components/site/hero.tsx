@@ -14,7 +14,7 @@ import {
 import { Button } from "@/components/ui/button";
 
 const STATS = [
-  { value: "25M+", key: "downloads" },
+  { value: "15K+", key: "downloads" },
   { value: "4.8/5", key: "rating" },
   { value: "180+", key: "countries" },
   { value: "99.9%", key: "uptime" },
@@ -39,14 +39,14 @@ export function Hero() {
             transition={{ duration: 0.6, ease: "easeOut" }}
             className="flex flex-col items-start text-left"
           >
-            <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-3 py-1.5 text-xs font-medium text-primary">
+            {/* <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-3 py-1.5 text-xs font-medium text-primary">
               <span className="relative flex h-2 w-2">
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-60" />
                 <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
               </span>
-              <Sparkles className="h-3.5 w-3.5" aria-hidden="true" />
+
               <span>{t("badge")}</span>
-            </div>
+            </div> */}
 
             <h1
               id="hero-heading"
@@ -73,10 +73,10 @@ export function Hero() {
                 <ShieldCheck className="h-4 w-4 text-primary" aria-hidden="true" />
                 {t("trust.noAds")}
               </span>
-              <span className="inline-flex items-center gap-1.5">
+              {/* <span className="inline-flex items-center gap-1.5">
                 <Star className="h-4 w-4 text-primary" aria-hidden="true" />
                 {t("trust.users")}
-              </span>
+              </span> */}
             </div>
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
@@ -114,6 +114,7 @@ export function Hero() {
                 </div>
               ))}
             </dl>
+
           </motion.div>
 
           <motion.div
