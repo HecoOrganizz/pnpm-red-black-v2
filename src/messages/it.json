@@ -86,7 +86,7 @@
         "name": "Zidimi Privacy",
         "tagline": "Protezione della privacy",
         "description": "Cancella la cronologia di navigazione, blocca i tracker, crittografa i file personali e previeni lo spyware. I tuoi dati, sotto il tuo controllo.",
-          "cleaner": "Zidimi Cleaner aiuta a rimuovere file non necessari ed eseguire operazioni di manutenzione di base per migliorare la reattività del sistema. Può cercare file temporanei e cache del browser, gestire gli elementi di avvio e programmare manutenzioni periodiche; i risultati variano in base al sistema.",
+        "features": [
           "Blocca tracker e cookie",
           "Crittografia file AES-256",
           "Cancellazione permanente sicura"

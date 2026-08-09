@@ -86,7 +86,7 @@
         "name": "Zidimi Privacy",
         "tagline": "Protection de la vie privée",
         "description": "Effacez l'historique de navigation, bloquez les traqueurs, chiffrez vos fichiers personnels et prévenez les logiciels espions. Vos données, votre contrôle.",
-          "cleaner": "Zidimi Cleaner aide à supprimer les fichiers inutiles et à effectuer des opérations de maintenance de base pour améliorer la réactivité du système. Il peut analyser les fichiers temporaires et le cache du navigateur, gérer les éléments de démarrage et planifier des maintenances régulières ; les résultats varient selon le système.",
+        "features": [
           "Blocage des traqueurs et cookies",
           "Chiffrement de fichiers AES-256",
           "Suppression permanente sécurisée"
